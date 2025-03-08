@@ -5,18 +5,20 @@
 		"uniqueTo": "The City",
 
 		"unique": ["Unsellable",
+			   "Connects trade routes over water",
 			   "Never destroyed when the city is captured",
 			   "Remove extra unhappiness from annexed cities",
 			   "Triggers a global alert upon completion"],
 
 		"cityStrenght": 100,
 		"cityHealth": 1000,
-		
-		"happiness": 5,
-		"culture": 5,
-		"science": 5,
-		"faith": 5,
-		"gold": 5,
+
+		"production": 50,
+		"happiness": 50,
+		"culture": 50,
+		"science": 50,
+		"faith": 50,
+		"gold": 50,
 
 		"cost": 100,
 
