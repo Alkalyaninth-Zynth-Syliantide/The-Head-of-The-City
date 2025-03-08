@@ -11,7 +11,7 @@
 			   "Triggers a global alert upon completion",
 		           "[+5 Culture, +5 Food, +5 Science, +5 Faith, +5 Happiness, +5 Production] per [1] population [in all cities]",
 			   "[+5 Culture, +5 Food, +5 Science, +5 Faith, +5 Happiness, +5 Production] from all [all] buildings",
-			   "[+5 Culture, +5 Food, +5 Science, +5 Faith, +5 Happiness, +5 Production] from every [all]",],
+			   "[+5 Culture, +5 Food, +5 Science, +5 Faith, +5 Happiness, +5 Production] from every [all]"],
 
 		"cityStrenght": 100,
 		"cityHealth": 500,
