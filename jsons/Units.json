@@ -33,10 +33,6 @@
 			     "All healing effects doubled",
 			     "Unit will heal every turn, even if it performs an action",
 
-			     "Earn [100]% of the damage done to [all] units as [culture]",
-			     "Earn [100]% of the damage done to [all] units as [research]",
-			     "Earn [100]% of the damage done to [all] units as [happiness]",
-
 			     "Blast radius [1]",
 			
 		             "[+100]% Strength <starting from the [Classical era]>",
@@ -94,7 +90,6 @@
 		                              Withdraws before melee combat
 		                              Healing is Doubled
 		                              Can heal on every move & when outside friendly territory
-		                              100% of DMG dealt is earned as, Culture, Research. & Happiness
 		                              All ATKs have a Blast Radius of 1
 		                              Starting on Classical Era the following is earned on every consecutive eras:
 		                              - +1 Movement, Range, & Sight
