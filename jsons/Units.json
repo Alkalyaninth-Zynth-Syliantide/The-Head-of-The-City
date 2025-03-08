@@ -17,17 +17,18 @@
 			       "March",
 			       "Logistics"],
 		"uniques": [ "Uncapturable",
+			     "Unbuildable",
 			     "Never appears as a Barbarian unit",
+			
 			     "Eliminates combat penalty for attacking over a river",
 			     "Eliminates combat penalty for attacking across a coast",
-			
-		             "Limited to [1] per Civilization",
-			
-		             "Triggers a global alert upon completion",
 
-			     "[This Unit] heals [1] HP <upon losing at least [1] HP in a single attack>", 
-		             "[This Unit] heals [10] HP <upon losing at least [10] HP in a single attack>", 
-		             "[This Unit] heals [100] HP <upon losing at least [100] HP in a single attack>",
+			     "Can be purchased for [0] [Happiness] [in all cities]",
+		             "Limited to [1] per Civilization",
+
+			     "[This Unit] heals [1] HP <upon losing at least [1] HP in a single attack> <for [100] movement>", 
+		             "[This Unit] heals [10] HP <upon losing at least [10] HP in a single attack> <for [10] movement>", 
+		             "[This Unit] heals [100] HP <upon losing at least [100] HP in a single attack> <for [1] movement>",
 			
 		             "[+50]% Strength <starting from the [Classical era]>",
 		             "[+50]% Strength <starting from the [Medieval era]>", 
@@ -54,6 +55,8 @@
 		             "[1] Range <starting from the [Modern era]>",
 		             "[1] Range <starting from the [Atomic era]>",
 		             "[1] Range <starting from the [Information era]>",
-		             "[1] Range <starting from the [Future era]>"]
+		             "[1] Range <starting from the [Future era]>",
+		
+		             "Triggers a global alert upon completion"]
 	}
 ]
