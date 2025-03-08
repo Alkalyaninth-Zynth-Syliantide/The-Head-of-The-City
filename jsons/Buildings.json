@@ -8,17 +8,20 @@
 			   "Connects trade routes over water",
 			   "Never destroyed when the city is captured",
 			   "Remove extra unhappiness from annexed cities",
-			   "Triggers a global alert upon completion"],
+			   "Triggers a global alert upon completion",
+		           "[+5 Culture, +5 Food, +5 Science, +5 Faith, +5 Happiness, +5 Production] per [1] population [in all cities]",
+			   "[+5 Culture, +5 Food, +5 Science, +5 Faith, +5 Happiness, +5 Production] from all [all] buildings",
+			   "[+5 Culture, +5 Food, +5 Science, +5 Faith, +5 Happiness, +5 Production] from every [all]",],
 
 		"cityStrenght": 100,
-		"cityHealth": 1000,
+		"cityHealth": 500,
 
-		"production": 50,
-		"happiness": 50,
-		"culture": 50,
-		"science": 50,
-		"faith": 50,
-		"gold": 50,
+		"production": 10,
+		"happiness": 10,
+		"culture": 10,
+		"science": 10,
+		"faith": 10,
+		"gold": 10,
 
 		"cost": 100,
 
