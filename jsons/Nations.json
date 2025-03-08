@@ -5,11 +5,13 @@
 		"adjective": ["Human"],
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Domination",
+		"outerColor": [1,1,1],
+		"innerColor": [237,223,161],
 		
 		"startIntroPart1": "To know and manipulate all the secrets of the world; that is the privilege of the Head, the Eye, and the Claws. It is their honor and absolute power. No one dares to stand against them. As long as they exist, the tale of the Nest will never reach its close.",
 		"startIntroPart2": "This mod was brought to you by an avid Project Moon fan - Alkalyaninth Zynth Syliantide",
 		
-		"declaringWar": "Your Nation has already become a threat of the City. We couldn't stand by any longer",
+		"declaringWar": "Your nation has already become a threat of the City. We couldn't stand by any longer",
 		"attacked": "This is an ordeal to overcome, for you and for us.",
 		"defeated": "...",
 		"introduction": "You bear a poison, heavy and slow... yet deadly. I know you well, even though you know nothing about me.",
@@ -27,9 +29,12 @@
 		"afterPeace": "I only ask that you do not wage war on us again. The City cannot allot time for pointless quarrels...",
 		"tradeRequest": "This arrangement may indeed benefit us.",
 
-		"outerColor": [1,1,1],
-		"innerColor": [237,223,161],
-		"unique": ["[+10 Culture], [+10 Food], [+10 Science], [+10 Faith], [+10 Happiness], [in all cities]",
+		"uniqueName": "High Standards",
+		"uniques": ["[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness] per [1] population [in all cities]",
+			   "[+25]% of excess happiness converted to [Food]",
+			   "Starts with [Honor] adopted",
+		           "City-State Influence recovers at twice the normal rate"],
+		
 		"cities": ["Nest A","Nest B","Nest C","Nest D","Nest E","Nest F","Nest G","Nest H","Nest I","Nest J","Nest K","Nest L","Nest M","Nest N","Nest O","Nest P","Nest Q","Nest R","Nest S","Nest T","Nest U","Nest V","Nest W","Nest X","Nest Y"],
 	}
 ]
