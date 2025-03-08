@@ -86,20 +86,6 @@
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
 		
-		"replacementTextForUniques": "Cannot be captured & never appears as a Barbarian Unit
-		                              0 Penalties for Defensive Terrains, Wounded Units, & attacking over Defensive Terrains
-		                              Starts with ALL Promotions
-		                              Can Paradrop up to 10 tiles
-		                              Withdraws before melee combat
-		                              Healing is Doubled
-		                              Can heal on every move & when outside friendly territory
-		                              All ATKs have a Blast Radius of 1
-		                              Starting on Classical Era the following is earned on every consecutive eras:
-		                              - +1 Movement, Range, & Sight
-		                              - +100% + (last Era's bonus %) Strength
-		                              - +1 + (last Era's bonus) Addtional ATK
-		                              The World is notified upon & after construction of the Arbiter",
-		
 		"name": "The  E Y E  Beholder",
 		"unitType": "Scout",
 		"uniqueTo": "The City",
