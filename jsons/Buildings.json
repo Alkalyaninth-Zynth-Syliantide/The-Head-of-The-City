@@ -3,12 +3,24 @@
 		"name": "The City Walls",
 		"replaces": "Wall",
 		"uniqueTo": "The City",
-		"cost": 100,
+
+		"unique": ["Unsellable",
+			   "Never destroyed when the city is captured",
+			   "Remove extra unhappiness from annexed cities",
+			   "Triggers a global alert upon completion",],
+
+		"cityStrenght": 100,
+		"cityHealth": 1000,
+		
 		"happiness": 5,
 		"culture": 5,
 		"science": 5,
 		"faith": 5,
 		"gold": 5,
+
+		"cost": 100,
+
+		"isWonder": true,
 		"isNationalWonder": true,
 	}
 ]
