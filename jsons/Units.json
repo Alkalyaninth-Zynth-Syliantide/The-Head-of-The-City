@@ -17,7 +17,6 @@
 			       "March",
 			       "Logistics"],
 		"uniques": [ "Uncapturable",
-			     "Unbuildable",
 			     "Never appears as a Barbarian unit",
 			
 			     "Eliminates combat penalty for attacking over a river",
