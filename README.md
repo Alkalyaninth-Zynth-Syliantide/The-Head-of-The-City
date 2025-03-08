@@ -1,5 +1,3 @@
-# Unciv-mod-example
+# A Project Moon Civ
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+Allows the player to control "The City" as "The Head".
