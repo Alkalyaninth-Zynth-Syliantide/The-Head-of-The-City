@@ -7,7 +7,7 @@
 		"unique": ["Unsellable",
 			   "Never destroyed when the city is captured",
 			   "Remove extra unhappiness from annexed cities",
-			   "Triggers a global alert upon completion",],
+			   "Triggers a global alert upon completion"],
 
 		"cityStrenght": 100,
 		"cityHealth": 1000,
