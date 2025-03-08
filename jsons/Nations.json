@@ -1,38 +1,35 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "The City",
+		"leaderName": "The Head",
+		"adjective": ["Human"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "To know and manipulate all the secrets of the world; that is the privilege of the Head, the Eye, and the Claws. It is their honor and absolute power. No one dares to stand against them. As long as they exist, the tale of the Nest will never reach its close.",
+		"startIntroPart2": "This mod was brought to you by an avid Project Moon fan - Alkalyaninth Zynth Syliantide",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Your Nation has already become a threat of the City. We couldn't stand by any longer",
+		"attacked": "This is an ordeal to overcome, for you and for us.",
+		"defeated": "...",
+		"introduction": "You bear a poison, heavy and slow... yet deadly. I know you well, even though you know nothing about me.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "What brings you here?",
+		"neutralLetsHearIt": ["...","You may speak."],
+		"neutralNo": ["Halt, we will not proceed with your arrangment."],
+		"neutralYes": ["Very well..."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "...",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["..."],
+		"hateYes": ["For now, we shall kindly accept your request."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "I only ask that you do not wage war on us again. The City cannot allot time for pointless quarrels...",
+		"tradeRequest": "This arrangement may indeed benefit us.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [1,1,1],
+		"innerColor": [237,223,161],
+		"unique": ["[+10 Culture], [+10 Food], [+10 Science], [+10 Faith], [+10 Happiness], [in all cities]",
+		"cities": ["Nest A","Nest B","Nest C","Nest D","Nest E","Nest F","Nest G","Nest H","Nest I","Nest J","Nest K","Nest L","Nest M","Nest N","Nest O","Nest P","Nest Q","Nest R","Nest S","Nest T","Nest U","Nest V","Nest W","Nest X","Nest Y"]
 	}
 ]
