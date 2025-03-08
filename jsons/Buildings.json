@@ -1,7 +1,7 @@
 [
 	{
 		"name": "The City Walls",
-		"replaces": "Wall",
+		"replaces": "Walls",
 		"uniqueTo": "The City",
 
 		"unique": ["Unsellable",
