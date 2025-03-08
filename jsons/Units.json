@@ -85,11 +85,9 @@
 
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
-	}
 ]
 
 [
-	{
 		"name": "The  E Y E  Beholder",
 		"unitType": "Scout",
 		"uniqueTo": "The City",
@@ -136,11 +134,9 @@
 
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
-	}
 ]
 
 [
-	{
 		"name": "The  E X E C U T I O N E R  Claw",
 		"unitType": "Sword",
 		"uniqueTo": "The City",
