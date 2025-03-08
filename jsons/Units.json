@@ -96,7 +96,7 @@
 		"religiousStrength": 10,
 		"range": 47,
 		"cost": 1,
-		"promotions": ["Medic I","Medic II",
+		"promotions": ["Medic","Medic II",
 			       "Scouting I","Scouting II","Scouting III",
 			       "Survivalism I","Survivalism II","Survivalism III"],
 		"uniques": [ "Uncapturable",
