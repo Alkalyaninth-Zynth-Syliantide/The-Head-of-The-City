@@ -25,6 +25,9 @@
 			     "Eliminates combat penalty for attacking across a coast",
 
 			     "Can be purchased for [0] [Gold] [in all cities]",
+			     "Can move after attacking",
+			     "Can move immediately once bought",
+			     "Can see over obstacles",
 		             "Limited to [1] per Civilization",
 
 			     "May Paradrop up to [10] tiles from inside friendly territory",
