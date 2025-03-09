@@ -8,10 +8,10 @@
 		"outerColor": [1,1,1],
 		"innerColor": [237,210,121],
 		
-		"startIntroPart1": "To know and manipulate all the secrets of the world; that is the privilege of the Head, the Eye, and the Claws. It is their honor and absolute power. No one dares to stand against them. As long as they exist, the tale of the Nest will never reach its close.",
+		"startIntroPart1": "To know and manipulate all the secrets of the world; that is the privilege of the Head, the Eye, and the Claw. It is their honor and absolute power. No one dares to stand against them. As long as they exist, the tale of the Nest will never reach its close.",
 		"startIntroPart2": "This mod was brought to you by an avid Project Moon fan - Alkalyaninth Zynth Syliantide",
 		
-		"declaringWar": "Your nation has already become a threat of the City. We couldn't stand by any longer",
+		"declaringWar": "Your nation has already become a threat of the City. We could not stand by any longer",
 		"attacked": "This is an ordeal to overcome, for you and for us.",
 		"defeated": "...",
 		"introduction": "You bear a poison, heavy and slow... yet deadly. I know you well, even though you know nothing about me.",
@@ -33,9 +33,8 @@
 		"unique": ["[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] per [1] population [in all cities]",
 			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from all [all] buildings",
 			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from every [all]",
-			   "Starts with [Honor] adopted",
 		           "City-State Influence recovers at twice the normal rate"],
 		
-		"cities": ["Nest A","Nest B","Nest C","Nest D","Nest E","Nest F","Nest G","Nest H","Nest I","Nest J","Nest K","Nest L","Nest M","Nest N","Nest O","Nest P","Nest Q","Nest R","Nest S","Nest T","Nest U","Nest V","Nest W","Nest X","Nest Y"],
+		"cities": ["The City"],
 	}
 ]
