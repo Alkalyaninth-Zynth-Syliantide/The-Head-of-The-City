@@ -4,7 +4,7 @@
 		"unitType": "Archery",
 		"uniqueTo": "The City",
 		"replaces": "Archer",
-		"movement": 2,
+		"movement": 4,
 		"strength": 10,
 		"rangedStrength": 10,
 		"range": 2,
@@ -84,9 +84,9 @@
 	
 			     "[2] additional attacks per turn",
 		             
-		             "[3] Range <starting from the [Classical era]>",
-		             "[4] Range <starting from the [Industrial era]>",
-		             "[5] Range <starting from the [Information era]>",
+		             "[5] Range <starting from the [Classical era]>",
+		             "[6] Range <starting from the [Industrial era]>",
+		             "[7] Range <starting from the [Information era]>",
 
 			     "[2] Sight",
 			     "[3] Sight <starting from the [Classical era]>",
@@ -97,7 +97,7 @@
 		             "[4] Movement <starting from the [Industrial era]>",
 		             "[5] Movement <starting from the [Information era]>",
 
-			     "Blast radius [7]",
+			     "Blast radius [1]",
 
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
