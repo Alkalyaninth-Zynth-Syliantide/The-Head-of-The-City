@@ -5,7 +5,7 @@
 		"uniqueTo": "The City",
 		"replaces": "Archer",
 		"movement": 2,
-		"strength": 300,
+		"strength": 50,
 		"rangedStrength": 10,
 		"range": 1,
 		"cost": 1,
@@ -35,8 +35,10 @@
 			     "May heal outside of friendly territory",
 			     "All healing effects doubled",
 			     "Unit will heal every turn, even if it performs an action",
-
+			
 			     "Blast radius [2]",
+
+			     "[+100]% chance to intercept air attacks",
 			
 		             "[+50]% Strength <starting from the [Classical era]>",
 		             "[+100]% Strength <starting from the [Medieval era]>", 
@@ -57,13 +59,22 @@
 		             "[8] additional attacks per turn <starting from the [Future era]>",
 		
 		             "[1] Range <starting from the [Classical era]>",
-		             "[1] Range <starting from the [Medieval era]>", 
-		             "[1] Range <starting from the [Renaissance era]>", 
-		             "[1] Range <starting from the [Industrial era]>",
-		             "[1] Range <starting from the [Modern era]>",
-		             "[1] Range <starting from the [Atomic era]>",
-		             "[1] Range <starting from the [Information era]>",
-		             "[1] Range <starting from the [Future era]>",
+		             "[2] Range <starting from the [Medieval era]>", 
+		             "[3] Range <starting from the [Renaissance era]>", 
+		             "[4] Range <starting from the [Industrial era]>",
+		             "[5] Range <starting from the [Modern era]>",
+		             "[6] Range <starting from the [Atomic era]>",
+		             "[7] Range <starting from the [Information era]>",
+		             "[8] Range <starting from the [Future era]>",
+
+			     "[1] Air Interception Range <starting from the [Classical era]>",
+		             "[2] Air Interception Range <starting from the [Medieval era]>", 
+		             "[3] Air Interception Range <starting from the [Renaissance era]>", 
+		             "[4] Air Interception Range <starting from the [Industrial era]>",
+		             "[5] Air Interception Range <starting from the [Modern era]>",
+		             "[6] Air Interception Range <starting from the [Atomic era]>",
+		             "[7] Air Interception Range <starting from the [Information era]>",
+		             "[8] Air Interception Range <starting from the [Future era]>",
 
 			     "[1] Sight <starting from the [Classical era]>",
 		             "[1] Sight <starting from the [Medieval era]>", 
@@ -75,13 +86,13 @@
 		             "[1] Sight <starting from the [Future era]>",
 
 			     "[1] Movement <starting from the [Classical era]>",
-		             "[1] Movement <starting from the [Medieval era]>", 
-		             "[1] Movement <starting from the [Renaissance era]>", 
-		             "[1] Movement <starting from the [Industrial era]>",
-		             "[1] Movement <starting from the [Modern era]>",
-		             "[1] Movement <starting from the [Atomic era]>",
-		             "[1] Movement <starting from the [Information era]>",
-		             "[1] Movement <starting from the [Future era]>",
+		             "[2] Movement <starting from the [Medieval era]>", 
+		             "[3] Movement <starting from the [Renaissance era]>", 
+		             "[4] Movement <starting from the [Industrial era]>",
+		             "[5] Movement <starting from the [Modern era]>",
+		             "[6] Movement <starting from the [Atomic era]>",
+		             "[7] Movement <starting from the [Information era]>",
+		             "[8] Movement <starting from the [Future era]>",
 
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
@@ -94,13 +105,14 @@
 		"movement": 50,
 		"strength": 100,
 		"religiousStrength": 10,
-		"range": 47,
+		"range": 10,
 		"cost": 1,
 		"promotions": ["Medic","Medic II",
 			       "Scouting I","Scouting II","Scouting III",
 			       "Survivalism I","Survivalism II","Survivalism III"],
 		"uniques": [ "Uncapturable",
 			     "Never appears as a Barbarian unit",
+			     "Religious Unit",
 
 			     "No defensive terrain penalty",
 			     "No damage penalty for wounded units",
@@ -108,11 +120,14 @@
 			     "Eliminates combat penalty for attacking across a coast",
 
 			     "Can be purchased for [1] [Gold] [capital]",
+			     "Can pass through impassable tiles",
+			     "Can see invisible [all] units",
 			     "Can move after attacking",
 			     "Can move immediately once bought",
 			     "Can see over obstacles",
 		             "Limited to [1] per Civilization",
 
+			     "Invisible to non-adjacent units",
 			     "Withdraws before melee combat",
 			     "May heal outside of friendly territory",
 			     "All healing effects doubled",
@@ -129,7 +144,7 @@
 		             "[+100]% Strength <starting from the [Information era]>",
 		             "[+100]% Strength <starting from the [Future era]>",
 
-			     "[50] Sight",
+			     "[10] Sight",
 
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
@@ -139,8 +154,8 @@
 		"unitType": "Sword",
 		"uniqueTo": "The City",
 		"replaces": "Warrior",
-		"movement": 2,
-		"strength": 150,
+		"movement": 50,
+		"strength": 50,
 		"range": 50,
 		"cost": 1,
 		"promotions": ["Shock I","Shock II","Shock III",
@@ -166,7 +181,7 @@
 			     "Can be purchased for [1] [Gold] [capital]",
 			     "Can move after attacking",
 			     "Can move immediately once bought",
-			     "Can see over obstacles",
+			     "Can perform Air Sweep",
 		             "Limited to [1] per Civilization",
 
 			     "May Paradrop up to [50] tiles from inside friendly territory",
@@ -174,6 +189,7 @@
 			     "May heal outside of friendly territory",
 			     "All healing effects doubled",
 			     "Unit will heal every turn, even if it performs an action",
+			     "Must set up to ranged attack",
 			     "Ranged attacks may be performed over obstacles",
 			
 		             "[+100]% Strength <starting from the [Classical era]>",
@@ -185,8 +201,8 @@
 		             "[+700]% Strength <starting from the [Information era]>",
 		             "[+800]% Strength <starting from the [Future era]>", 
 		
-		             "[5] additional attacks per turn",
-
+		             "[1] additional attacks per turn <upon defeating a [all] unit>",
+			
 			     "[3] Sight",
 
 			     "[1] Movement <starting from the [Classical era]>",
