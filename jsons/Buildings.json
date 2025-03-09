@@ -57,7 +57,7 @@
 		
 		"cost": 0,
 
-		"isWonder": true,
+		"isWonder": false,
 		"isNationalWonder": false,
 	},
 	{
@@ -91,7 +91,7 @@
 	},
 	
 	{
-		"name": "Nest A",
+		"name": "Nest A, B, & C",
 		"requiredBuilding": "Wing's License",
 		
 		"uniqueTo": "The City",
@@ -101,257 +101,65 @@
                            "Religion naturally spreads to cities [10] tiles away",
 			   "[+10 Culture, +1 Happiness] per [1] population [in this city]",
 			   "[1] Unit Supply per [1] population [in this city]",
-			   "[1] Range <upon entering a new era>",
-		
-		           "Cost increases by [10] when built"],
+			   "[3] Range",
 
-		"cityStrength": 50,
-		"cityHealth": 20,
-
-		"production": 0,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 100,
-		"happiness": 0,
-		"faith": 0,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest B",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
-			   "[+1 Science, +1 Happiness] per [1] population [in this city]",
+			   "[+5 Science, +1 Happiness] per [1] population [in this city]",
 			   "[1] Sight <when attacking>",
 
 			   "Notified of new Barbarian encampments",
 			   "Enables Open Borders agreements",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 10,
-		"cityHealth": 10,
-
-		"production": 0,
-		"food": 0,
-		"gold": 0,
-		"science": 5,
-		"culture": 0,
-		"happiness": 0,
-		"faith": 0,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest C",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
 
 			   "[+10 Gold, +1 Happiness] per [1] population [in this city]",
 		
-		           "Cost increases by [10] when built"],
+		           "Cost increases by [30] when built"],
 
 		"cityStrength": 100,
-		"cityHealth": 30,
+		"cityHealth": 100,
 
-		"production": 0,
-		"food": 0,
-		"gold": 10,
+		"production": 25,
+		"food": 30,
+		"gold": 50,
 		"science": 5,
-		"culture": 0,
-		"happiness": 3,
-		"faith": 0,
+		"culture": 100,
+		"happiness": 10,
+		"faith": 75,
 		
 		"cost": 0,
 
-		"isWonder": true,
+		"isWonder": false,
 		"isNationalWonder": false,
 	},
 
         {
-		"name": "Nest D",
+		"name": "Nest D, E, F, G, H, & I",
 		"requiredBuilding": "Wing's License",
 		
 		"uniqueTo": "The City",
 		"unique": ["Destroyed when the city is captured",
 
-			   "[+1 Happiness] per [1] population [in this city]",
+			   "[+10 Culture, +10 Food, +10 Science, +10 Faith, +10 Happiness, +10 Production] per [1] population [in this city]",
 		
-		           "Cost increases by [10] when built"],
+		           "Cost increases by [60] when built"],
 
-		"cityStrength": 10,
-		"cityHealth": 10,
+		"cityStrength": 50,
+		"cityHealth": 50,
 
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
+		"production": 30,
+		"food": 30,
+		"gold": 100,
+		"science": 5,
+		"culture": 100,
+		"happiness": 10,
+		"faith": 50,
 		
 		"cost": 0,
 
-		"isWonder": true,
+		"isWonder": false,
 		"isNationalWonder": false,
 	},
 
 	{
-		"name": "Nest E",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
-			   "[+1 Happiness] per [1] population [in this city]",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 10,
-		"cityHealth": 10,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest F",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
-			   "[+1 Happiness] per [1] population [in this city]",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 15,
-		"cityHealth": 7,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest G",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
-			   "[+1 Happiness] per [1] population [in this city]",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 15,
-		"cityHealth": 15,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest H",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
-			   "[+1 Happiness] per [1] population [in this city]",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 10,
-		"cityHealth": 10,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest I",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
-			   "[+1 Happiness] per [1] population [in this city]",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 10,
-		"cityHealth": 10,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest J",
+		"name": "Nest J, K, L, M, & N",
 		"requiredBuilding": "Wing's License",
 		
 		"uniqueTo": "The City",
@@ -371,481 +179,154 @@
 			   "[+1000 happiness] <with [1]% chance>",
 			   "[+1000 faith] <with [1]% chance>",
 
-			   "[+1 Happiness] per [1] population [in this city]",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 10,
-		"cityHealth": 10,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest K",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
 			   "[+10 Food, +1 Happiness] per [1] population [in this city]",
-		
-		           "Cost increases by [10] when built"],
 
-		"cityStrength": 17,
-		"cityHealth": 17,
-
-		"production": 1,
-		"food": 10,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest L",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
-			   "[+10 Happiness, +1 science] per [1] population [in this city]",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 20,
-		"cityHealth": 20,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 5,
-		"culture": 1,
-		"happiness": 10,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest M",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
-			   "[+10 Happiness] per [1] population [in this city]",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 10,
-		"cityHealth": 15,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 5,
-		"happiness": 5,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest N",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
+			   "[+1 Happiness] per [1] population [in this city]",
 
 			   "[+10 faith, +1 happiness] per [1] population [in this city]",
 		
-		           "Cost increases by [10] when built"],
+		           "Cost increases by [50] when built"],
 
-		"cityStrength": 15,
-		"cityHealth": 10,
+		"cityStrength": 75,
+		"cityHealth": 75,
 
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 10,
+		"production": 75,
+		"food": 100,
+		"gold": 200,
+		"science": 30,
+		"culture": 50,
+		"happiness": 10,
+		"faith": 100,
 		
 		"cost": 0,
 
-		"isWonder": true,
+		"isWonder": false,
 		"isNationalWonder": false,
 	},
 
 	{
-		"name": "Nest O",
+		"name": "Nest O, P, & Q",
 		"requiredBuilding": "Wing's License",
 		
 		"uniqueTo": "The City",
 		"unique": ["Destroyed when the city is captured",
 
-			   "[+1 Happiness] per [1] population [in this city]",
+                           "[+5 Culture, +5 Food, +5 Science, +5 Faith, +5 Happiness, +5 Production] per [1] population [in this city]",
 		
-		           "Cost increases by [10] when built"],
+		           "Cost increases by [30] when built"],
 
-		"cityStrength": 10,
-		"cityHealth": 10,
+		"cityStrength": 30,
+		"cityHealth": 30,
 
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
+		"production": 25,
+		"food": 25,
+		"gold": 50,
+		"science": 3,
+		"culture": 20,
+		"happiness": 5,
+		"faith": 50,
 		
 		"cost": 0,
 
-		"isWonder": true,
+		"isWonder": false,
 		"isNationalWonder": false,
 	},
 
 	{
-		"name": "Nest P",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
-			   "[+1 Happiness] per [1] population [in this city]",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 10,
-		"cityHealth": 10,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest Q",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
-			   "[+1 Happiness] per [1] population [in this city]",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 10,
-		"cityHealth": 10,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest R",
+		"name": "Nest R, S, T, & U",
 		"requiredBuilding": "Wing's License",
 		
 		"uniqueTo": "The City",
 		"unique": ["Destroyed when the city is captured",
 
 			   "[+100]% Production when constructing [all] units [in this city]",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 27,
-		"cityHealth": 30,
-
-		"production": 2,
-		"food": 2,
-		"gold": 2,
-		"science": 2,
-		"culture": 2,
-		"happiness": 2,
-		"faith": 2,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest S",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
-			   "[+1 Happiness] per [1] population [in this city]",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 18,
-		"cityHealth": 9,
-
-		"production": 1,
-		"food": 3,
-		"gold": 3,
-		"science": 1,
-		"culture": 3,
-		"happiness": 1,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest T",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
-			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] <every [1] turns>",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 10,
-		"cityHealth": 10,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest U",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
+			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] <upon turn end>",
 			   "[+10 Production] per [1] population [in this city]",
 			   "[100]% Production when constructing [all] buildings [in this city]",
 		
-		           "Cost increases by [10] when built"],
+		           "Cost increases by [40] when built"],
 
-		"cityStrength": 10,
-		"cityHealth": 10,
+		"cityStrength": 70,
+		"cityHealth": 70,
 
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
+		"production": 75,
+		"food": 50,
+		"gold": 25,
+		"science": 15,
+		"culture": 30,
+		"happiness": 15,
+		"faith": 30,
 		
 		"cost": 0,
 
-		"isWonder": true,
+		"isWonder": false,
 		"isNationalWonder": false,
 	},
 
 	{
-		"name": "Nest V",
+		"name": "Nest V, W, X, & Y",
 		"requiredBuilding": "Wing's License",
 		
 		"uniqueTo": "The City",
 		"unique": ["Destroyed when the city is captured",
 
-			   "[+1 Happiness] per [1] population [in this city]",
+			   "[+10 Happiness] per [1] population [in this city]",
+
+			   "[50%] [production, food, gold, science, culture, happiness, faith] [in all cities] <starting from the [Classical era]>",
+		           "[100%] [production, food, gold, science, culture, happiness, faith] [in all cities] <starting from the [Medieval era]>", 
+		           "[150%] [production, food, gold, science, culture, happiness, faith] [in all cities] <starting from the [Renaissance era]>", 
+		           "[200%] [production, food, gold, science, culture, happiness, faith] [in all cities] <starting from the [Industrial era]>",
+		           "[250%] [production, food, gold, science, culture, happiness, faith] [in all cities] <starting from the [Modern era]>",
+		           "[300%] [production, food, gold, science, culture, happiness, faith] [in all cities] <starting from the [Atomic era]>",
+		           "[350%] [production, food, gold, science, culture, happiness, faith] [in all cities] <starting from the [Information era]>",
+		           "[400%] [production, food, gold, science, culture, happiness, faith] [in all cities] <starting from the [Future era]>",
 		
-		           "Cost increases by [10] when built"],
+		           "Cost increases by [40] when built"],
 
-		"cityStrength": 10,
-		"cityHealth": 10,
+		"cityStrength": 30,
+		"cityHealth": 30,
 
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest W",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
-			   "Improves movement speed on roads",
-			   "[+1 Happiness] per [1] population [in this city]",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 13,
-		"cityHealth": 16,
-
-		"production": 15,
-		"food": 5,
-		"gold": 5,
-		"science": 3,
-		"culture": 1,
-		"happiness": 7,
-		"faith": 1,
+		"production": 50,
+		"food": 50,
+		"gold": 75,
+		"science": 5,
+		"culture": 50,
+		"happiness": 5,
+		"faith": 20,
 		
 		"cost": 0,
 
-		"isWonder": true,
+		"isWonder": false,
 		"isNationalWonder": false,
 	},
 
-	{
-		"name": "Nest X",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
-			   "[+1 Happiness] per [1] population [in this city]",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 10,
-		"cityHealth": 50,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-
-	{
-		"name": "Nest Y",
-		"requiredBuilding": "Wing's License",
-		
-		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
-
-			   "[50%] Yield from every [all] <starting from the [Classical era]>",
-		           "[100%] Yield from every [all] <starting from the [Medieval era]>", 
-		           "[150%] Yield from every [all] <starting from the [Renaissance era]>", 
-		           "[200%] Yield from every [all] <starting from the [Industrial era]>",
-		           "[250%] Yield from every [all] <starting from the [Modern era]>",
-		           "[300%] Yield from every [all] <starting from the [Atomic era]>",
-		           "[350%] Yield from every [all] <starting from the [Information era]>",
-		           "[400%] Yield from every [all] <starting from the [Future era]>",
-		
-		           "Cost increases by [10] when built"],
-
-		"cityStrength": 10,
-		"cityHealth": 10,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": true,
-		"isNationalWonder": false,
-	},
-	
 	{
 		"name": "Hana Association",
-		"requiredBuilding": "The Head",
+		"requiredBuilding": "Nest A, B, & C",
 		
 		"uniqueTo": "The City",
 		"unique": ["Unsellable",
 		           "Destroyed when the city is captured",
 
 		           "[+20]% [production]",
-		           "Gifts of Gold to City-States generate [+100]% more Influence <when at war>"],
+		           "Gifts of Gold to City-States generate [+100]% more Influence <when at war>",
+		
+		           "Cost increases by [50] when built"],
 			   
 		"cityStrength": 7,
 		"cityHealth": 20,
 
-		"production": 0,
-		"food": 0,
-		"gold": 1,
-		"science": 0,
+		"production": 5,
+		"food": 3,
+		"gold": 10,
+		"science": 3,
 		"culture": 5,
-		"happiness": 0,
-		"faith": 0,
+		"happiness": 5,
+		"faith": 10,
 
-		"cost": 10,
+		"cost": 0,
 
-		"isWonder": true,
+		"isWonder": false,
 		"isNationalWonder": false,
 	}
 ]
