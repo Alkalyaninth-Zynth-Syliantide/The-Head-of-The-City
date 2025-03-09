@@ -3,7 +3,7 @@
 		"name": "The  H E A D  Arbiter",
 		"unitType": "Archery",
 		"uniqueTo": "The City",
-		"replaces": "Archer",
+		"replaces": "Atomic Bomb",
 		"movement": 2,
 		"strength": 50,
 		"rangedStrength": 10,
