@@ -12,7 +12,7 @@
 			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from every [all]",
 			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from [your] tiles [in all cities]",
                            "[100]% Golden Age length <in cities with at least [1] [unemployed]>",
-			   "[50]% growth [in this city] <in cities with at least [50] [population]>",",
+			   "[50]% growth [in this city] <in cities with at least [50] [population]>",
 			
 			   "Triggers a global alert upon construction",
 		           "Triggers a global alert upon completion",
