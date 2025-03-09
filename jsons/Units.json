@@ -28,6 +28,7 @@
 			     "Can move after attacking",
 			     "Can move immediately once bought",
 			     "Can see over obstacles",
+			     "Can perform Air Sweep",
 		             "Limited to [1] per Civilization",
 
 			     "May Paradrop up to [10] tiles from inside friendly territory",
