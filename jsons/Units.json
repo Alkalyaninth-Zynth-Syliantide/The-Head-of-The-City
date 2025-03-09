@@ -7,7 +7,7 @@
 		"movement": 4,
 		"strength": 10,
 		"rangedStrength": 10,
-		"range": 2,
+		"range": 3,
 		"cost": 1,
 		"promotions": ["Accuracy I","Accuracy II","Accuracy III",
 			       "Barrage I","Barrage II","Barrage III",
@@ -84,9 +84,8 @@
 	
 			     "[2] additional attacks per turn",
 		             
-		             "[5] Range <starting from the [Classical era]>",
-		             "[6] Range <starting from the [Industrial era]>",
-		             "[7] Range <starting from the [Information era]>",
+		             "[4] Range <starting from the [Medieval era]>",
+			     "[5] Range <starting from the [Modern era]>",
 
 			     "[2] Sight",
 			     "[3] Sight <starting from the [Classical era]>",
@@ -110,7 +109,7 @@
 		"movement": 5,
 		"strength": 30,
 		"religiousStrength": 10,
-		"range": 10,
+		"range": 5,
 		"cost": 1,
 		"promotions": ["Medic","Medic II",
 			       "Scouting I","Scouting II","Scouting III",
@@ -150,7 +149,7 @@
 		             "[+70]% Strength <starting from the [Information era]>",
 		             "[+80]% Strength <starting from the [Future era]>",
 
-			     "[5] Sight",
+			     "[3] Sight",
 
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
@@ -160,9 +159,9 @@
 		"unitType": "Sword",
 		"uniqueTo": "The City",
 		"replaces": "Warrior",
-		"movement": 7,
+		"movement": 5,
 		"strength": 30,
-		"range": 10,
+		"range": 5,
 		"cost": 1,
 		"promotions": ["Shock I","Shock II","Shock III",
 			       "Drill I","Drill II","Drill III",
