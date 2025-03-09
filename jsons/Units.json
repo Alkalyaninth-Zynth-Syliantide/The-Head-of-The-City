@@ -105,7 +105,7 @@
 
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
-	}
+	},
 	{
 		"name": "The  E Y E  Beholder",
 		"unitType": "Scout",
@@ -164,7 +164,7 @@
 
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
-	}
+	},
 	{
 		"name": "The  E X E C U T I O N E R  Claw",
 		"unitType": "Sword",
@@ -232,6 +232,62 @@
 		             "[1] Movement <starting from the [Atomic era]>",
 		             "[1] Movement <starting from the [Information era]>",
 		             "[1] Movement <starting from the [Future era]>",
+
+			     "Triggers a global alert upon build start",
+		             "Triggers a global alert upon completion"],
+	},
+	{
+	"name": "Head Arbiter Kent",
+		"unitType": "Sword",
+		"uniqueTo": "The City",
+		"replaces": "Skirmisher",
+		"movement": 1000000,
+		"strength": 1000000,
+		"range": 100,
+		"cost": 1,
+		"promotions": ["Shock I","Shock II","Shock III",
+			       "Drill I","Drill II","Drill III",
+			       "Besiege",
+		               "Formation I","Formation II",
+		               "Blitz",
+		               "Woodsman",
+		               "Amphibious",
+		               "Medic","Medic II",
+		               "Cover I","Cover II",
+		               "March",
+		               "Sentry",
+		               "Ambush I","Ambush II"],
+		"uniques": [ "Uncapturable",
+			     "Never appears as a Barbarian unit",
+
+			     "No defensive terrain penalty",
+			     "No damage penalty for wounded units",
+			     "Eliminates combat penalty for attacking over a river",
+			     "Eliminates combat penalty for attacking across a coast",
+
+			     "May heal outside of friendly territory",
+			     "May enter foreign tiles without open borders",
+			     "May Paradrop up to [100] tiles from inside friendly territory",
+			     "Can be purchased for [1] [Gold] [capital]",
+			     "Can move after attacking",
+			     "Can move immediately once bought",
+			     "Can see over obstacles",
+			     "Can perform Air Sweep",
+		             "Limited to [1] per Civilization",
+
+			     "Withdraws before melee combat",
+			     "All healing effects doubled",
+			     "Unit will heal every turn, even if it performs an action",
+
+			     "Nuclear weapon of Strength [100]",
+
+			     "[10] additional attacks per turn <upon damaging a [all] unit>",
+		
+			     "[100] Air Interception Range",
+
+			     "[3] Sight",
+		           
+			     "Blast radius [3]",
 
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
