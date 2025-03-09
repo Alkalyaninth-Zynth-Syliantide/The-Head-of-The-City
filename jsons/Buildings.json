@@ -119,7 +119,7 @@
 	
 	{
 		"name": "The Offices from Grades 1-9",
-		"requiredBuilding": "Color Fixers & The 12 Associations",
+		"requiredBuilding": "The Color Fixers, Syndicates, & 12 Associations",
 		
 		"uniqueTo": "The City",
 		"unique": ["Unsellable",
