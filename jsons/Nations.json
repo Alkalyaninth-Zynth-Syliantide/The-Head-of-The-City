@@ -30,9 +30,9 @@
 		"tradeRequest": "This arrangement may indeed benefit us.",
 
 		"uniqueName": "High Standards",
-		"unique": ["[+3 Culture, +3 Food, +3 Science, +3 Faith, +3 Happiness, +3 Production] per [1] population [in all cities]",
-			   "[+3 Culture, +3 Food, +3 Science, +3 Faith, +3 Happiness, +3 Production] from all [all] buildings",
-			   "[+3 Culture, +3 Food, +3 Science, +3 Faith, +3 Happiness, +3 Production] from every [all]",
+		"unique": ["[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] per [1] population [in all cities]",
+			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from all [all] buildings",
+			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from every [all]",
 			   "Starts with [Honor] adopted",
 		           "City-State Influence recovers at twice the normal rate"],
 		
