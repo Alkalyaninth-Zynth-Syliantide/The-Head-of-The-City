@@ -37,9 +37,9 @@
 			     "All healing effects doubled",
 			     "Unit will heal every turn, even if it performs an action",
 
-			     "Nuclear weapon of Strength [1] <starting from the [Ancient era]>",
-		             "Nuclear weapon of Strength [2] <starting from the [Industrial era]>",
-		             "Nuclear weapon of Strength [3] <starting from the [Future era]>", 
+			     "Nuclear weapon of Strength [3]",
+		             "Nuclear weapon of Strength [6] <starting from the [Industrial era]>",
+		             "Nuclear weapon of Strength [10] <starting from the [Future era]>", 
 			
 		             "[+200]% Strength <when defending>",
 
@@ -82,7 +82,7 @@
 			     "[+88]% Strength <when number of [Happiness] is more than [87]>",
 			     "[+104]% Strength <when number of [Happiness] is more than [103]>",
 	
-			     "[2] additional attacks per turn",
+			     "[1] additional attacks per turn",
 		             
 		             "[4] Range <starting from the [Medieval era]>",
 			     "[5] Range <starting from the [Modern era]>",
@@ -96,7 +96,7 @@
 		             "[4] Movement <starting from the [Industrial era]>",
 		             "[5] Movement <starting from the [Information era]>",
 
-			     "Blast radius [1]",
+			     "Blast radius [0]",
 
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
@@ -108,15 +108,14 @@
 		"replaces": "Scout",
 		"movement": 5,
 		"strength": 30,
-		"religiousStrength": 10,
-		"range": 5,
+		"rangedstrenght": 10,
+		"range": 10,
 		"cost": 1,
 		"promotions": ["Medic","Medic II",
 			       "Scouting I","Scouting II","Scouting III",
 			       "Survivalism I","Survivalism II","Survivalism III"],
 		"uniques": [ "Uncapturable",
 			     "Never appears as a Barbarian unit",
-			     "Religious Unit",
 
 			     "No defensive terrain penalty",
 			     "No damage penalty for wounded units",
@@ -149,7 +148,7 @@
 		             "[+70]% Strength <starting from the [Information era]>",
 		             "[+80]% Strength <starting from the [Future era]>",
 
-			     "[3] Sight",
+			     "[1] Sight",
 
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
@@ -160,7 +159,7 @@
 		"uniqueTo": "The City",
 		"replaces": "Warrior",
 		"movement": 5,
-		"strength": 30,
+		"strength": 10,
 		"range": 5,
 		"cost": 1,
 		"promotions": ["Shock I","Shock II","Shock III",
@@ -207,7 +206,7 @@
 		             "[+700]% Strength <starting from the [Information era]>",
 		             "[+800]% Strength <starting from the [Future era]>", 
 		
-		             "[1] additional attacks per turn <upon defeating a [all] unit>",
+		             "[1] additional attacks per turn <upon damaging a [all] unit>",
 			
 			     "[3] Sight",
 
