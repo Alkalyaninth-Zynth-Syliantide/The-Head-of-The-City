@@ -55,7 +55,7 @@
 		"faith": 1,
 		"gold": 1,
 
-		"cost": 300,
+		"cost": 10,
 
 		"isWonder": true,
 		"isNationalWonder": true,
