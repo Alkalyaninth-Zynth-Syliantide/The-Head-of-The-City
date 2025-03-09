@@ -44,7 +44,7 @@
 		
 		"uniqueTo": "The City",
 		"unique": ["Unsellable",
-			   "Connects trade routes over water",
+			   "Connects trade routes over water"],
 			   
 		"cityHealth": 100,
 
