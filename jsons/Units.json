@@ -242,8 +242,8 @@
 		"uniqueTo": "The City",
 		"replaces": "Knight",
 		"movement": 1000000,
-		"strength": 1000000,
-		"range": 100,
+		"strength": 100000000000000000000000000,
+		"range": 10000,
 		"cost": 1,
 		"promotions": ["Accuracy I","Accuracy II","Accuracy III",
 			       "Barrage I","Barrage II","Barrage III",
@@ -274,7 +274,7 @@
 			     "All healing effects doubled",
 			     "Unit will heal every turn, even if it performs an action",
 
-			     "Nuclear weapon of Strength [100]",
+			     "Nuclear weapon of Strength [1000000]",
 
 			     "[10] additional attacks per turn <upon damaging a [all] unit>",
 		
@@ -282,7 +282,7 @@
 
 			     "[100] Sight",
 		           
-			     "Blast radius [10]",
+			     "Blast radius [100]",
 
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
