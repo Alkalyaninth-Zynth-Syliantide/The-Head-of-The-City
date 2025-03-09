@@ -7,7 +7,7 @@
 		"movement": 2,
 		"strength": 50,
 		"rangedStrength": 10,
-		"range": 1,
+		"range": 2,
 		"cost": 1,
 		"promotions": ["Accuracy I","Accuracy II","Accuracy III",
 			       "Barrage I","Barrage II","Barrage III",
@@ -37,7 +37,7 @@
 			     "Unit will heal every turn, even if it performs an action",
 
 			     "Nuclear weapon of Strength [1]",
-			     "Blast radius [2]",
+			     "Blast radius [1]",
 
 			     "[+100]% chance to intercept air attacks",
 			
@@ -60,13 +60,13 @@
 		             "[8] additional attacks per turn <starting from the [Future era]>",
 		
 		             "[1] Range <starting from the [Classical era]>",
-		             "[2] Range <starting from the [Medieval era]>", 
-		             "[3] Range <starting from the [Renaissance era]>", 
-		             "[4] Range <starting from the [Industrial era]>",
-		             "[5] Range <starting from the [Modern era]>",
-		             "[6] Range <starting from the [Atomic era]>",
-		             "[7] Range <starting from the [Information era]>",
-		             "[8] Range <starting from the [Future era]>",
+		             "[1] Range <starting from the [Medieval era]>", 
+		             "[1] Range <starting from the [Renaissance era]>", 
+		             "[1] Range <starting from the [Industrial era]>",
+		             "[1] Range <starting from the [Modern era]>",
+		             "[1] Range <starting from the [Atomic era]>",
+		             "[1] Range <starting from the [Information era]>",
+		             "[1] Range <starting from the [Future era]>",
 
 			     "[1] Air Interception Range <starting from the [Classical era]>",
 		             "[2] Air Interception Range <starting from the [Medieval era]>", 
