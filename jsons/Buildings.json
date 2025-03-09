@@ -158,8 +158,8 @@
 
 		           "Cost increases by [150] when built"],
 			   
-		"cityStrength": 500,
-		"cityHealth": 500,
+		"cityStrength": 250,
+		"cityHealth": 250,
 
 		"production": 1,
 		"food": 1,
@@ -189,8 +189,8 @@
 		           "[+5 Culture, +5 Food, +5 Science, +5 Faith, +5 Happiness, +5 Production] from [your] per [5] population [in this city]"],
 
 			   
-		"cityStrength": 1,
-		"cityHealth": 1,
+		"cityStrength": 100,
+		"cityHealth": 100,
 
 		"production": 1,
 		"food": 1,
@@ -220,8 +220,8 @@
 		           "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from [your] per [1] population [in this city]"],
 
 			   
-		"cityStrength": 1,
-		"cityHealth": 1,
+		"cityStrength": 50,
+		"cityHealth": 50,
 
 		"production": 1,
 		"food": 1,
