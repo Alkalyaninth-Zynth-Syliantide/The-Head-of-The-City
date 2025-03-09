@@ -33,6 +33,7 @@
 		"isWonder": true,
 		"isNationalWonder": true,
 	},
+	
 	{
 		"name": "Wing's License",
 		"requiredBuilding": "The Head",
@@ -58,6 +59,7 @@
 		"isWonder": false,
 		"isNationalWonder": false,
 	},
+	
 	{
 		"name": "The 26 Wings & 5 Fingers",
 		"requiredBuilding": "Wing's License",
@@ -85,6 +87,7 @@
 		"isWonder": false,
 		"isNationalWonder": false,
 	},
+	
 	{
 		"name": "The Color Fixers, Syndicates, & 12 Associations",
 		"requiredBuilding": "The 26 Wings & 5 Fingers",
@@ -113,6 +116,7 @@
 		"isWonder": false,
 		"isNationalWonder": false,
 	},
+	
 	{
 		"name": "The Offices from Grades 1-9",
 		"requiredBuilding": "Color Fixers & The 12 Associations",
@@ -141,6 +145,7 @@
 		"isWonder": false,
 		"isNationalWonder": false,
 	},
+	
 	{
 		"name": "The Feathers of a Wing",
 		"requiredBuilding": "The Offices from Grades 1-9",
@@ -169,6 +174,7 @@
 		"isWonder": false,
 		"isNationalWonder": false,
 	},
+		
 	(
 		"name": "The Backstreets",
 		"requiredBuilding": "The Feathers of a Wing",
@@ -180,7 +186,7 @@
 			   "Automatically built in all cities where it is buildable",
 			   "Rebel units may spawn",
 		
-		           "[+5 Culture, +5 Food, +5 Science, +5 Faith, +5 Happiness, +5 Production] from [your] per [5] population [in this city]",
+		           "[+5 Culture, +5 Food, +5 Science, +5 Faith, +5 Happiness, +5 Production] from [your] per [5] population [in this city]"],
 
 			   
 		"cityStrength": 1,
@@ -199,6 +205,7 @@
 		"isWonder": false,
 		"isNationalWonder": false,
 	},
+	
 	{
 		"name": "The Rats of The Backstreets",
 		"requiredBuilding": "The Backstreets",
@@ -210,7 +217,7 @@
 			   "Automatically built in all cities where it is buildable",
 			   "Rebel units may spawn",
 		
-		           "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from [your] per [1] population [in this city]",
+		           "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from [your] per [1] population [in this city]"],
 
 			   
 		"cityStrength": 1,
