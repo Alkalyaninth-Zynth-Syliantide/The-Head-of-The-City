@@ -24,22 +24,20 @@
 			     "Eliminates combat penalty for attacking over a river",
 			     "Eliminates combat penalty for attacking across a coast",
 
+			     "May heal outside of friendly territory",
+			     "May enter foreign tiles without open borders",
+			     "May Paradrop up to [10] tiles from inside friendly territory",
 			     "Can be purchased for [1] [Gold] [capital]",
 			     "Can move after attacking",
 			     "Can move immediately once bought",
 			     "Can see over obstacles",
-			     "Can perform Air Sweep",
 		             "Limited to [1] per Civilization",
 
-			     "May Paradrop up to [10] tiles from inside friendly territory",
 			     "Withdraws before melee combat",
-			     "May heal outside of friendly territory",
 			     "All healing effects doubled",
 			     "Unit will heal every turn, even if it performs an action",
 
 			     "Nuclear weapon of Strength [1]",
-			
-			     "[+100]% chance to intercept air attacks",
 			
 		             "[+50]% Strength <starting from the [Classical era]>",
 		             "[+100]% Strength <starting from the [Medieval era]>", 
@@ -123,21 +121,28 @@
 			     "Eliminates combat penalty for attacking over a river",
 			     "Eliminates combat penalty for attacking across a coast",
 
+			     "May heal outside of friendly territory",
+                             "May enter foreign tiles without open borders",
+			     "May found a religion",
+                             "May enhance a religion",
 			     "Can be purchased for [1] [Gold] [capital]",
 			     "Can pass through impassable tiles",
 			     "Can see invisible [all] units",
 			     "Can move after attacking",
 			     "Can move immediately once bought",
 			     "Can see over obstacles",
+			     "Can Spread Religion",
+                             "Can remove other religions from cities",
 		             "Limited to [1] per Civilization",
 
 			     "Invisible to non-adjacent units",
 			     "Withdraws before melee combat",
-			     "May heal outside of friendly territory",
 			     "All healing effects doubled",
 			     "Unit will heal every turn, even if it performs an action",
 			     "Must set up to ranged attack",
 			     "Ranged attacks may be performed over obstacles",
+
+			     "[+100]% chance to intercept air attacks",
 			
 		             "[+100]% Strength <starting from the [Classical era]>",
 		             "[+100]% Strength <starting from the [Medieval era]>", 
@@ -175,6 +180,7 @@
 		               "Sentry",
 		               "Ambush I","Ambush II"],
 		"uniques": [ "Uncapturable",
+			     "Unable to capture cities",
 			     "Never appears as a Barbarian unit",
 
 			     "No defensive terrain penalty",
@@ -182,15 +188,17 @@
 			     "Eliminates combat penalty for attacking over a river",
 			     "Eliminates combat penalty for attacking across a coast",
 
+			     "May heal outside of friendly territory",
+			     "May Paradrop up to [50] tiles from inside friendly territory",
+			     "May enter foreign tiles without open borders",
 			     "Can be purchased for [1] [Gold] [capital]",
 			     "Can move after attacking",
 			     "Can move immediately once bought",
 			     "Can perform Air Sweep",
+			
 		             "Limited to [1] per Civilization",
-
-			     "May Paradrop up to [50] tiles from inside friendly territory",
+			
 			     "Withdraws before melee combat",
-			     "May heal outside of friendly territory",
 			     "All healing effects doubled",
 			     "Unit will heal every turn, even if it performs an action",
 			     "Must set up to ranged attack",
