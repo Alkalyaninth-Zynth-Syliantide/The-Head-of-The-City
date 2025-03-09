@@ -235,56 +235,5 @@
 
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
-	},
-	{
-	"name": "Head Arbiter Kent",
-		"unitType": "Archery",
-		"uniqueTo": "The City",
-		"replaces": "Knight",
-		"movement": 1000000,
-		"strength": 100000000000000000000000000,
-		"range": 10000,
-		"cost": 1,
-		"promotions": ["Accuracy I","Accuracy II","Accuracy III",
-			       "Barrage I","Barrage II","Barrage III",
-			       "Extended Range",
-			       "Indirect Fire",
-			       "Cover I","Cover II",
-			       "March",
-			       "Logistics"],
-		"uniques": [ "Uncapturable",
-			     "Never appears as a Barbarian unit",
-
-			     "No defensive terrain penalty",
-			     "No damage penalty for wounded units",
-			     "Eliminates combat penalty for attacking over a river",
-			     "Eliminates combat penalty for attacking across a coast",
-
-			     "May heal outside of friendly territory",
-			     "May enter foreign tiles without open borders",
-			     "May Paradrop up to [100] tiles from inside friendly territory",
-			     "Can be purchased for [1] [Gold] [capital]",
-			     "Can move after attacking",
-			     "Can move immediately once bought",
-			     "Can see over obstacles",
-			     "Can perform Air Sweep",
-		             "Limited to [1] per Civilization",
-
-			     "Withdraws before melee combat",
-			     "All healing effects doubled",
-			     "Unit will heal every turn, even if it performs an action",
-
-			     "Nuclear weapon of Strength [1000000]",
-
-			     "[10] additional attacks per turn <upon damaging a [all] unit>",
-		
-			     "[100] Air Interception Range",
-
-			     "[100] Sight",
-		           
-			     "Blast radius [100]",
-
-			     "Triggers a global alert upon build start",
-		             "Triggers a global alert upon completion"],
 	}
 ]
