@@ -11,7 +11,9 @@
 			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from all [all] buildings",
 			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from every [all]",
 			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from [your] tiles [in all cities]",
-
+                           "[100]% Golden Age length <in cities with at least [1] [unemployed]>",
+			   "[50]% growth [in this city] <in cities with at least [50] [population]>",",
+			
 			   "Triggers a global alert upon construction",
 		           "Triggers a global alert upon completion",
 		
@@ -68,11 +70,12 @@
 		"unique": ["Destroyed when the city is captured",
 
 			   "[+100 Culture, +100 Food, +100 Science, +100 Faith, +100 Happiness, +100 Production] per [100] population [in this city]",
-
+                           "Gifts of Gold to City-States generate [+1]% more Influence <when at war>",
+			
 		           "Cost increases by [250] when built"],
 
-		"cityStrength": 1000,
-		"cityHealth": 1000,
+		"cityStrength": 10,
+		"cityHealth": 30,
 
 		"production": 1,
 		"food": 1,
@@ -97,11 +100,12 @@
 		           "Destroyed when the city is captured",
 
 			   "[+50 Culture, +50 Food, +50 Science, +50 Faith, +50 Happiness, +50 Production] per [50] population [in this city]",
-
+                           "Gifts of Gold to City-States generate [+5]% more Influence <when at war>",
+			
 		           "Cost increases by [200] when built"],
 			   
-		"cityStrength": 750,
-		"cityHealth": 750,
+		"cityStrength": 7,
+		"cityHealth": 25,
 
 		"production": 1,
 		"food": 1,
@@ -126,11 +130,12 @@
 		           "Destroyed when the city is captured",
 
 			   "[+25 Culture, +25 Food, +25 Science, +25 Faith, +25 Happiness, +25 Production] per [25] population [in this city]",
-
+                           "Gifts of Gold to City-States generate [+10]% more Influence <when at war>",
+			
 		           "Cost increases by [150] when built"],
 			   
-		"cityStrength": 500,
-		"cityHealth": 500,
+		"cityStrength": 5,
+		"cityHealth": 10,
 
 		"production": 1,
 		"food": 1,
@@ -155,11 +160,12 @@
 		           "Destroyed when the city is captured",
 
 			   "[+10 Culture, +10 Food, +10 Science, +10 Faith, +10 Happiness, +10 Production] per [10] population [in this city]",
-
+                           "Gifts of Gold to City-States generate [+25]% more Influence <when at war>",
+			
 		           "Cost increases by [150] when built"],
 			   
-		"cityStrength": 250,
-		"cityHealth": 250,
+		"cityStrength": 3,
+		"cityHealth": 7,
 
 		"production": 1,
 		"food": 1,
@@ -184,13 +190,14 @@
 			   "Destroyed when the city is captured",
 
 			   "Automatically built in all cities where it is buildable",
-			   "Rebel units may spawn",
+			   "Rebel units may spawn <with [50]% chance> <every [1] turns>",
 		
-		           "[+5 Culture, +5 Food, +5 Science, +5 Faith, +5 Happiness, +5 Production] from [your] per [5] population [in this city]"],
+		           "[+5 Culture, +5 Food, +5 Science, +5 Faith, +5 Happiness, +5 Production] per [5] population [in this city]",
+		           "Gifts of Gold to City-States generate [+50]% more Influence <when at war>"],
 
 			   
-		"cityStrength": 100,
-		"cityHealth": 100,
+		"cityStrength": 2,
+		"cityHealth": 5,
 
 		"production": 1,
 		"food": 1,
@@ -215,13 +222,14 @@
 			   "Destroyed when the city is captured",
 
 			   "Automatically built in all cities where it is buildable",
-			   "Rebel units may spawn",
+			   "Rebel units may spawn <with [25]% chance> <every [1] turns>",
 		
-		           "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from [your] per [1] population [in this city]"],
+		           "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] per [1] population [in this city]",
+		           "Gifts of Gold to City-States generate [+100]% more Influence <when at war>"],
 
 			   
-		"cityStrength": 50,
-		"cityHealth": 50,
+		"cityStrength": 1,
+		"cityHealth": 3,
 
 		"production": 1,
 		"food": 1,
