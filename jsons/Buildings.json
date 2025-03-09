@@ -1,19 +1,51 @@
 [
 	{
-		"name": "The City Walls",
-		"replaces": "Walls",
+	        "name": "The Head",
+		"replaces": "Temple of Artemis",
+		
 		"uniqueTo": "The City",
-
 		"unique": ["Unsellable",
-			   "Connects trade routes over water",
-			   "Never destroyed when the city is captured",
 			   "Remove extra unhappiness from annexed cities",
-			   "Triggers a global alert upon completion",
+			
 		           "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] per [1] population [in all cities]",
 			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from all [all] buildings",
-			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from every [all]"],
+			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from every [all]",
+			
+		           "[50%] Yield from every [all] <starting from the [Classical era]>",
+		           "[100%] Yield from every [all] <starting from the [Medieval era]>", 
+		           "[150%] Yield from every [all] <starting from the [Renaissance era]>", 
+		           "[200%] Yield from every [all] <starting from the [Industrial era]>",
+		           "[250%] Yield from every [all] <starting from the [Modern era]>",
+		           "[300%] Yield from every [all] <starting from the [Atomic era]>",
+		           "[350%] Yield from every [all] <starting from the [Information era]>",
+		           "[400%] Yield from every [all] <starting from the [Future era]>",
 
-		"cityStrenght": 50,
+			   "Triggers a global alert upon construction",
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 100,
+		
+		"production": 1,
+		"happiness": 1,
+		"culture": 1,
+		"science": 1,
+		"faith": 1,
+		"gold": 1,
+
+		"cost": 0,
+
+		"isWonder": true,
+		"isNationalWonder": true,
+	},
+	{
+		"name": "The City Walls",
+		"replaces": "Walls",
+		"requiredBuilding": "The Head",
+		
+		"uniqueTo": "The City",
+		"unique": ["Unsellable",
+			   "Connects trade routes over water",
+			   
 		"cityHealth": 100,
 
 		"production": 1,
@@ -23,7 +55,7 @@
 		"faith": 1,
 		"gold": 1,
 
-		"cost": 1,
+		"cost": 300,
 
 		"isWonder": true,
 		"isNationalWonder": true,
