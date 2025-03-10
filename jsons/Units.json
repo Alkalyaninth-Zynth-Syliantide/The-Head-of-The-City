@@ -33,7 +33,6 @@
 			
 			     "[+100]% Strength <when defending>",
 			     "[+10000]% Strength <when defending> <with [10]% chance>",
-			     "[+1]% Strength <for every [All]>",
 
 			     "[+10]% Strength <starting from the [Classical era]>",
 		             "[+20]% Strength <starting from the [Medieval era]>", 
@@ -49,7 +48,7 @@
 	
 			     "Blast radius [0]",
 
-			     "[1] additional attacks per turn <with [10]% chance> <for every [All]>",
+			     "[1] additional attacks per turn <with [10]% chance>",
 			     "[1] additional attacks per turn <with [10]% chance> <upon entering a [all] tile>",
 			     "[1] additional attacks per turn <with [50]% chance> <upon damaging a [all] unit>",
 			     "[1] additional attacks per turn <with [75]% chance> <upon defeating a [all] unit>",
@@ -126,8 +125,6 @@
 		             "[6] Sight <starting from the [Information era]>",
 			     "[7] Sight <starting from the [Information era]>",
 
-			     "[+1]% Strength <for every [All]>",
-			
 		             "[+10]% Strength <starting from the [Classical era]>",
 		             "[+10]% Strength <starting from the [Medieval era]>", 
 		             "[+10]% Strength <starting from the [Renaissance era]>", 
@@ -182,7 +179,6 @@
 
 			     "[+100]% Strength <when defending>",
 			     "[+10000]% Strength <when defending> <with [10]% chance>",
-			     "[+1]% Strength <for every [All]>",
 			
 		             "[+10]% Strength <starting from the [Classical era]>",
 		             "[+20]% Strength <starting from the [Medieval era]>", 
