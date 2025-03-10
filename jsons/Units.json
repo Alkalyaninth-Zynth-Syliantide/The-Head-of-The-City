@@ -43,15 +43,15 @@
 		             "[+70]% Strength <starting from the [Information era]>",
 		             "[+80]% Strength <starting from the [Future era]>", 
 
-			     "Nuclear weapon of Strength [1] <upon damaging a [all] unit> <with [10]% chance>",
-			     "Nuclear weapon of Strength [1] <upon defeating a [all] unit> <with [33]% chance>",
+			     "Nuclear weapon of Strength [1] <vs cities>",
 	
-			     "Blast radius [0]",
+			     "Blast radius [3]",
 
+			     "[1] additional attacks per turn <with [5]% chance>",
 			     "[1] additional attacks per turn <with [10]% chance>",
-			     "[1] additional attacks per turn <with [10]% chance> <upon entering a [all] tile>",
-			     "[1] additional attacks per turn <with [50]% chance> <upon damaging a [all] unit>",
-			     "[1] additional attacks per turn <with [75]% chance> <upon defeating a [all] unit>",
+			     "[1] additional attacks per turn <with [15]% chance>",
+			     "[1] additional attacks per turn <with [20]% chance>",
+			     "[1] additional attacks per turn <with [25]% chance>",
 		             
 		             "[4] Range <starting from the [Medieval era]>",
 			     "[5] Range <starting from the [Modern era]>",
