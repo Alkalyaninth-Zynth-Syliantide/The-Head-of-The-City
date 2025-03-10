@@ -7,7 +7,7 @@
 		"movement": 4,
 		"strength": 10,
 		"rangedStrength": 10,
-		"range": 3,
+		"range": 7,
 		"cost": 1,
 		"uniques": [ "Uncapturable",
 			     "Never appears as a Barbarian unit",
@@ -52,9 +52,10 @@
 			     "[1] additional attacks per turn <with [15]% chance>",
 			     "[1] additional attacks per turn <with [20]% chance>",
 			     "[1] additional attacks per turn <with [25]% chance>",
-		             
-		             "[4] Range <starting from the [Medieval era]>",
-			     "[5] Range <starting from the [Modern era]>",
+
+			     "[5] Range <vs cities>",
+		             "[9] Range <starting from the [Medieval era]>",
+			     "[10] Range <starting from the [Modern era]>",
 
 			     "[2] Sight",
 			     "[3] Sight <starting from the [Classical era]>",
