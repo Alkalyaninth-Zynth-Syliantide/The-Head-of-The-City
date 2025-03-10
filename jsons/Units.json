@@ -18,6 +18,11 @@
 			     "Eliminates combat penalty for attacking across a coast",
 
 			     "May heal outside of friendly territory",
+			     "May Paradrop up to [10] tiles from inside friendly territory <starting from the [Industrial era]>",
+			     "May Paradrop up to [20] tiles from inside friendly territory <starting from the [Modern era]>",
+			     "May Paradrop up to [30] tiles from inside friendly territory <starting from the [Atomic era]>",
+		             "May Paradrop up to [40] tiles from inside friendly territory <starting from the [Information era]>",
+			     "May Paradrop up to [50] tiles from inside friendly territory <starting from the [Future era]>",
 			     "May enter foreign tiles without open borders",
 			     "Can be purchased for [1] [Gold] [capital]",
 			     "Can move after attacking",
@@ -26,7 +31,7 @@
 			     "Withdraws before melee combat",
 			     "Unit will heal every turn, even if it performs an action",
 			
-			     "[+50]% Strength <when defending>",
+			     "[+100]% Strength <when defending>",
 
 			     "[+10]% Strength <starting from the [Classical era]>",
 		             "[+20]% Strength <starting from the [Medieval era]>", 
@@ -37,13 +42,15 @@
 		             "[+70]% Strength <starting from the [Information era]>",
 		             "[+80]% Strength <starting from the [Future era]>", 
 
-			     "Nuclear weapon of Strength [1] <upon entering a [all] tile> <with [10]% chance>",
+			     "Nuclear weapon of Strength [1] <upon damaging a [all] unit> <with [10]% chance>",
+			     "Nuclear weapon of Strength [1] <upon defeating a [all] unit> <with [33]% chance>",
 	
 			     "Blast radius [0]",
-	
-			     "[1] additional attacks per turn <upon damaging a [all] unit> <with [33]% chance>",
-			     "[1] additional attacks per turn <upon damaging a [all] unit> <with [33]% chance>",
-			     "[1] additional attacks per turn <upon damaging a [all] unit> <with [33]% chance>",
+
+			     "[1] additional attacks per turn <with [10]% chance> <for every [all] buildings>",
+			     "[1] additional attacks per turn <with [10]% chance> <upon entering a [all] tile>",
+			     "[1] additional attacks per turn <with [50]% chance> <upon damaging a [all] unit>",
+			     "[1] additional attacks per turn <with [75]% chance> <upon defeating a [all] unit>",
 		             
 		             "[4] Range <starting from the [Medieval era]>",
 			     "[5] Range <starting from the [Modern era]>",
@@ -93,7 +100,6 @@
 		             "May Paradrop up to [40] tiles from inside friendly territory <starting from the [Information era]>",
 			     "May Paradrop up to [50] tiles from inside friendly territory <starting from the [Future era]>",
                              "May enter foreign tiles without open borders",
-
 			     "Can carry [1] [Arbiter of The Head] units",
 			     "Can carry [1] [Claw Armed Executioner] units",
 			     "Can see over obstacles",
@@ -152,8 +158,12 @@
 			     "Eliminates combat penalty for attacking across a coast",
 
 			     "May heal outside of friendly territory",
+			     "May Paradrop up to [10] tiles from inside friendly territory <starting from the [Industrial era]>",
+			     "May Paradrop up to [20] tiles from inside friendly territory <starting from the [Modern era]>",
+			     "May Paradrop up to [30] tiles from inside friendly territory <starting from the [Atomic era]>",
+		             "May Paradrop up to [40] tiles from inside friendly territory <starting from the [Information era]>",
+			     "May Paradrop up to [50] tiles from inside friendly territory <starting from the [Future era]>",
 			     "May enter foreign tiles without open borders",
-
 			     "Can be purchased for [1] [Gold] [capital]",
 			     "Can pass through impassable tiles",
 			     "Can perform Air Sweep",
@@ -166,7 +176,7 @@
 
 			     "[+90]% chance to intercept air attacks",
 
-			     "[+50]% Strength <when defending>",
+			     "[+100]% Strength <when defending>",
 			
 		             "[+10]% Strength <starting from the [Classical era]>",
 		             "[+20]% Strength <starting from the [Medieval era]>", 
