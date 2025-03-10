@@ -3,7 +3,7 @@
 		"name": "The City",
 		"leaderName": "The Head",
 		"adjective": ["Human"],
-		"startBias": ["Mountain"],
+		"startBias": ["Mountain","Jungle","River"],
 		"preferredVictoryType": "Domination",
 		"outerColor": [1,1,1],
 		"innerColor": [237,210,121],
