@@ -103,6 +103,8 @@
 			     "Can move after attacking",
 			     "Can move immediately once bought",
 
+			     "Reveals the entire map",
+
 			     "Invisible to non-adjacent units",
 			     "Unit will heal every turn, even if it performs an action",
 			     "Withdraws before melee combat",
