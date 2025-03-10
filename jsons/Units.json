@@ -24,7 +24,7 @@
 		             "May Paradrop up to [40] tiles from inside friendly territory <starting from the [Information era]>",
 			     "May Paradrop up to [50] tiles from inside friendly territory <starting from the [Future era]>",
 			     "May enter foreign tiles without open borders",
-			     "Can be purchased for [1] [Gold] [capital]",
+			     "Can be purchased for [1] [Gold] [in capital]",
 			     "Can move after attacking",
 			     "Can move immediately once bought",
 
@@ -33,7 +33,7 @@
 			
 			     "[+100]% Strength <when defending>",
 			     "[+10000]% Strength <when defending> <with [10]% chance>",
-			     "[+10]% Strength <for every [{building} {wonder} {national}]",
+			     "[+10]% Strength <for every [building]",
 
 			     "[+10]% Strength <starting from the [Classical era]>",
 		             "[+20]% Strength <starting from the [Medieval era]>", 
@@ -49,7 +49,7 @@
 	
 			     "Blast radius [0]",
 
-			     "[1] additional attacks per turn <with [10]% chance> <for every [{building} {wonder} {national}]>",
+			     "[1] additional attacks per turn <with [10]% chance> <for every [building]>",
 			     "[1] additional attacks per turn <with [10]% chance> <upon entering a [all] tile>",
 			     "[1] additional attacks per turn <with [50]% chance> <upon damaging a [all] unit>",
 			     "[1] additional attacks per turn <with [75]% chance> <upon defeating a [all] unit>",
@@ -107,7 +107,7 @@
 			     "Can see over obstacles",
 			     "Can pass through impassable tiles",
 			     "Can see invisible [all] units",
-			     "Can be purchased for [1] [Gold] [capital]",
+			     "Can be purchased for [1] [Gold] [in capital]",
 			     "Can move after attacking",
 			     "Can move immediately once bought",
 
@@ -126,7 +126,7 @@
 		             "[6] Sight <starting from the [Information era]>",
 			     "[7] Sight <starting from the [Information era]>",
 
-			     "[+10]% Strength <for every [{building} {wonder} {national}]",
+			     "[+10]% Strength <for every [building]",
 			
 		             "[+10]% Strength <starting from the [Classical era]>",
 		             "[+10]% Strength <starting from the [Medieval era]>", 
@@ -168,7 +168,7 @@
 		             "May Paradrop up to [40] tiles from inside friendly territory <starting from the [Information era]>",
 			     "May Paradrop up to [50] tiles from inside friendly territory <starting from the [Future era]>",
 			     "May enter foreign tiles without open borders",
-			     "Can be purchased for [1] [Gold] [capital]",
+			     "Can be purchased for [1] [Gold] [in capital]",
 			     "Can pass through impassable tiles",
 			     "Can perform Air Sweep",
 			     "Can move after attacking <when above [5] HP>",
@@ -182,7 +182,7 @@
 
 			     "[+100]% Strength <when defending>",
 			     "[+10000]% Strength <when defending> <with [10]% chance>",
-			     "[+10]% Strength <for every [{building} {wonder} {national}]",
+			     "[+10]% Strength <for every [building]",
 			
 		             "[+10]% Strength <starting from the [Classical era]>",
 		             "[+20]% Strength <starting from the [Medieval era]>", 
