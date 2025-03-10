@@ -28,10 +28,12 @@
 			     "Can move after attacking",
 			     "Can move immediately once bought",
 
-			     "Withdraws before melee combat",
+			     "Withdraws before melee combat <with [5]% chance>",
 			     "Unit will heal every turn, even if it performs an action",
 			
 			     "[+100]% Strength <when defending>",
+			     "[+10000]% Strength <when defending> <with [10]% chance>",
+			     "[+10]% Strength <for every [{building} {wonder} {national}]",
 
 			     "[+10]% Strength <starting from the [Classical era]>",
 		             "[+20]% Strength <starting from the [Medieval era]>", 
@@ -113,7 +115,7 @@
 
 			     "Invisible to non-adjacent units",
 			     "Unit will heal every turn, even if it performs an action",
-			     "Withdraws before melee combat",
+			     "Withdraws before melee combat <with [5]% chance>",
 			     "Ranged attacks may be performed over obstacles",
 			     "All healing effects doubled",
 
@@ -123,6 +125,8 @@
 		             "[5] Sight <starting from the [Modern era]>",
 		             "[6] Sight <starting from the [Information era]>",
 			     "[7] Sight <starting from the [Information era]>",
+
+			     "[+10]% Strength <for every [{building} {wonder} {national}]",
 			
 		             "[+10]% Strength <starting from the [Classical era]>",
 		             "[+10]% Strength <starting from the [Medieval era]>", 
@@ -170,13 +174,15 @@
 			     "Can move after attacking <when above [5] HP>",
 			     "Can move immediately once bought",
 			
-			     "Withdraws before melee combat",
+			     "Withdraws before melee combat <with [5]% chance>",
 
 			     "All healing effects doubled <upon losing at least [10] HP in a single attack>",
 
 			     "[+90]% chance to intercept air attacks",
 
 			     "[+100]% Strength <when defending>",
+			     "[+10000]% Strength <when defending> <with [10]% chance>",
+			     "[+10]% Strength <for every [{building} {wonder} {national}]",
 			
 		             "[+10]% Strength <starting from the [Classical era]>",
 		             "[+20]% Strength <starting from the [Medieval era]>", 
