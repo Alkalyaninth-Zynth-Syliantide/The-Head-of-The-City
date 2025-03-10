@@ -47,7 +47,7 @@
 	
 			     "Blast radius [0]",
 
-			     "[1] additional attacks per turn <with [10]% chance> <for every [all] buildings>",
+			     "[1] additional attacks per turn <with [10]% chance> <for every [{building} {wonder} {national}]>",
 			     "[1] additional attacks per turn <with [10]% chance> <upon entering a [all] tile>",
 			     "[1] additional attacks per turn <with [50]% chance> <upon damaging a [all] unit>",
 			     "[1] additional attacks per turn <with [75]% chance> <upon defeating a [all] unit>",
