@@ -120,9 +120,9 @@
 		             "[+10]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
 		             "[+10]% Strength <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", 
 			
-		             "[2] Sight <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
-		             "[3] Sight <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
-		             "[4] Sight <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", 
+		             "[1] Sight <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+		             "[1] Sight <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
+		             "[1] Sight <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", 
 
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
