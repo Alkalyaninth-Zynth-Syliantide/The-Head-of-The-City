@@ -5,6 +5,7 @@
 		"uniqueTo": "The City",
 		"unique": ["Only available <in cities with at least [3] [Population]>",
 			   "Unavailable <if [Official Founding of The Head] is constructed by anybody>",
+                           "Requires at least [3] population",
 			
 			   "[+1 Culture] per [5] population [in this city] <during a Golden Age>",
 			   "[+1 Culture] per [5] population [in this city] <during We Love The King Day>",
@@ -45,7 +46,8 @@
 		
 		"uniqueTo": "The City",
 		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities> <in cities with at least [1] [Population]>",
-
+                           "Requires at least [1] population",
+			
 			   "Unsellable",
 			   "Never destroyed when the city is captured",
 		
@@ -64,7 +66,7 @@
 
 		"cost": 10,
 
-		"isWonder": true,
+		"isWonder": false,
 		"isNationalWonder": false,
 	},
 	
@@ -74,7 +76,8 @@
 		
 		"uniqueTo": "The City",
 		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities> <in cities with at least [1] [Population]>",
-
+                           "Requires at least [1] population",
+			
 			   "Empire enters a [1]-turn Golden Age",
 			   "[1] population [in this city]",
 			   "[+5]% [Production]",
@@ -103,7 +106,7 @@
 
 		"cost": 10,
 
-		"isWonder": true,
+		"isWonder": false,
 		"isNationalWonder": false,
 	},
 	{
@@ -112,7 +115,8 @@
 		
 		"uniqueTo": "The City",
 		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities> <in cities with at least [2] [Population]>",
-
+                           "Requires at least [2] population",
+			
 			   "Empire enters a [2]-turn Golden Age",
 			   "[2] population [in this city]",
 			   "[+1]% [Production] from every [improved]",
@@ -141,7 +145,7 @@
 
 		"cost": 20,
 
-		"isWonder": true,
+		"isWonder": false,
 		"isNationalWonder": false,
 	},
 	{
@@ -150,7 +154,8 @@
 		
 		"uniqueTo": "The City",
 		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities> <in cities with at least [4] [Population]>",
-
+                           "Requires at least [4] population",
+			
 			   "Empire enters a [3]-turn Golden Age",
 			   "[3] population [in this city]",
 			   "[+1]% [Production] from every [Building]",
@@ -179,7 +184,7 @@
 
 		"cost": 40,
 
-		"isWonder": true,
+		"isWonder": false,
 		"isNationalWonder": false,
 	},
 	{
@@ -188,7 +193,8 @@
 		
 		"uniqueTo": "The City",
 		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities> <in cities with at least [7] [Population]>",
-
+                           "Requires at least [7] population",
+			
 			   "City-State Influence recovers at twice the normal rate",
 			   "Empire enters a [4]-turn Golden Age",
 			   "[4] population [in this city]",
@@ -223,7 +229,7 @@
 
 		"cost": 80,
 
-		"isWonder": true,
+		"isWonder": false,
 		"isNationalWonder": false,
 	},
 	{
@@ -232,7 +238,8 @@
 		
 		"uniqueTo": "The City",
 		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities> <in cities with at least [11] [Population]>",
-
+                           "Requires at least [11] population",
+			
 			   "Empire enters a [5]-turn Golden Age",
 			   "[5] population [in this city]",
 			   "[+5]% of excess happiness converted to [Production]",
@@ -261,7 +268,7 @@
 
 		"cost": 160,
 
-		"isWonder": true,
+		"isWonder": false,
 		"isNationalWonder": false,
 	},
 	{
@@ -270,7 +277,8 @@
 		
 		"uniqueTo": "The City",
 		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities> <in cities with at least [16] [Population]>",
-
+                           "Requires at least [16] population",
+			
 			   "City-State Influence recovers at twice the normal rate",
 			   "[relativeAmount]% Production towards any buildings that already exist in the Capital",
 			   "Empire enters a [6]-turn Golden Age",
@@ -300,7 +308,7 @@
 
 		"cost": 320,
 
-		"isWonder": true,
+		"isWonder": false,
 		"isNationalWonder": false,
 	},
 	{
@@ -309,7 +317,8 @@
 		
 		"uniqueTo": "The City",
 		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities> <in cities with at least [22] [Population]>",
-
+                           "Requires at least [22] population",
+			
 			   "City-State Influence recovers at twice the normal rate",
 			   "[relativeAmount]% Production towards any buildings that already exist in the Capital",
 			   "Empire enters a [7]-turn Golden Age",
@@ -340,7 +349,7 @@
 
 		"cost": 640,
 
-		"isWonder": true,
-		"isNationalWonder": true,
+		"isWonder": false,
+		"isNationalWonder": false,
 	},
 ]
