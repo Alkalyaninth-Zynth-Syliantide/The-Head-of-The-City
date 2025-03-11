@@ -3,7 +3,8 @@
 	        "name": "Official Founding of The Head",
 		
 		"uniqueTo": "The City",
-		"unique": ["Unavailable <if [Official Founding of The Head] is constructed by anybody> <in cities with [3] [Population]>",
+		"unique": ["Only available <in cities with [3] [Population]>",
+			   "Unavailable <if [Official Founding of The Head] is constructed by anybody>",
 			
 			   "[+1 Culture] per [5] population [in this city] <during a Golden Age>",
 			   "[+1 Culture] per [5] population [in this city] <during We Love The King Day>",
