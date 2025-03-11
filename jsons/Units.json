@@ -24,7 +24,7 @@
 			     "Can move after attacking",
 			     "Can move immediately once bought",
 
-			     "Unit will heal every turn, even if it performs an action <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",",
+			     "Unit will heal every turn, even if it performs an action <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
 			     "All healing effects doubled <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
 
 			     "Withdraws before melee combat <with [10]% chance>",
