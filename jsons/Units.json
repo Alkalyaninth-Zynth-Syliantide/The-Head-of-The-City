@@ -4,18 +4,15 @@
 		"unitType": "Archery",
 		"uniqueTo": "The City",
 		"replaces": "Archer",
-		"movement": 4,
-		"strength": 10,
-		"rangedStrength": 10,
-		"range": 7,
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 3,
+		"range": 5,
 		"cost": 1,
 		"uniques": [ "Uncapturable",
 			     "Never appears as a Barbarian unit",
 			     "Limited to [1] per Civilization",
                              "No damage penalty for wounded units",
-
-			     "Eliminates combat penalty for attacking over a river",
-			     "Eliminates combat penalty for attacking across a coast",
 
 			     "May heal outside of friendly territory",
 			     "May Paradrop up to [10] tiles from inside friendly territory <starting from the [Industrial era]>",
@@ -24,7 +21,6 @@
 		             "May Paradrop up to [40] tiles from inside friendly territory <starting from the [Information era]>",
 			     "May Paradrop up to [50] tiles from inside friendly territory <starting from the [Future era]>",
 			     "May enter foreign tiles without open borders",
-			     "Can be purchased for [1] [Gold] [in capital]",
 			     "Can move after attacking",
 			     "Can move immediately once bought",
 
@@ -43,9 +39,9 @@
 		             "[+70]% Strength <starting from the [Information era]>",
 		             "[+80]% Strength <starting from the [Future era]>", 
 
-			     "Nuclear weapon of Strength [1] <vs cities>",
+			     "Nuclear weapon of Strength [1] <upon defeating a [all] unit> <with [5]% chance>",
 	
-			     "Blast radius [3]",
+			     "Blast radius [0]",
 
 			     "[1] additional attacks per turn <with [5]% chance>",
 			     "[1] additional attacks per turn <with [10]% chance>",
@@ -53,9 +49,8 @@
 			     "[1] additional attacks per turn <with [20]% chance>",
 			     "[1] additional attacks per turn <with [25]% chance>",
 
-			     "[5] Range <vs cities>",
-		             "[9] Range <starting from the [Medieval era]>",
-			     "[10] Range <starting from the [Modern era]>",
+		             "[6] Range <starting from the [Medieval era]>",
+			     "[7] Range <starting from the [Modern era]>",
 
 			     "[2] Sight",
 			     "[3] Sight <starting from the [Classical era]>",
@@ -75,8 +70,7 @@
 		"uniqueTo": "The City",
 		"replaces": "Scout",
 		"movement": 5,
-		"strength": 30,
-		"rangedstrenght": 10,
+		"strength": 5,
 		"range": 10,
 		"cost": 1,
 		"uniques": [ "Uncapturable",
@@ -87,8 +81,7 @@
                              "No damage penalty for wounded units",
 			     "No defensive terrain penalty",
 			     "No damage penalty for wounded units",
-			     "Cannot attack <when attacking>",
-
+			
 			     "Ignores terrain cost",
 			     "Ignores Zone of Control",
 			
@@ -107,7 +100,6 @@
 			     "Can see over obstacles",
 			     "Can pass through impassable tiles",
 			     "Can see invisible [all] units",
-			     "Can be purchased for [1] [Gold] [in capital]",
 			     "Can move after attacking",
 			     "Can move immediately once bought",
 
@@ -145,7 +137,6 @@
 		"replaces": "Warrior",
 		"movement": 3,
 		"strength": 10,
-		"rangedstrength": 5,
 		"range": 2,
 		"cost": 1,
 		"uniques": [ "Uncapturable",
@@ -166,7 +157,6 @@
 		             "May Paradrop up to [40] tiles from inside friendly territory <starting from the [Information era]>",
 			     "May Paradrop up to [50] tiles from inside friendly territory <starting from the [Future era]>",
 			     "May enter foreign tiles without open borders",
-			     "Can be purchased for [1] [Gold] [in capital]",
 			     "Can pass through impassable tiles",
 			     "Can perform Air Sweep",
 			     "Can move after attacking <when above [5] HP>",
