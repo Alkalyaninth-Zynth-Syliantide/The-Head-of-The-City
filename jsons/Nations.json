@@ -16,25 +16,22 @@
 		"defeated": "...",
 		"introduction": "You bear a poison, heavy and slow... yet deadly. I know you well, even though you know nothing about me.",
 		
-		"neutralHello": "What brings you here?",
-		"neutralLetsHearIt": "You may speak.",
-		"neutralNo": "Halt, we will not proceed with your arrangment.",
+		"neutralHello": "What brings you here..?",
+		"neutralLetsHearIt": "This sounds promising...",
+		"neutralNo": "Our apologies, but this arrangement is not sufficient for fulfilling our needs...",
 		"neutralYes": "Very well...",
 
 		"hateHello": "...",
-		"hateLetsHearIt": "...",
-		"hateNo": "...",
-		"hateYes": "For now, we shall kindly accept your request.",
+		"hateLetsHearIt": "You may speak...",
+		"hateNo": "Halt, we shall not proceed with your arrangment...",
+		"hateYes": "For now, we shall kindly accept your request...",
 		
 		"afterPeace": "I only ask that you do not wage war on us again. The City cannot allot time for pointless quarrels...",
 		"tradeRequest": "This arrangement may indeed benefit us.",
 
-		"uniqueName": "High Standards",
-		"unique": ["[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] per [1] population [in all cities]",
-			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from all [all] buildings",
-			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from every [all]",
-		           "City-State Influence recovers at twice the normal rate"],
+		"uniqueName": "Extreme Scaling",
+		"unique": ["[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] per [1] population [Your]"],
 		
-		"cities": ["The City"],
+		"cities": ["Bird A","Bird B","Bird C","Bird D","Bird E","Bird F","Bird G","Bird H","Bird I","Bird J","Bird K","Bird L","Bird M","Bird N","Bird O","Bird P","Bird Q","Bird R","Bird S","Bird T","Bird U","Bird V","Bird W","Bird X","Bird Y","Bird Z"],
 	}
 ]
