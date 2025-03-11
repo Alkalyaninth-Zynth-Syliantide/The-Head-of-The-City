@@ -103,7 +103,7 @@
 		"happiness": 0,
 		"faith": 1,
 
-		"cost": 1,
+		"cost": 5,
 
 		"isWonder": true,
 		"isNationalWonder": false,
@@ -142,7 +142,7 @@
 		"happiness": 0,
 		"faith": 2,
 
-		"cost": 2,
+		"cost": 15,
 
 		"isWonder": true,
 		"isNationalWonder": false,
@@ -181,7 +181,7 @@
 		"happiness": 1,
 		"faith": 2,
 
-		"cost": 4,
+		"cost": 30,
 
 		"isWonder": true,
 		"isNationalWonder": false,
@@ -226,7 +226,7 @@
 		"happiness": 2,
 		"faith": 2,
 
-		"cost": 7,
+		"cost": 50,
 
 		"isWonder": true,
 		"isNationalWonder": false,
@@ -265,7 +265,7 @@
 		"happiness": 2,
 		"faith": 3,
 
-		"cost": 11,
+		"cost": 75,
 
 		"isWonder": true,
 		"isNationalWonder": false,
@@ -305,7 +305,7 @@
 		"happiness": 2,
 		"faith": 3,
 
-		"cost": 16,
+		"cost": 105,
 
 		"isWonder": true,
 		"isNationalWonder": false,
@@ -346,7 +346,7 @@
 		"happiness": 2,
 		"faith": 3,
 
-		"cost": 22,
+		"cost": 140,
 
 		"isWonder": true,
 		"isNationalWonder": true,
