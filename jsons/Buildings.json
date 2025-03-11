@@ -1,53 +1,60 @@
 [
 	{
-	        "name": "The Head",
+	        "name": "Official Founding of The Head",
 		
 		"uniqueTo": "The City",
-		"unique": ["Unsellable",
-			   "Destroyed when the city is captured",
-			   "Limited to [1] per Civilization",
+		"unique": ["Unavailable <if [Official Founding of The Head] is constructed by anybody>",
+			   "Requires at least [3] population",
 
-		           "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] per [1] population [in all cities]",
-			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from all [all] buildings",
-			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from every [all]",
-			   "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] from [your] tiles [in all cities]",
-                           "[100]% Golden Age length <in cities with at least [1] [unemployed]>",
-			   "[50]% growth [in this city] <in cities with at least [50] [population]>",
+			   "[+1 Culture] per [5] population [in this city] <during a Golden Age>",
+			   "[+1 Culture] per [5] population [in this city] <during We Love The King Day>",
+			   "[+1 Culture] per [5] population [in this city] <while the empire is happy>",
+			   "[-10]% Culture cost of natural border growth [in this city]",
+			   "Each city founded increases culture cost of policies [5]% less than normal",
+			   "[+20]% City Strength from defensive buildings <when at war>",
+			
+			   "[50]% unhappiness from the number of cities <when not at war> <when not in a Golden Age> <while the empire is happy>",
+
+			   "Never destroyed when the city is captured",
+			   "Doubles Gold given to enemy if city is captured",
 			
 			   "Triggers a global alert upon construction",
 		           "Triggers a global alert upon completion",
 		
 		           "Indicates the capital city"],
 
-		"cityStrength": 0,
-		"cityHealth": 0,
+		"cityStrength": 10,
+		"cityHealth": 10,
 		
-		"production": 10,
-		"food": 10,
-		"gold": 10,
-		"science": 1,
-		"culture": 0,
-		"happiness": 10,
-		"faith": 10,
+		"production": 0,
+		"food": 0,
+		"gold": 0,
+		"science": 0,
+		"culture": 5,
+		"happiness": 0,
+		"faith": 0,
 
-		"cost": 0,
+		"cost": 100,
 
 		"isWonder": true,
 		"isNationalWonder": true,
 	},
 	
 	{
-		"name": "Wing's License",
-		"requiredBuilding": "The Head",
+	        "name": "Official Recognition of The City",
 		
 		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
+		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
+			   "Requires at least [1] population",
 
-		           "Cost increases by [10] when built"],
+			   "Unsellable",
+			   "Never destroyed when the city is captured",
+		
+		           "Triggers a global alert upon completion"],
 
-		"cityStrength": 0,
-		"cityHealth": 0,
-
+		"cityStrength": 5,
+		"cityHealth": 5,
+		
 		"production": 0,
 		"food": 0,
 		"gold": 0,
@@ -55,193 +62,293 @@
 		"culture": 0,
 		"happiness": 0,
 		"faith": 0,
-		
-		"cost": 0,
 
-		"isWonder": false,
+		"cost": 100,
+
+		"isWonder": true,
 		"isNationalWonder": false,
 	},
 	
 	{
-		"name": "The 26 Wings & 5 Fingers",
-		"requiredBuilding": "Wing's License",
+	        "name": "City LvL - Orbis Terrarum Canard",
+		"requiredBuilding": "Official Recognition of The City"
 		
 		"uniqueTo": "The City",
-		"unique": ["Destroyed when the city is captured",
+		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
+			   "Requires at least [1] population",
 
-			   "[+100 Culture, +100 Food, +100 Science, +100 Faith, +100 Happiness, +100 Production] per [100] population [in this city]",
-                           "Gifts of Gold to City-States generate [+1]% more Influence <when at war>",
+			   "Empire enters a [1]-turn Golden Age",
+			   "[1] population [in this city]",
+			   "[+5]% [Production]",
+			   "[+5]% [Food]",
+			   "[+5]% [Gold]",
+			   "[+5]% [Science]",
+			   "[+5]% [Culture]",
+			   "[+5]% [Happiness]",
+			   "[+5]% [Faith]",
+			   
+			   "Unsellable",
+			   "Never destroyed when the city is captured",
 			
-		           "Cost increases by [250] when built"],
+		           "Triggers a global alert upon completion"],
 
-		"cityStrength": 10,
-		"cityHealth": 30,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-		
-		"cost": 0,
-
-		"isWonder": false,
-		"isNationalWonder": false,
-	},
-	
-	{
-		"name": "The Color Fixers, Syndicates, & 12 Associations",
-		"requiredBuilding": "The 26 Wings & 5 Fingers",
-		
-		"uniqueTo": "The City",
-		"unique": ["Unsellable",
-		           "Destroyed when the city is captured",
-
-			   "[+50 Culture, +50 Food, +50 Science, +50 Faith, +50 Happiness, +50 Production] per [50] population [in this city]",
-                           "Gifts of Gold to City-States generate [+5]% more Influence <when at war>",
-			
-		           "Cost increases by [200] when built"],
-			   
-		"cityStrength": 7,
-		"cityHealth": 25,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-
-		"cost": 0,
-
-		"isWonder": false,
-		"isNationalWonder": false,
-	},
-	
-	{
-		"name": "The Offices from Grades 1-9",
-		"requiredBuilding": "The Color Fixers, Syndicates, & 12 Associations",
-		
-		"uniqueTo": "The City",
-		"unique": ["Unsellable",
-		           "Destroyed when the city is captured",
-
-			   "[+25 Culture, +25 Food, +25 Science, +25 Faith, +25 Happiness, +25 Production] per [25] population [in this city]",
-                           "Gifts of Gold to City-States generate [+10]% more Influence <when at war>",
-			
-		           "Cost increases by [150] when built"],
-			   
-		"cityStrength": 5,
-		"cityHealth": 10,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-
-		"cost": 0,
-
-		"isWonder": false,
-		"isNationalWonder": false,
-	},
-	
-	{
-		"name": "The Feathers of a Wing",
-		"requiredBuilding": "The Offices from Grades 1-9",
-		
-		"uniqueTo": "The City",
-		"unique": ["Unsellable",
-		           "Destroyed when the city is captured",
-
-			   "[+10 Culture, +10 Food, +10 Science, +10 Faith, +10 Happiness, +10 Production] per [10] population [in this city]",
-                           "Gifts of Gold to City-States generate [+25]% more Influence <when at war>",
-			
-		           "Cost increases by [150] when built"],
-			   
-		"cityStrength": 3,
-		"cityHealth": 7,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-
-		"cost": 0,
-
-		"isWonder": false,
-		"isNationalWonder": false,
-	},
-		
-	{
-		"name": "The Backstreets",
-		"requiredBuilding": "The Feathers of a Wing",
-		
-		"uniqueTo": "The City",
-		"unique": ["Unsellable",
-			   "Destroyed when the city is captured",
-
-			   "Automatically built in all cities where it is buildable",
-			   "Rebel units may spawn <with [50]% chance> <every [1] turns>",
-		
-		           "[+5 Culture, +5 Food, +5 Science, +5 Faith, +5 Happiness, +5 Production] per [5] population [in this city]",
-		           "Gifts of Gold to City-States generate [+50]% more Influence <when at war>"],
-
-			   
-		"cityStrength": 2,
-		"cityHealth": 5,
-
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-
-		"cost": 0,
-
-		"isWonder": false,
-		"isNationalWonder": false,
-	},
-	
-	{
-		"name": "The Rats of The Backstreets",
-		"requiredBuilding": "The Backstreets",
-		
-		"uniqueTo": "The City",
-		"unique": ["Unsellable",
-			   "Destroyed when the city is captured",
-
-			   "Automatically built in all cities where it is buildable",
-			   "Rebel units may spawn <with [25]% chance> <every [1] turns>",
-		
-		           "[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] per [1] population [in this city]",
-		           "Gifts of Gold to City-States generate [+100]% more Influence <when at war>"],
-
-			   
 		"cityStrength": 1,
-		"cityHealth": 3,
+		"cityHealth": 1,
+		
+		"production": 0,
+		"food": 0,
+		"gold": 0,
+		"science": 0,
+		"culture": 1,
+		"happiness": 0,
+		"faith": 1,
 
+		"cost": 10,
+
+		"isWonder": true,
+		"isNationalWonder": false,
+	},
+	{
+	        "name": "City LvL - Global Myth",
+		"requiredBuilding": "City LvL - Orbis Terrarum Canard"
+		
+		"uniqueTo": "The City",
+		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
+			   "Requires at least [2] population",
+
+			   "Empire enters a [2]-turn Golden Age",
+			   "[2] population [in this city]",
+			   "[+1]% [Production] from every [improved]",
+			   "[+1]% [Food] from every [improved]",
+			   "[+1]% [Gold] from every [improved]",
+			   "[+1]% [Science] from every [improved]",
+			   "[+1]% [Culture] from every [improved]",
+			   "[+1]% [Happiness] from every [improved]",
+			   "[+1]% [Faith] from every [improved]",
+			   
+			   "Unsellable",
+			   "Never destroyed when the city is captured",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 2,
+		"cityHealth": 2,
+		
 		"production": 1,
 		"food": 1,
 		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
+		"science": 0,
+		"culture": 2,
+		"happiness": 0,
+		"faith": 2,
 
-		"cost": 0,
+		"cost": 20,
 
-		"isWonder": false,
+		"isWonder": true,
 		"isNationalWonder": false,
-	}
+	},
+	{
+	        "name": "City LvL - Orbis Terrarum Legend",
+		"requiredBuilding": "City LvL - Global Myth"
+		
+		"uniqueTo": "The City",
+		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
+			   "Requires at least [4] population",
+
+			   "Empire enters a [3]-turn Golden Age",
+			   "[3] population [in this city]",
+			   "[+1]% [Production] from every [Building]",
+			   "[+1]% [Food] from every [Building]",
+			   "[+1]% [Gold] from every [Building]",
+			   "[+1]% [Science] from every [Building]",
+			   "[+1]% [Culture] from every [Building]",
+			   "[+1]% [Happiness] from every [Building]",
+			   "[+1]% [Faith] from every [Building]",
+			   
+			   "Unsellable",
+			   "Never destroyed when the city is captured",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 3,
+		"cityHealth": 3,
+		
+		"production": 3,
+		"food": 2,
+		"gold": 1,
+		"science": 1,
+		"culture": 3,
+		"happiness": 1,
+		"faith": 2,
+
+		"cost": 30,
+
+		"isWonder": true,
+		"isNationalWonder": false,
+	},
+	{
+	        "name": "City LvL - Pestilentia Internationalis",
+		"requiredBuilding": "City LvL - Orbis Terrarum Legend"
+		
+		"uniqueTo": "The City",
+		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
+			   "Requires at least [7] population",
+
+			   "City-State Influence recovers at twice the normal rate",
+			   "Empire enters a [4]-turn Golden Age",
+			   "[4] population [in this city]",
+			   "[1] Unit Supply per [5] population [in this city]",
+			   "[+10]% Production when constructing [all] units [in this city]",
+			   "[5]% Food is carried over after population increases [in this city]",
+                           "[-10]% Culture cost of natural border growth [in this city]",
+			
+			   "[+5]% of excess happiness converted to [Production]",
+			   "[+5]% of excess happiness converted to [Food]",
+			   "[+5]% of excess happiness converted to [Gold]",
+			   "[+5]% of excess happiness converted to [Science]",
+			   "[+5]% of excess happiness converted to [Culture]",
+			   "[+5]% of excess happiness converted to [Happiness]",
+			   "[+5]% of excess happiness converted to [Faith]",
+			   
+			   "Unsellable",
+			   "Never destroyed when the city is captured",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 4,
+		"cityHealth": 4,
+		
+		"production": 5,
+		"food": 3,
+		"gold": 2,
+		"science": 1,
+		"culture": 3,
+		"happiness": 2,
+		"faith": 2,
+
+		"cost": 50,
+
+		"isWonder": true,
+		"isNationalWonder": false,
+	},
+	{
+	        "name": "City LvL - Internationalis Visio Nocturna",
+		"requiredBuilding": "City LvL - Pestilentia Internationalis"
+		
+		"uniqueTo": "The City",
+		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
+			   "Requires at least [11] population",
+
+			   "Empire enters a [5]-turn Golden Age",
+			   "[5] population [in this city]",
+			   "[+5]% of excess happiness converted to [Production]",
+			   "[+5]% of excess happiness converted to [Food]",
+			   "[+5]% of excess happiness converted to [Gold]",
+			   "[+5]% of excess happiness converted to [Science]",
+			   "[+5]% of excess happiness converted to [Culture]",
+			   "[+5]% of excess happiness converted to [Happiness]",
+			   "[+5]% of excess happiness converted to [Faith]",
+			   
+			   "Unsellable",
+			   "Never destroyed when the city is captured",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 5,
+		"cityHealth": 5,
+		
+		"production": 5,
+		"food": 3,
+		"gold": 3,
+		"science": 2,
+		"culture": 3,
+		"happiness": 2,
+		"faith": 3,
+
+		"cost": 80,
+
+		"isWonder": true,
+		"isNationalWonder": false,
+	},
+	{
+	        "name": "City LvL - Orbis Terrarum Stella",
+		"requiredBuilding": "City LvL - Internationalis Visio Nocturna"
+		
+		"uniqueTo": "The City",
+		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
+			   "Requires at least [16] population",
+
+			   "City-State Influence recovers at twice the normal rate",
+			   "[relativeAmount]% Production towards any buildings that already exist in the Capital",
+			   "Empire enters a [6]-turn Golden Age",
+			   "Empire enters a [1]-turn Golden Age <every [15] turns>",
+			   "[6] population [in this city]",
+			   "[5]% City Strength from defensive buildings",
+			   "[10]% Food is carried over after population increases [in this city]",
+
+			   "[1]% Unhappiness from [Unemployed] [in this city]",
+			   "Rebel units may spawn <every [15] turns>",
+			   
+			   "Unsellable",
+			   "Never destroyed when the city is captured",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 6,
+		"cityHealth": 6,
+		
+		"production": 5,
+		"food": 3,
+		"gold": 4,
+		"science": 2,
+		"culture": 4,
+		"happiness": 2,
+		"faith": 3,
+
+		"cost": 130,
+
+		"isWonder": true,
+		"isNationalWonder": false,
+	},
+	{
+	        "name": "City LvL - Impuritas Internationalis",
+		"requiredBuilding": "City LvL - Orbis Terrarum Stella"
+		
+		"uniqueTo": "The City",
+		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
+			   "Requires at least [22] population",
+
+			   "City-State Influence recovers at twice the normal rate",
+			   "[relativeAmount]% Production towards any buildings that already exist in the Capital",
+			   "Empire enters a [7]-turn Golden Age",
+			   "Empire enters a [1]-turn Golden Age <every [7] turns>",
+			   "[7] population [in this city]",
+			   "[1] population [in this city] <every [1] turns>",
+			   "[+1 Production, +1 Food, +1 Gold, +1 Science, +1 Culture, +1 Happiness, +1 Faith] per [1] population [in this city] <during a Golden Age>",
+			   "Population loss from nuclear attacks [-99]% [in this city]",
+
+			   "[1]% Unhappiness from [Population] [in this city]",
+			   "Rebel units may spawn <every [7] turns>",
+			   
+			   "Unsellable",
+			   "Never destroyed when the city is captured",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 7,
+		"cityHealth": 7,
+		
+		"production": 6,
+		"food": 4,
+		"gold": 5,
+		"science": 2,
+		"culture": 5,
+		"happiness": 2,
+		"faith": 3,
+
+		"cost": 210,
+
+		"isWonder": true,
+		"isNationalWonder": true,
+	},
 ]
