@@ -1,6 +1,7 @@
 [
 	{
 	        "name": "Official Founding of The Head",
+		"requiredBuilding": "Official Recognition of The City"
 		
 		"uniqueTo": "The City",
 		"unique": ["Unavailable <if [Official Founding of The Head] is constructed by anybody>",
@@ -13,7 +14,7 @@
 			   "Each city founded increases culture cost of policies [5]% less than normal",
 			   "[+20]% City Strength from defensive buildings <when at war>",
 			
-			   "[100]% unhappiness from the number of cities <when not at war> <when not in a Golden Age> <while the empire is happy>",
+			   "[+75]% unhappiness from the number of cities <when not at war> <when not in a Golden Age> <while the empire is happy>",
 
 			   "Never destroyed when the city is captured",
 			   "Doubles Gold given to enemy if city is captured",
@@ -34,7 +35,7 @@
 		"happiness": 0,
 		"faith": 0,
 
-		"cost": 30,
+		"cost": 70,
 
 		"isWonder": true,
 		"isNationalWonder": true,
@@ -44,8 +45,7 @@
 	        "name": "Official Recognition of The City",
 		
 		"uniqueTo": "The City",
-		"unique": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
-                           "Requires at least [1] population",
+		"unique": ["Requires at least [1] population",
 			
 			   "Unsellable",
 			   "Never destroyed when the city is captured",
