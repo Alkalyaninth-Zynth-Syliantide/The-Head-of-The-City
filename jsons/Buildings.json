@@ -39,7 +39,7 @@
 
 		"isWonder": true,
 		"isNationalWonder": true,
-	},
+	}
 	
 	{
 	        "name": "Official Recognition of The City",
@@ -67,8 +67,8 @@
 
 		"isWonder": false,
 		"isNationalWonder": false,
-	},
-	
+	}
+
 	{
 	        "name": "City LvL - Orbis Terrarum Canard",
 		"requiredBuilding": "Official Recognition of The City"
@@ -107,7 +107,8 @@
 
 		"isWonder": false,
 		"isNationalWonder": false,
-	},
+	}
+	
 	{
 	        "name": "City LvL - Global Myth",
 		"requiredBuilding": "City LvL - Orbis Terrarum Canard"
@@ -146,7 +147,8 @@
 
 		"isWonder": false,
 		"isNationalWonder": false,
-	},
+	}
+	
 	{
 	        "name": "City LvL - Orbis Terrarum Legend",
 		"requiredBuilding": "City LvL - Global Myth"
@@ -185,7 +187,8 @@
 
 		"isWonder": false,
 		"isNationalWonder": false,
-	},
+	}
+	
 	{
 	        "name": "City LvL - Pestilentia Internationalis",
 		"requiredBuilding": "City LvL - Orbis Terrarum Legend"
@@ -222,7 +225,8 @@
 
 		"isWonder": false,
 		"isNationalWonder": false,
-	},
+	}
+	
 	{
 	        "name": "City LvL - Internationalis Visio Nocturna",
 		"requiredBuilding": "City LvL - Pestilentia Internationalis"
@@ -261,7 +265,8 @@
 
 		"isWonder": false,
 		"isNationalWonder": false,
-	},
+	}
+	
 	{
 	        "name": "City LvL - Orbis Terrarum Stella",
 		"requiredBuilding": "City LvL - Internationalis Visio Nocturna"
@@ -301,7 +306,8 @@
 
 		"isWonder": false,
 		"isNationalWonder": false,
-	},
+	}
+	
 	{
 	        "name": "City LvL - Impuritas Internationalis",
 		"requiredBuilding": "City LvL - Orbis Terrarum Stella"
@@ -342,5 +348,5 @@
 
 		"isWonder": false,
 		"isNationalWonder": false,
-	},
+	}
 ]
