@@ -35,9 +35,6 @@
 		"faith": 0,
 
 		"cost": 70,
-
-		"isWonder": true,
-		"isNationalWonder": true,
 	},
 	
 	{
@@ -63,9 +60,6 @@
 		"faith": 0,
 
 		"cost": 30,
-
-		"isWonder": false,
-		"isNationalWonder": false,
 	},
 
 	{
@@ -104,10 +98,7 @@
 		"happiness": 0,
 		"faith": 1,
 
-		"cost": 100,
-
-		"isWonder": false,
-		"isNationalWonder": false,
+		"cost": 50,
 	},
 	
 	{
@@ -146,10 +137,7 @@
 		"happiness": 0,
 		"faith": 2,
 
-		"cost": 200,
-
-		"isWonder": false,
-		"isNationalWonder": false,
+		"cost": 100,
 	},
 	
 	{
@@ -188,10 +176,7 @@
 		"happiness": 1,
 		"faith": 2,
 
-		"cost": 400,
-
-		"isWonder": false,
-		"isNationalWonder": false,
+		"cost": 150,
 	},
 	
 	{
@@ -228,10 +213,7 @@
 		"happiness": 2,
 		"faith": 2,
 
-		"cost": 700,
-
-		"isWonder": false,
-		"isNationalWonder": false,
+		"cost": 250,
 	},
 	
 	{
@@ -270,10 +252,7 @@
 		"happiness": 2,
 		"faith": 3,
 
-		"cost": 1100,
-
-		"isWonder": false,
-		"isNationalWonder": false,
+		"cost": 400,
 	},
 	
 	{
@@ -311,10 +290,7 @@
 		"happiness": 2,
 		"faith": 3,
 
-		"cost": 1600,
-
-		"isWonder": false,
-		"isNationalWonder": false,
+		"cost": 650,
 	},
 	
 	{
@@ -353,9 +329,6 @@
 		"happiness": 2,
 		"faith": 3,
 
-		"cost": 2200,
-
-		"isWonder": false,
-		"isNationalWonder": false,
+		"cost": 1050,
 	}
 ]
