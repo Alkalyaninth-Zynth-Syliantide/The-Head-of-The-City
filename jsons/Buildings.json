@@ -21,9 +21,7 @@
 			   "Doubles Gold given to enemy if city is captured",
 			
 			   "Triggers a global alert upon construction",
-		           "Triggers a global alert upon completion",
-		
-		           "Indicates the capital city"],
+		           "Triggers a global alert upon completion"],
 
 		"cityStrength": 10,
 		"cityHealth": 10,
