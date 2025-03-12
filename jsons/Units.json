@@ -167,7 +167,7 @@
 			     "Withdraws before melee combat <with [5]% chance>",
 			     "[+10000]% Strength <when defending> <with [15]% chance>",
 
-			     "[+20]% Strength for enemy [All] units in adjacent [All] tiles",
+			     "[-20]% Strength for enemy [All] units in adjacent [All] tiles",
 			
 		             "[+10]% Strength <when defending> <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
 		             "[+15]% Strength <when defending> <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
