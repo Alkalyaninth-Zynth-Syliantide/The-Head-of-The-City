@@ -71,7 +71,7 @@
 
 	{
 	        "name": "City LvL - Orbis Terrarum Canard",
-		"requiredBuilding": "Official Recognition of The City",,
+		"requiredBuilding": "Official Recognition of The City",
 		
 		"uniqueTo": "The City",
 		"unique": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
