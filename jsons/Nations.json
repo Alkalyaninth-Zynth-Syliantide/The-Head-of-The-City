@@ -5,8 +5,8 @@
 		"adjective": ["Human"],
 		"startBias": ["Mountain","Jungle","River"],
 		"preferredVictoryType": "Domination",
-		"outerColor": [1,1,1],
-		"innerColor": [237,210,121],
+		"outerColor": [0,0,0],
+		"innerColor": [237,219,161],
 		
 		"startIntroPart1": "To know and manipulate all the secrets of the world; that is the privilege of the Head, the Eye, and the Claw. It is their honor and absolute power. No one dares to stand against them. As long as they exist, the tale of the Nest will never reach its close.",
 		"startIntroPart2": "This mod was brought to you by an avid Project Moon fan - Alkalyaninth Zynth Syliantide",
