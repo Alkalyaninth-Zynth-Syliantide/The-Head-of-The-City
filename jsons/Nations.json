@@ -29,9 +29,9 @@
 		"afterPeace": "I only ask that you do not wage war on us again. The City cannot allot time for pointless quarrels...",
 		"tradeRequest": "This arrangement may indeed benefit us.",
 
-		"uniqueName": "Extreme Scaling",
-		"unique": ["[+1 Culture, +1 Food, +1 Science, +1 Faith, +1 Happiness, +1 Production] per [1] population [Your]"],
+		"uniqueName": "The Dark Outskirts of The City",
+		"unique": ["Enemy [All] units must spend [2] extra movement points when inside your territory"],
 		
-		"cities": ["Bird A","Bird B","Bird C","Bird D","Bird E","Bird F","Bird G","Bird H","Bird I","Bird J","Bird K","Bird L","Bird M","Bird N","Bird O","Bird P","Bird Q","Bird R","Bird S","Bird T","Bird U","Bird V","Bird W","Bird X","Bird Y","Bird Z"],
+		"cities": ["Forrest A","Forrest B","Forrest C","Forrest D","Forrest E","Forrest F","Forrest G","Forrest H","Forrest I","Forrest J","Forrest K","Forrest L","Forrest M","Forrest N","Forrest O","Forrest P","Forrest Q","Forrest R","Forrest S","Forrest T","Forrest U","Forrest V","Forrest W","Forrest X","Forrest Y","Forrest Z"],
 	}
 ]
