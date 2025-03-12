@@ -1,7 +1,7 @@
 [
 	{
 	        "name": "Official Founding of The Head",
-		"requiredBuilding": "Official Recognition of The City"
+		"requiredBuilding": "Official Recognition of The City",
 		
 		"uniqueTo": "The City",
 		"unique": ["Unavailable <if [Official Founding of The Head] is constructed by anybody>",
@@ -39,7 +39,7 @@
 
 		"isWonder": true,
 		"isNationalWonder": true,
-	}
+	},
 	
 	{
 	        "name": "Official Recognition of The City",
@@ -67,11 +67,11 @@
 
 		"isWonder": false,
 		"isNationalWonder": false,
-	}
+	},
 
 	{
 	        "name": "City LvL - Orbis Terrarum Canard",
-		"requiredBuilding": "Official Recognition of The City"
+		"requiredBuilding": "Official Recognition of The City",,
 		
 		"uniqueTo": "The City",
 		"unique": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
@@ -86,6 +86,8 @@
 			   "[+5]% [Culture]",
 			   "[+5]% [Happiness]",
 			   "[+5]% [Faith]",
+
+			   "Rebel units may spawn <every [7] turns>",
 			   
 			   "Unsellable",
 			   "Never destroyed when the city is captured",
@@ -107,11 +109,11 @@
 
 		"isWonder": false,
 		"isNationalWonder": false,
-	}
+	},
 	
 	{
 	        "name": "City LvL - Global Myth",
-		"requiredBuilding": "City LvL - Orbis Terrarum Canard"
+		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
 		
 		"uniqueTo": "The City",
 		"unique": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
@@ -126,6 +128,8 @@
 			   "[+1]% [Culture] from every [improved]",
 			   "[+1]% [Happiness] from every [improved]",
 			   "[+1]% [Faith] from every [improved]",
+
+			   "Rebel units may spawn <every [6] turns>",
 			   
 			   "Unsellable",
 			   "Never destroyed when the city is captured",
@@ -147,11 +151,11 @@
 
 		"isWonder": false,
 		"isNationalWonder": false,
-	}
+	},
 	
 	{
 	        "name": "City LvL - Orbis Terrarum Legend",
-		"requiredBuilding": "City LvL - Global Myth"
+		"requiredBuilding": "City LvL - Global Myth",
 		
 		"uniqueTo": "The City",
 		"unique": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
@@ -166,6 +170,8 @@
 			   "[+1]% [Culture] from every [Building]",
 			   "[+1]% [Happiness] from every [Building]",
 			   "[+1]% [Faith] from every [Building]",
+
+			   "Rebel units may spawn <every [5] turns>",
 			   
 			   "Unsellable",
 			   "Never destroyed when the city is captured",
@@ -187,11 +193,11 @@
 
 		"isWonder": false,
 		"isNationalWonder": false,
-	}
+	},
 	
 	{
 	        "name": "City LvL - Pestilentia Internationalis",
-		"requiredBuilding": "City LvL - Orbis Terrarum Legend"
+		"requiredBuilding": "City LvL - Orbis Terrarum Legend",
 		
 		"uniqueTo": "The City",
 		"unique": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
@@ -204,6 +210,8 @@
 			   "[+10]% Production when constructing [all] units [in this city]",
 			   "[5]% Food is carried over after population increases [in this city]",
                            "[-10]% Culture cost of natural border growth [in this city]",
+
+			   "Rebel units may spawn <every [4] turns>",
 			   
 			   "Unsellable",
 			   "Never destroyed when the city is captured",
@@ -225,11 +233,11 @@
 
 		"isWonder": false,
 		"isNationalWonder": false,
-	}
+	},
 	
 	{
 	        "name": "City LvL - Internationalis Visio Nocturna",
-		"requiredBuilding": "City LvL - Pestilentia Internationalis"
+		"requiredBuilding": "City LvL - Pestilentia Internationalis",
 		
 		"uniqueTo": "The City",
 		"unique": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
@@ -244,6 +252,8 @@
 			   "[+5]% of excess happiness converted to [Culture]",
 			   "[+5]% of excess happiness converted to [Happiness]",
 			   "[+5]% of excess happiness converted to [Faith]",
+
+			   "Rebel units may spawn <every [3] turns>",
 			   
 			   "Unsellable",
 			   "Never destroyed when the city is captured",
@@ -265,11 +275,11 @@
 
 		"isWonder": false,
 		"isNationalWonder": false,
-	}
+	},
 	
 	{
 	        "name": "City LvL - Orbis Terrarum Stella",
-		"requiredBuilding": "City LvL - Internationalis Visio Nocturna"
+		"requiredBuilding": "City LvL - Internationalis Visio Nocturna",
 		
 		"uniqueTo": "The City",
 		"unique": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
@@ -284,7 +294,7 @@
 			   "[10]% Food is carried over after population increases [in this city]",
 
 			   "[1]% Unhappiness from [Unemployed] [in this city]",
-			   "Rebel units may spawn <every [5] turns>",
+			   "Rebel units may spawn <every [2] turns>",
 			   
 			   "Unsellable",
 			   "Never destroyed when the city is captured",
@@ -306,11 +316,11 @@
 
 		"isWonder": false,
 		"isNationalWonder": false,
-	}
+	},
 	
 	{
 	        "name": "City LvL - Impuritas Internationalis",
-		"requiredBuilding": "City LvL - Orbis Terrarum Stella"
+		"requiredBuilding": "City LvL - Orbis Terrarum Stella",
 		
 		"uniqueTo": "The City",
 		"unique": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
