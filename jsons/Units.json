@@ -200,8 +200,8 @@
 		             "[+40]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", //Ancient
 		             "[+60]% Strength <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>", //Classical
 		             "[+90]% Strength <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>", //Classical
-		             "[+130]% Strength <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>", //Renaissance
-		             "[+180]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>", //Medieval
+		             "[+130]% Strength <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>", //Medieval
+		             "[+180]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>", //Renaissance
 		             "[+240]% Strength <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", //Industrial
 			
 		             "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
