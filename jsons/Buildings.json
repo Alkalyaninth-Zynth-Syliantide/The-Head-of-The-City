@@ -1,4 +1,6 @@
 [
+	//Official Recogniton Buildings
+	
 	{
 	        "name": "Official Founding of The Head",
 		"requiredBuilding": "Official Recognition of The City",
@@ -42,6 +44,8 @@
 		
 		"uniqueTo": "The City",
 		"uniques": ["Requires at least [1] population",
+
+			   "Free [City Rat of The Backstreets] appears <every [1] turns> <upon turn end>",
 			
 			   "Unsellable",
 			   "Never destroyed when the city is captured",
@@ -101,6 +105,31 @@
 		"faith": 1,
 
 		"cost": 50,
+	},
+
+	{
+	        "name": "Tree of Life",
+		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built",
+
+			   "Never destroyed when the city is captured",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 1,
+		"cityHealth": 1,
+		
+		"production": 0,
+		"food": 0,
+		"gold": 0,
+		"science": 1,
+		"culture": 0,
+		"happiness": 0,
+		"faith": 0,
+
+		"cost": 30,
 	},
 	
 	{
@@ -317,6 +346,7 @@
 			   
 			   "Unsellable",
 			   "Never destroyed when the city is captured",
+			   "Doubles Gold given to enemy if city is captured",
 			
 		           "Triggers a global alert upon completion"],
 
