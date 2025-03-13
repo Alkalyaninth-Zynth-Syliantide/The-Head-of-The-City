@@ -4,7 +4,7 @@
 		"unitType": "Scout",
 		"uniqueTo": "The City",
 		"replaces": "Scout",
-		"movement": 2,
+		"movement": 10,
 		"strength": 1,
 		"range": 1,
 		"cost": 0,
@@ -20,12 +20,14 @@
 			    "Invisible to non-adjacent units",
 			    "Ignores Zone of Control",
   
-			    "Withdraws before melee combat <with [10]% chance>",
+			    "Withdraws before melee combat <with [80]% chance>",
 			    "[+500]% Strength <when defending> <with [25]% chance>",
 
 			    "[100]% Strength bonus for [City Rat of The Backstreets] units within [5] tiles",
 
 			    "Earn [100]% of the damage done to [All] units as [Gold]",
+
+			    "[-100]% maintenance costs",
  
 		            "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
 		            "[2] additional attacks per turn <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
