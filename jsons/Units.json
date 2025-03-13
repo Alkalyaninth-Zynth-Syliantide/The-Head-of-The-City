@@ -36,7 +36,7 @@
 			     "[-6]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
 			     "[-7]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
 			     "[-8]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
-			     "[-9]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Impuritas Internationalis is constructed in at least [1] of [Your] cities>",
+			     "[-9]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 
 			     "[+30]% Strength <when defending> <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
 		             "[+40]% Strength <when defending> <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
@@ -124,7 +124,7 @@
 			     "[-6]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
 			     "[-7]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
 			     "[-8]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
-			     "[-9]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Impuritas Internationalis is constructed in at least [1] of [Your] cities>",
+			     "[-9]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 
 		             "[+10]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
 		             "[+12]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
@@ -186,7 +186,7 @@
 			     "[-6]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
 			     "[-7]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
 			     "[-8]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
-			     "[-9]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Impuritas Internationalis is constructed in at least [1] of [Your] cities>",
+			     "[-9]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 			
 		             "[+30]% Strength <when defending> <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
 		             "[+40]% Strength <when defending> <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
