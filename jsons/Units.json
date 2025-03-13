@@ -188,21 +188,21 @@
 			     "[-8]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
 			     "[-9]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 			
-		             "[+30]% Strength <when defending> <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
-		             "[+40]% Strength <when defending> <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
-		             "[+48]% Strength <when defending> <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
-		             "[+54]% Strength <when defending> <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
-		             "[+58]% Strength <when defending> <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
-		             "[+60]% Strength <when defending> <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
-		             "[+60]% Strength <when defending> <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
+		             "[+50]% Strength <when defending> <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
+		             "[+60]% Strength <when defending> <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
+		             "[+70]% Strength <when defending> <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+		             "[+80]% Strength <when defending> <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
+		             "[+90]% Strength <when defending> <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
+		             "[+100]% Strength <when defending> <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
+		             "[+110]% Strength <when defending> <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 
-		             "[+10]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
-		             "[+20]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
-		             "[+29]% Strength <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
-		             "[+37]% Strength <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
-		             "[+44]% Strength <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
-		             "[+50]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
-		             "[+55]% Strength <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", 
+		             "[+30]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", //Ancient 
+		             "[+40]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", //Ancient
+		             "[+60]% Strength <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>", //Classical
+		             "[+90]% Strength <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>", //Classical
+		             "[+130]% Strength <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>", //Renaissance
+		             "[+180]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>", //Medieval
+		             "[+240]% Strength <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", //Industrial
 			
 		             "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
 		             "[1] additional attacks per turn <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
