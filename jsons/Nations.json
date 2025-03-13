@@ -30,8 +30,8 @@
 		"tradeRequest": "This arrangement may indeed benefit us.",
 
 		"uniqueName": "The Dark Outskirts of The City",
-		"unique": ["Enemy [All] units must spend [100] extra movement points when inside your territory"],
+		"unique": ["Enemy [All] units must spend [999] extra movement points when inside your territory"],
 		
-		"cities": ["Forrest A","Forrest B","Forrest C","Forrest D","Forrest E","Forrest F","Forrest G","Forrest H","Forrest I","Forrest J","Forrest K","Forrest L","Forrest M","Forrest N","Forrest O","Forrest P","Forrest Q","Forrest R","Forrest S","Forrest T","Forrest U","Forrest V","Forrest W","Forrest X","Forrest Y","Forrest Z"],
+		"cities": ["Forest A","Forest B","Forest C","Forest D","Forest E","Forest F","Forest G","Forest H","Forest I","Forest J","Forest K","Forest L","Forest M","Forest N","Forest O","Forest P","Forest Q","Forest R","Forest S","Forest T","Forest U","Forest V","Forest W","Forest X","Forest Y","Forest Z"],
 	}
 ]
