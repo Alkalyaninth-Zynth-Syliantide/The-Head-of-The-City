@@ -67,7 +67,7 @@
 		"requiredBuilding": "Official Recognition of The City",
 		
 		"uniqueTo": "The City",
-		"unique": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities> <in cities with at least [1] [Population]>",
+		"unique": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
                            "Requires at least [1] population",
 			
 			   "Empire enters a [1]-turn Golden Age",
