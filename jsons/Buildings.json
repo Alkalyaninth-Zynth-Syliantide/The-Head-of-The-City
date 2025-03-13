@@ -295,7 +295,7 @@
                            "Requires at least [16] population",
 			
 			   "City-State Influence recovers at twice the normal rate",
-			   "[relativeAmount]% Production towards any buildings that already exist in the Capital",
+			   "[+10]% Production towards any buildings that already exist in the Capital",
 			   "Empire enters a [6]-turn Golden Age",
 			   "Empire enters a [1]-turn Golden Age <every [15] turns>",
 			   "[6] population [in this city]",
@@ -333,7 +333,7 @@
                            "Requires at least [22] population",
 			
 			   "City-State Influence recovers at twice the normal rate",
-			   "[relativeAmount]% Production towards any buildings that already exist in the Capital",
+			   "[+20]% Production towards any buildings that already exist in the Capital",
 			   "Empire enters a [7]-turn Golden Age",
 			   "Empire enters a [1]-turn Golden Age <every [7] turns>",
 			   "[7] population [in this city]",
