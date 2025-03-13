@@ -9,7 +9,7 @@
 		"range": 1,
 		"cost": 0,
 		"uniques": ["Unable to capture cities",
-			    "Automation is a primary action",
+			    "Automation is a primary action <every [1] turns> <upon turn end>",
 			    "No Sight",
 
 			    "May heal outside of friendly territory <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
