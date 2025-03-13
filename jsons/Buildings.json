@@ -73,8 +73,7 @@
 		"requiredBuilding": "Official Recognition of The City",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
-                           "Requires at least [1] population",
+		"uniques": ["Requires at least [5] population",
 			
 			   "Empire enters a [1]-turn Golden Age",
 			   "[1] population [in this city]",
@@ -137,8 +136,7 @@
 		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities>",
-                           "Requires at least [2] population",
+		"uniques": ["Requires at least [11] population",
 			
 			   "Empire enters a [2]-turn Golden Age",
 			   "[2] population [in this city]",
@@ -176,8 +174,7 @@
 		"requiredBuilding": "City LvL - Global Myth",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities> <starting from the [Classical era]>",
-                           "Requires at least [4] population",
+		"uniques": ["Requires at least [16] population",
 			
 			   "Empire enters a [3]-turn Golden Age",
 			   "[3] population [in this city]",
@@ -215,8 +212,7 @@
 		"requiredBuilding": "City LvL - Orbis Terrarum Legend",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities> <starting from the [Classical era]>",
-                           "Requires at least [7] population",
+		"uniques": ["Requires at least [20] population",
 			
 			   "City-State Influence recovers at twice the normal rate",
 			   "Empire enters a [4]-turn Golden Age",
@@ -252,8 +248,7 @@
 		"requiredBuilding": "City LvL - Pestilentia Internationalis",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities> <starting from the [Medieval era]>",
-                           "Requires at least [11] population",
+		"uniques": ["Requires at least [23] population",
 			
 			   "Empire enters a [5]-turn Golden Age",
 			   "[5] population [in this city]",
@@ -291,8 +286,7 @@
 		"requiredBuilding": "City LvL - Internationalis Visio Nocturna",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities> <starting from the [Renaissance era]>",
-                           "Requires at least [16] population",
+		"uniques": ["Requires at least [25] population",
 			
 			   "City-State Influence recovers at twice the normal rate",
 			   "[+10]% Production towards any buildings that already exist in the Capital",
@@ -329,8 +323,7 @@
 		"requiredBuilding": "City LvL - Orbis Terrarum Stella",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Only available <if [Official Founding of The Head] is constructed in at least [1] of [Capital] cities> <starting from the [Industrial era]>",
-                           "Requires at least [22] population",
+		"uniques": ["Requires at least [26] population",
 			
 			   "City-State Influence recovers at twice the normal rate",
 			   "[+20]% Production towards any buildings that already exist in the Capital",
