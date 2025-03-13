@@ -1,9 +1,49 @@
 [
 	{
+		"name": "City Rat",
+		"unitType": "Scout",
+		"uniqueTo": "The City",
+		"replaces": "Scout",
+		"movement": 2,
+		"strength": 1,
+		"range": 1,
+		"cost": 0,
+		"uniques": ["Unable to capture cities",
+			    "Automation is a primary action",
+			    "No Sight",
+
+			    "May heal outside of friendly territory <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+			    "May enter foreign tiles without open borders",
+			    "Can move after attacking",
+			    "Can move immediately once bought",
+
+			    "Invisible to non-adjacent units",
+			    "Ignores Zone of Control",
+  
+			    "Withdraws before melee combat <with [10]% chance>",
+			    "[+500]% Strength <when defending> <with [25]% chance>",
+
+			    "[100]% Strength bonus for [City Rat] units within [5] tiles",
+
+			    "Earn [100]% of the damage done to [All] units as [Gold]",
+ 
+		            "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
+		            "[2] additional attacks per turn <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
+			    "[3] additional attacks per turn <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+			    "[4] additional attacks per turn <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
+			    "[5] additional attacks per turn <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
+			    "[6] additional attacks per turn <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
+		            "[7] additional attacks per turn <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
+
+	},
+	
+	//Agents of The Head
+	
+	{
 		"name": "Arbiter of The Head",
 		"unitType": "Archery",
 		"uniqueTo": "The City",
-		"replaces": "Archer",
+		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 10,
 		"rangedStrength": 5,
@@ -78,7 +118,7 @@
 		"name": "Beholder of The Eye",
 		"unitType": "Scout",
 		"uniqueTo": "The City",
-		"replaces": "Scout",
+		"replaces": "Cavalry",
 		"movement": 5,
 		"strength": 5,
 		"range": 1,
@@ -145,7 +185,7 @@
 		"name": "Claw Armed Executioner",
 		"unitType": "Sword",
 		"uniqueTo": "The City",
-		"replaces": "Warrior",
+		"replaces": "Mechanized Infantry",
 		"movement": 4,
 		"strength": 10,
 		"range": 5,
