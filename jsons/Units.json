@@ -1,9 +1,12 @@
 [
+	
+	//Starting Unit
+	
 	{
 		"name": "City Rat of The Backstreets",
 		"unitType": "Scout",
 		"uniqueTo": "The City",
-		"replaces": "Scout",
+		"replaces": "Warrior",
 		"movement": 10,
 		"strength": 1,
 		"range": 1,
@@ -36,25 +39,67 @@
 			    "[5] additional attacks per turn <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
 			    "[6] additional attacks per turn <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
 		            "[7] additional attacks per turn <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>"],
+	},
 
+	//City LvL - Orbis Terrarum Canard Associated Units
+
+	{
+		"name": "Grade 9 Office Fixer",
+		"unitType": "Scout",
+		"uniqueTo": "The City",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 5,
+		"range": 1,
+		"cost": 50,
+		"uniques": ["Only available <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>",
+			
+			    "May heal outside of friendly territory <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+			    "May enter foreign tiles without open borders",
+			    "Can move after attacking",
+			    "Can move immediately once bought",
+
+			    "Ignores Zone of Control",
+  
+			    "Withdraws before melee combat <with [15]% chance>",
+			    "[+500]% Strength <when defending> <with [20]% chance>",
+
+			    "[+10]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
+		            "[+15]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
+		            "[+20]% Strength <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+		            "[+25]% Strength <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
+		            "[+30]% Strength <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
+		            "[+35]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
+		            "[+40]% Strength <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", 
+ 
+		            "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
+		            "[1] additional attacks per turn <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
+			    "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+			    "[1] additional attacks per turn <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
+			    "[1] additional attacks per turn <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
+			    "[2] additional attacks per turn <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
+		            "[3] additional attacks per turn <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>"],
 	},
 	
-	//Agents of The Head
+	//Top Three Agents of The Head
 	
 	{
-		"name": "Arbiter of The Head",
+		"name": "H E A D  Arbiter",
 		"unitType": "Archery",
 		"uniqueTo": "The City",
-		"replaces": "Machine Gun",
+		"replaces": "Great War Infantry",
 		"movement": 2,
 		"strength": 10,
 		"rangedStrength": 5,
-		"range": 2,
+		"range": 1,
 		"cost": 25,
 		"uniques": [ "Uncapturable",
 			     "Never appears as a Barbarian unit",
 			     "Limited to [1] per Civilization",
                              "No damage penalty for wounded units",
+
+			     "Ignores terrain cost",
+			     "Ignores Zone of Control",
 
 			     "May heal outside of friendly territory <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
 			     "May Paradrop up to [5] tiles from inside friendly territory <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
@@ -96,7 +141,7 @@
 		             "[+35]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
 		             "[+40]% Strength <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", 
 
-			     "Nuclear weapon of Strength [1] <starting from the [Modern era]> <every [10] turns> <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
+			     "Nuclear weapon of Strength [1] <with [10]% chance>",
 			     "Blast radius [0]",
 
 			     "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
@@ -117,10 +162,10 @@
 		             "Triggers a global alert upon completion"],
 	},
 	{
-		"name": "Beholder of The Eye",
+		"name": "E Y E  Beholder",
 		"unitType": "Scout",
 		"uniqueTo": "The City",
-		"replaces": "Cavalry",
+		"replaces": "Marine",
 		"movement": 5,
 		"strength": 5,
 		"range": 1,
@@ -184,10 +229,10 @@
 		             "Triggers a global alert upon completion"],
 	},
 	{
-		"name": "Claw Armed Executioner",
+		"name": "E X E C U T I O N E R  Claw",
 		"unitType": "Sword",
 		"uniqueTo": "The City",
-		"replaces": "Mechanized Infantry",
+		"replaces": "Infantry",
 		"movement": 4,
 		"strength": 10,
 		"range": 5,
@@ -238,13 +283,13 @@
 		             "[+100]% Strength <when defending> <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
 		             "[+110]% Strength <when defending> <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 
-		             "[+30]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", //Ancient 
-		             "[+40]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", //Ancient
-		             "[+60]% Strength <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>", //Classical
-		             "[+90]% Strength <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>", //Classical
-		             "[+130]% Strength <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>", //Medieval
-		             "[+180]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>", //Renaissance
-		             "[+240]% Strength <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", //Industrial
+		             "[+30]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>",
+		             "[+40]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
+		             "[+60]% Strength <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+		             "[+90]% Strength <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
+		             "[+130]% Strength <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
+		             "[+180]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
+		             "[+240]% Strength <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 			
 		             "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
 		             "[1] additional attacks per turn <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
