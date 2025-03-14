@@ -132,7 +132,7 @@
 		"requiredBuilding": "Library of Ruina",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Instantly provides [50] [faith]",
+		"uniques": ["Instantly gain [50] [Faith]",
 
 			   "Destroyed when the city is captured",
 			
@@ -350,7 +350,7 @@
 		"uniqueTo": "The City",
 		"uniques": ["Can only be built <if [Nation-wide Releasing of The Seed of Light] is constructed in at least [1] of [Your] cities>",
 
-			   "Instantly provides [300] [Faith]",
+			   "Instantly gain [300] [Faith]",
 
 			   "Destroyed when the city is captured",
 			
