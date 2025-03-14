@@ -348,7 +348,7 @@
 		"requiredBuilding": "Library of Ruina",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Nation-wide Releasing of The Seed of Light] is constructed in at least [1] of [Your] cities>",
+		"uniques": ["Can only be built <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
 
 			   "Instantly gain [300] [Faith]",
 
