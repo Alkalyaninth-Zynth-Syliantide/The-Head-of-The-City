@@ -132,7 +132,7 @@
 		"requiredBuilding": "Library of Ruina",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Instantly provides [50] [Faith]",
+		"uniques": ["Instantly provides [50] [faith]",
 
 			   "Destroyed when the city is captured",
 			
