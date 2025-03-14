@@ -45,8 +45,6 @@
 		"uniqueTo": "The City",
 		"uniques": ["Requires at least [1] population",
 
-			   "Free [City Rat of The Backstreets] appears <every [1] turns> <upon turn end>",
-			
 			   "Unsellable",
 			   "Never destroyed when the city is captured",
 		
@@ -103,17 +101,15 @@
 		"happiness": 0,
 		"faith": 1,
 
-		"cost": 50,
+		"cost": 70,
 	},
 
 	{
-	        "name": "Tree of Life",
+	        "name": "Library of Ruina",
 		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Can only be built",
-
-			   "Never destroyed when the city is captured",
+		"uniques": ["Never destroyed when the city is captured",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -130,13 +126,40 @@
 
 		"cost": 30,
 	},
+
+	{
+	        "name": "City-wide Releasing of The Seed of Light",
+		"requiredBuilding": "Library of Ruina",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Instantly provides [50] [Faith]",
+
+			   "Destroyed when the city is captured",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 1,
+		"cityHealth": 1,
+		
+		"production": 0,
+		"food": 0,
+		"gold": 0,
+		"science": 0,
+		"culture": 0,
+		"happiness": 0,
+		"faith": 0,
+
+		"cost": 100,
+	},
+
+	//City Lvl - Global Myth & Associated Buildings
 	
 	{
 	        "name": "City LvL - Global Myth",
-		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
+		"requiredBuilding": "City-wide Releasing of The Seed of Light",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Requires at least [11] population",
+		"uniques": ["Requires at least [10] population",
 			
 			   "Empire enters a [2]-turn Golden Age",
 			   "[2] population [in this city]",
@@ -212,7 +235,7 @@
 		"requiredBuilding": "City LvL - Orbis Terrarum Legend",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Requires at least [20] population",
+		"uniques": ["Requires at least [23] population",
 			
 			   "City-State Influence recovers at twice the normal rate",
 			   "Empire enters a [4]-turn Golden Age",
@@ -248,7 +271,7 @@
 		"requiredBuilding": "City LvL - Pestilentia Internationalis",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Requires at least [23] population",
+		"uniques": ["Requires at least [31] population",
 			
 			   "Empire enters a [5]-turn Golden Age",
 			   "[5] population [in this city]",
@@ -280,13 +303,15 @@
 
 		"cost": 400,
 	},
+
+	//City Lvl - Orbis terrarum Stella & Associated Buildings
 	
 	{
 	        "name": "City LvL - Orbis Terrarum Stella",
 		"requiredBuilding": "City LvL - Internationalis Visio Nocturna",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Requires at least [25] population",
+		"uniques": ["Requires at least [40] population",
 			
 			   "City-State Influence recovers at twice the normal rate",
 			   "[+10]% Production towards any buildings that already exist in the Capital",
@@ -319,11 +344,41 @@
 	},
 	
 	{
+	        "name": "Nation-wide Releasing of The Seed of Light",
+		"requiredBuilding": "Library of Ruina",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Nation-wide Releasing of The Seed of Light] is constructed in at least [1] of [Your] cities>",
+
+			   "Instantly provides [300] [Faith]",
+
+			   "Destroyed when the city is captured",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 1,
+		"cityHealth": 1,
+		
+		"production": 1,
+		"food": 1,
+		"gold": 1,
+		"science": 1,
+		"culture": 1,
+		"happiness": 1,
+		"faith": 1,
+
+		"cost": 1000,
+	},
+
+	//City Lvl - Impuritas Internationalis
+	
+	{
 	        "name": "City LvL - Impuritas Internationalis",
 		"requiredBuilding": "City LvL - Orbis Terrarum Stella",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Requires at least [26] population",
+		"uniques": ["Can only be built <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
+			   "Requires at least [50] population",
 			
 			   "City-State Influence recovers at twice the normal rate",
 			   "[+20]% Production towards any buildings that already exist in the Capital",
