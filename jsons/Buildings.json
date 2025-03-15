@@ -17,6 +17,7 @@
 			   "[-10]% Culture cost of natural border growth [in this city]",
 			   "Each city founded increases culture cost of policies [5]% less than normal",
 			   "[+20]% City Strength from defensive buildings <when at war>",
+			   "[-50]% Unhappiness from [Population] [Your] <when at war>",
 			
 			   "[+75]% unhappiness from the number of cities <when not at war> <when not in a Golden Age> <while the empire is happy>",
 
@@ -112,7 +113,10 @@
 		
 		"uniqueTo": "The City",
 		"uniques": ["Never destroyed when the city is captured",
-			
+
+			   "Free [Grade 9 Office Fixer] appears",
+			   "Free [Grade 9 Office Fixer] appears <every [3] turns> <when at war>",
+			   
 		           "Triggers a global alert upon completion"],
 
 		"cityStrength": 1,
@@ -135,6 +139,9 @@
 		
 		"uniqueTo": "The City",
 		"uniques": ["Never destroyed when the city is captured",
+
+			   "Free [Grade 8 Office Fixer] appears",
+			   "Free [Grade 8 Office Fixer] appears <every [5] turns> <when at war>",
 			
 		           "Triggers a global alert upon completion"],
 
