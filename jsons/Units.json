@@ -626,7 +626,8 @@
 		             "[+110]% Strength <when defending> <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 
 		             "Nuclear weapon of Strength [1]",
-			     "[This Unit] heals [3] HP"
+			     "Blast radius [0]",
+			     "[This Unit] heals [100] HP <upon defeating a [All] unit>"",
 			
 		             "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
 		             "[1] additional attacks per turn <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
