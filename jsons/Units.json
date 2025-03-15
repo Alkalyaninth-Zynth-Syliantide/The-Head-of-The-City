@@ -64,8 +64,8 @@
 
 			    "Ignores Zone of Control",
   
-			    "Withdraws before melee combat <with [15]% chance>",
-			    "[+500]% Strength <when defending> <with [20]% chance>",
+			    "Withdraws before melee combat <with [10]% chance>",
+			    "[+500]% Strength <when defending> <with [5]% chance>",
 
 			    "[+10]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
 		            "[+15]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
@@ -92,7 +92,7 @@
 		"movement": 3,
 		"strength": 10,
 		"range": 1,
-		"cost": 150,
+		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities>",
 			
@@ -103,8 +103,90 @@
 
 			    "Ignores Zone of Control",
   
-			    "Withdraws before melee combat <with [15]% chance>",
+			    "Withdraws before melee combat <with [12]% chance>",
+			    "[+500]% Strength <when defending> <with [15]% chance>",
+
+			    "[+10]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
+		            "[+15]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
+		            "[+20]% Strength <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+		            "[+25]% Strength <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
+		            "[+30]% Strength <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
+		            "[+35]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
+		            "[+40]% Strength <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", 
+ 
+		            "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
+		            "[1] additional attacks per turn <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
+			    "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+			    "[1] additional attacks per turn <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
+			    "[1] additional attacks per turn <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
+			    "[2] additional attacks per turn <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
+		            "[3] additional attacks per turn <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>"],
+	},
+
+	//City LvL - Global Myth Associated Units
+
+	{
+		"name": "Grade 7 Office Fixer",
+		"unitType": "Sword",
+		"uniqueTo": "The City",
+		"replaces": "Swordsman",
+		"movement": 3,
+		"strength": 15,
+		"range": 1,
+		"cost": 150,
+		"uniques": ["Unbuildable",
+			    "Only available <if [Grade 7 Offices] is constructed in at least [1] of [in this city] cities>",
+			
+			    "May heal outside of friendly territory <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+			    "May enter foreign tiles without open borders",
+			    "Can move after attacking",
+			    "Can move immediately once bought",
+
+			    "Can upgrade to [Grade 8 Office Fixer]",
+
+			    "Ignores Zone of Control",
+  
+			    "Withdraws before melee combat <with [14]% chance>",
 			    "[+500]% Strength <when defending> <with [20]% chance>",
+
+			    "[+10]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
+		            "[+15]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
+		            "[+20]% Strength <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+		            "[+25]% Strength <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
+		            "[+30]% Strength <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
+		            "[+35]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
+		            "[+40]% Strength <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", 
+ 
+		            "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
+		            "[1] additional attacks per turn <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
+			    "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+			    "[1] additional attacks per turn <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
+			    "[1] additional attacks per turn <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
+			    "[2] additional attacks per turn <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
+		            "[3] additional attacks per turn <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>"],
+	},
+
+	{
+		"name": "Grade 6 Office Fixer",
+		"unitType": "Sword",
+		"uniqueTo": "The City",
+		"replaces": "Longswordsman",
+		"movement": 4,
+		"strength": 20,
+		"range": 1,
+		"cost": 250,
+		"uniques": ["Unbuildable",
+			    "Only available <if [Grade 6 Offices] is constructed in at least [1] of [in this city] cities>",
+			
+			    "May heal outside of friendly territory <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+			    "May enter foreign tiles without open borders",
+			    "Can move after attacking",
+			    "Can move immediately once bought",
+
+			    "Ignores Zone of Control",
+  
+			    "Withdraws before melee combat <with [16]% chance>",
+			    "[+500]% Strength <when defending> <with [25]% chance>",
 
 			    "[+10]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
 		            "[+15]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
@@ -158,7 +240,9 @@
 			     "All healing effects doubled <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
 
 			     "Withdraws before melee combat <with [10]% chance>",
-			     "[+500]% Strength <when defending> <with [33]% chance>",
+			     "[+100]% Strength <when defending> <with [75]% chance>",
+			     "[+200]% Strength <when defending> <with [50]% chance>",
+			     "[+300]% Strength <when defending> <with [25]% chance>",
 
 			     "[-3]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>",
 			     "[-4]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
@@ -249,6 +333,10 @@
 			     "Unit will heal every turn, even if it performs an action <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
 			     "All healing effects doubled <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
 
+			     "[+100]% Strength <when defending> <with [75]% chance>",
+			     "[+200]% Strength <when defending> <with [50]% chance>",
+			     "[+300]% Strength <when defending> <with [25]% chance>",
+
 			     "[-3]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>",
 			     "[-4]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
 			     "[-5]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
@@ -310,7 +398,10 @@
 			     "[+90]% chance to intercept air attacks",
 
 			     "Withdraws before melee combat <with [5]% chance>",
-			     "[+10000]% Strength <when defending> <with [15]% chance>",
+			     "[+100]% Strength <when defending> <with [75]% chance>",
+			     "[+200]% Strength <when defending> <with [50]% chance>",
+			     "[+300]% Strength <when defending> <with [25]% chance>",
+			     "[+99999]% Strength <when defending> <with [10]% chance>",
 
 			     "[-3]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>",
 			     "[-4]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
