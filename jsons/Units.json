@@ -487,15 +487,15 @@
 		             "[+70]% Strength <when defending> <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
 		             "[+75]% Strength <when defending> <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 
-		             "[+10]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
-		             "[+15]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
-		             "[+20]% Strength <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
-		             "[+25]% Strength <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
-		             "[+30]% Strength <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
-		             "[+35]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
-		             "[+40]% Strength <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", 
+		             "[+100]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
+		             "[+150]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
+		             "[+200]% Strength <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+		             "[+250]% Strength <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
+		             "[+300]% Strength <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
+		             "[+350]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
+		             "[+400]% Strength <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", 
 
-			     "Nuclear weapon of Strength [1] <upon damaging a [all] unit> <with [50]% chance>",
+			     "Nuclear weapon of Strength [100] <upon damaging a [all] unit> <with [50]% chance>",
 			     "Blast radius [0]",
 
 			     "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
