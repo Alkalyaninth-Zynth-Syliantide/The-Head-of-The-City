@@ -52,7 +52,8 @@
 		"strength": 5,
 		"range": 1,
 		"cost": 50,
-		"uniques": ["Only available <if [Grade 9 Offices] is constructed in at least [1] of [in this city] cities>",
+		"uniques": ["Unbuildable",
+			    "Only available <if [Grade 9 Offices] is constructed in at least [1] of [in this city] cities>",
 			
 			    "May heal outside of friendly territory <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
 			    "May enter foreign tiles without open borders",
@@ -92,7 +93,8 @@
 		"strength": 10,
 		"range": 1,
 		"cost": 150,
-		"uniques": ["Only available <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities>",
+		"uniques": ["Unbuildable",
+			    "Only available <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities>",
 			
 			    "May heal outside of friendly territory <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
 			    "May enter foreign tiles without open borders",
