@@ -570,7 +570,7 @@
 	},
 	{
 		"name": "E X E C U T I O N E R  Claw",
-		"unitType": "Scout",
+		"unitType": "Sword",
 		"uniqueTo": "The City",
 		"replaces": "Infantry",
 		"movement": 4,
