@@ -205,6 +205,8 @@
 		            "[3] additional attacks per turn <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>"],
 	},
 
+	//City LvL - Orbis Terrarum Legend Associated Units
+
 	{
 		"name": "Grade 5 Office Fixer",
 		"unitType": "Sword",
@@ -285,6 +287,8 @@
 		            "[3] additional attacks per turn <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>"],
 	},
 
+	//City LvL - Pestilentia Internationalis Associated Units
+
 	{
 		"name": "Grade 3 Office Fixer",
 		"unitType": "Sword",
@@ -325,6 +329,8 @@
 		            "[3] additional attacks per turn <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>"],
 	},
 
+	//City LvL -Internationalis Visio Nocturna Associated Units
+
 	{
 		"name": "Grade 2 Office Fixer",
 		"unitType": "Sword",
@@ -364,6 +370,8 @@
 			    "[2] additional attacks per turn <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
 		            "[3] additional attacks per turn <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>"],
 	},
+
+	//City LvL - Orbis Terrarum Stella Associated Units
 
 	{
 		"name": "Grade 1 Office Fixer",
