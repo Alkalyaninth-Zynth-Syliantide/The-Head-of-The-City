@@ -250,6 +250,60 @@
 		"cost": 100,
 	},
 
+	{
+	        "name": "Grade 7 Offices",
+		"requiredBuilding": "City LvL - Global Myth",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities>",
+			   "Never destroyed when the city is captured",
+
+			   "Free [Grade 7 Office Fixer] appears",
+			   "Free [Grade 7 Office Fixer] appears <every [3] turns> <when at war>",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 1,
+		"cityHealth": 1,
+		
+		"production": 3,
+		"food": 0,
+		"gold": 0,
+		"science": 0,
+		"culture": 0,
+		"happiness": 1,
+		"faith": 0,
+
+		"cost": 75,
+	},
+
+	{
+	        "name": "Grade 6 Offices",
+		"requiredBuilding": "City LvL - Global Myth",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Grade 7 Offices] is constructed in at least [1] of [in this city] cities>",
+			   "Never destroyed when the city is captured",
+
+			   "Free [Grade 6 Office Fixer] appears",
+			   "Free [Grade 6 Office Fixer] appears <every [4] turns> <when at war>",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 1,
+		"cityHealth": 1,
+		
+		"production": 4,
+		"food": 0,
+		"gold": 0,
+		"science": 0,
+		"culture": 0,
+		"happiness": 1,
+		"faith": 0,
+
+		"cost": 75,
+	},
+
 	//City Lvl - Orbis Terrarum Legend & Associated Buildings
 	
 	{
