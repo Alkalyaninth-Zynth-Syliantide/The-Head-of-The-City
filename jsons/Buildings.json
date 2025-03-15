@@ -436,6 +436,7 @@
 			   "Free [Grade 9 Office Fixer] appears <every [2] turns> <when at war>",
 			   "[1] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
+			   "[+5]% [Gold] [in this city]",
 			   
 		           "Triggers a global alert upon completion"],
 
@@ -465,6 +466,7 @@
 			   "Free [Grade 8 Office Fixer] appears <upon gaining a [Grade 9 Office Fixer] unit> <every [2] turns>",
 			   "[2] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
+			   "[+5]% [Gold] [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -494,6 +496,7 @@
 			   "Free [Grade 7 Office Fixer] appears <upon gaining a [Grade 8 Office Fixer] unit> <every [2] turns>",
 			   "[3] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
+			   "[+5]% [Gold] [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -523,6 +526,7 @@
 			   "Free [Grade 6 Office Fixer] appears <upon gaining a [Grade 7 Office Fixer] unit> <every [2] turns>",
 			   "[4] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
+			   "[+5]% [Gold] [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -552,6 +556,7 @@
 			   "Free [Grade 5 Office Fixer] appears <upon gaining a [Grade 6 Office Fixer] unit> <every [2] turns>",
 			   "[5] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
+			   "[+5]% [Gold] [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -581,6 +586,7 @@
 			   "Free [Grade 4 Office Fixer] appears <upon gaining a [Grade 5 Office Fixer] unit> <every [2] turns>",
 			   "[6] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
+			   "[+5]% [Gold] [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -610,6 +616,7 @@
 			   "Free [Grade 3 Office Fixer] appears <upon gaining a [Grade 4 Office Fixer] unit> <every [2] turns>",
 			   "[7] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
+			   "[+5]% [Gold] [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -639,6 +646,7 @@
 			   "Free [Grade 2 Office Fixer] appears <upon gaining a [Grade 3 Office Fixer] unit> <every [2] turns>",
 			   "[8] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
+			   "[+5]% [Gold] [in this city]",
 			 
 		           "Triggers a global alert upon completion"],
 
@@ -668,6 +676,7 @@
 			   "Free [Grade 1 Office Fixer] appears <upon gaining a [Grade 2 Office Fixer] unit> <every [2] turns>",
 			   "[9] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
+			   "[+5]% [Gold] [in this city]",
 			 
 		           "Triggers a global alert upon completion"],
 
