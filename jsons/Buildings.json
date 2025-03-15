@@ -115,19 +115,19 @@
 		"uniques": ["Never destroyed when the city is captured",
 
 			   "Free [Grade 9 Office Fixer] appears",
-			   "Free [Grade 9 Office Fixer] appears <every [3] turns> <when at war>",
+			   "Free [Grade 9 Office Fixer] appears <every [1] turns> <when at war>",
 			   
 		           "Triggers a global alert upon completion"],
 
 		"cityStrength": 1,
 		"cityHealth": 1,
 		
-		"production": 0,
+		"production": 1,
 		"food": 0,
 		"gold": 0,
 		"science": 0,
 		"culture": 0,
-		"happiness": 0,
+		"happiness": 1,
 		"faith": 0,
 
 		"cost": 30,
@@ -141,19 +141,19 @@
 		"uniques": ["Never destroyed when the city is captured",
 
 			   "Free [Grade 8 Office Fixer] appears",
-			   "Free [Grade 8 Office Fixer] appears <every [5] turns> <when at war>",
+			   "Free [Grade 8 Office Fixer] appears <every [2] turns> <when at war>",
 			
 		           "Triggers a global alert upon completion"],
 
 		"cityStrength": 1,
 		"cityHealth": 1,
 		
-		"production": 0,
+		"production": 2,
 		"food": 0,
 		"gold": 0,
 		"science": 0,
 		"culture": 0,
-		"happiness": 0,
+		"happiness": 1,
 		"faith": 0,
 
 		"cost": 50,
@@ -198,12 +198,12 @@
 		"cityStrength": 1,
 		"cityHealth": 1,
 		
-		"production": 0,
+		"production": 1,
 		"food": 0,
 		"gold": 0,
 		"science": 0,
-		"culture": 0,
-		"happiness": 0,
+		"culture": 1,
+		"happiness": 1,
 		"faith": 0,
 
 		"cost": 100,
@@ -221,13 +221,13 @@
 			
 			   "Empire enters a [2]-turn Golden Age",
 			   "[2] population [in this city]",
-			   "[+1]% [Production] from every [improved]",
-			   "[+1]% [Food] from every [improved]",
-			   "[+1]% [Gold] from every [improved]",
-			   "[+1]% [Science] from every [improved]",
-			   "[+1]% [Culture] from every [improved]",
-			   "[+1]% [Happiness] from every [improved]",
-			   "[+1]% [Faith] from every [improved]",
+			   "[+10]% [Production] from every [improved]",
+			   "[+10]% [Food] from every [improved]",
+			   "[+10]% [Gold] from every [improved]",
+			   "[+10]% [Science] from every [improved]",
+			   "[+10]% [Culture] from every [improved]",
+			   "[+10]% [Happiness] from every [improved]",
+			   "[+10]% [Faith] from every [improved]",
 
 			   "Rebel units may spawn <every [6] turns>",
 			   
