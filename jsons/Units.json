@@ -470,14 +470,7 @@
 
 			     "Nuclear weapon of Strength [100]",
 			     "Blast radius [0]",
-
-			     "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
-		             "[1] additional attacks per turn <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
-			     "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
-			     "[1] additional attacks per turn <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
-			     "[1] additional attacks per turn <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
-			     "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
-			     "[1] additional attacks per turn <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
+			     "[This Unit] heals [100] HP <upon losing at least [1] HP in a single attack>",
 
 			     "[3] Sight",
 
@@ -554,6 +547,8 @@
 		             "[+18]% Strength <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
 		             "[+20]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
 		             "[+22]% Strength <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", 
+
+			     "[This Unit] heals [100] HP <upon losing at least [1] HP in a single attack>",
 			
 		             "[1] Sight <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
 		             "[1] Sight <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
@@ -619,7 +614,7 @@
 		             "[+110]% Strength <when defending> <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 
 		             "Nuclear weapon of Strength [1]",
-			     "[This Unit] heals [100] HP <upon defeating a [All] unit>",
+			     "[This Unit] heals [100] HP <upon losing at least [1] HP in a single attack>",
 			
 		             "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
 		             "[1] additional attacks per turn <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
