@@ -66,7 +66,7 @@
 		"cost": 30,
 	},
 	
-	//City LvL - Orbis Terrarum Canard & Associated Buildings
+	//City Levels
 	
 	{
 	        "name": "City LvL - Orbis Terrarum Canard",
@@ -106,58 +106,240 @@
 		"cost": 30,
 	},
 
-	
+
 	{
-	        "name": "Grade 9 Offices",
+	        "name": "City LvL - Global Myth",
 		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Never destroyed when the city is captured",
+		"uniques": ["Can only be built <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities> <if [City-wide Releasing of The Seed of Light] is constructed in at least [1] of [in this city] cities>",
+			   "Requires at least [10] population",
+			
+			   "Empire enters a [2]-turn Golden Age",
+			   "[2] population [in this city]",
+			   "[+10]% [Production] from every [improved]",
+			   "[+10]% [Food] from every [improved]",
+			   "[+10]% [Gold] from every [improved]",
+			   "[+10]% [Science] from every [improved]",
+			   "[+10]% [Culture] from every [improved]",
+			   "[+10]% [Happiness] from every [improved]",
+			   "[+10]% [Faith] from every [improved]",
 
-			   "Free [Grade 9 Office Fixer] appears",
-			   "Free [Grade 9 Office Fixer] appears <every [1] turns> <when at war>",
+			   "Rebel units may spawn <every [6] turns>",
 			   
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 1,
-		"cityHealth": 1,
-		
-		"production": 1,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 0,
-		"happiness": 1,
-		"faith": 0,
-
-		"cost": 30,
-	},
-
-	{
-	        "name": "Grade 8 Offices",
-		"requiredBuilding": "Grade 9 Offices",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Never destroyed when the city is captured",
-
-			   "Free [Grade 8 Office Fixer] appears",
-			   "Free [Grade 8 Office Fixer] appears <every [2] turns> <when at war>",
+			   "Unsellable",
+			   "Never destroyed when the city is captured",
 			
 		           "Triggers a global alert upon completion"],
 
-		"cityStrength": 1,
-		"cityHealth": 1,
+		"cityStrength": 2,
+		"cityHealth": 2,
 		
-		"production": 2,
-		"food": 0,
-		"gold": 0,
+		"production": 1,
+		"food": 1,
+		"gold": 1,
 		"science": 0,
-		"culture": 0,
-		"happiness": 1,
-		"faith": 0,
+		"culture": 2,
+		"happiness": 0,
+		"faith": 2,
 
-		"cost": 50,
+		"cost": 100,
 	},
+
+
+	{
+	        "name": "City LvL - Orbis Terrarum Legend",
+		"requiredBuilding": "City LvL - Global Myth",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Requires at least [16] population",
+			
+			   "Empire enters a [3]-turn Golden Age",
+			   "[3] population [in this city]",
+			   "[+1]% [Production] from every [Building]",
+			   "[+1]% [Food] from every [Building]",
+			   "[+1]% [Gold] from every [Building]",
+			   "[+1]% [Science] from every [Building]",
+			   "[+1]% [Culture] from every [Building]",
+			   "[+1]% [Happiness] from every [Building]",
+			   "[+1]% [Faith] from every [Building]",
+
+			   "Rebel units may spawn <every [5] turns>",
+			   
+			   "Unsellable",
+			   "Never destroyed when the city is captured",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 3,
+		"cityHealth": 3,
+		
+		"production": 3,
+		"food": 2,
+		"gold": 1,
+		"science": 1,
+		"culture": 3,
+		"happiness": 1,
+		"faith": 2,
+
+		"cost": 150,
+	},
+
+
+	{
+	        "name": "City LvL - Pestilentia Internationalis",
+		"requiredBuilding": "City LvL - Orbis Terrarum Legend",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Requires at least [23] population",
+			
+			   "City-State Influence recovers at twice the normal rate",
+			   "Empire enters a [4]-turn Golden Age",
+			   "[4] population [in this city]",
+			   "[1] Unit Supply per [5] population [in this city]",
+			   "[+10]% Production when constructing [all] units [in this city]",
+			   "[5]% Food is carried over after population increases [in this city]",
+                           "[-10]% Culture cost of natural border growth [in this city]",
+
+			   "Rebel units may spawn <every [4] turns>",
+			   
+			   "Unsellable",
+			   "Never destroyed when the city is captured",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 4,
+		"cityHealth": 4,
+		
+		"production": 5,
+		"food": 3,
+		"gold": 2,
+		"science": 1,
+		"culture": 3,
+		"happiness": 2,
+		"faith": 2,
+
+		"cost": 250,
+	},
+
+
+	{
+	        "name": "City LvL - Internationalis Visio Nocturna",
+		"requiredBuilding": "City LvL - Pestilentia Internationalis",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Requires at least [31] population",
+			
+			   "Empire enters a [5]-turn Golden Age",
+			   "[5] population [in this city]",
+			   "[+5]% of excess happiness converted to [Production]",
+			   "[+5]% of excess happiness converted to [Food]",
+			   "[+5]% of excess happiness converted to [Gold]",
+			   "[+5]% of excess happiness converted to [Science]",
+			   "[+5]% of excess happiness converted to [Culture]",
+			   "[+5]% of excess happiness converted to [Happiness]",
+			   "[+5]% of excess happiness converted to [Faith]",
+
+			   "Rebel units may spawn <every [3] turns>",
+			   
+			   "Unsellable",
+			   "Never destroyed when the city is captured",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 5,
+		"cityHealth": 5,
+		
+		"production": 5,
+		"food": 3,
+		"gold": 3,
+		"science": 2,
+		"culture": 3,
+		"happiness": 2,
+		"faith": 3,
+
+		"cost": 400,
+	},
+
+
+	{
+	        "name": "City LvL - Orbis Terrarum Stella",
+		"requiredBuilding": "City LvL - Internationalis Visio Nocturna",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Requires at least [40] population",
+			
+			   "City-State Influence recovers at twice the normal rate",
+			   "[+10]% Production towards any buildings that already exist in the Capital",
+			   "Empire enters a [6]-turn Golden Age",
+			   "Empire enters a [1]-turn Golden Age <every [15] turns>",
+			   "[6] population [in this city]",
+			   "[5]% City Strength from defensive buildings",
+			   "[10]% Food is carried over after population increases [in this city]",
+
+			   "[1]% Unhappiness from [Unemployed] [in this city]",
+			   "Rebel units may spawn <every [2] turns>",
+			   
+			   "Unsellable",
+			   "Never destroyed when the city is captured",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 6,
+		"cityHealth": 6,
+		
+		"production": 5,
+		"food": 3,
+		"gold": 4,
+		"science": 2,
+		"culture": 4,
+		"happiness": 2,
+		"faith": 3,
+
+		"cost": 650,
+	},
+
+	{
+	        "name": "City LvL - Impuritas Internationalis",
+		"requiredBuilding": "City LvL - Orbis Terrarum Stella",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Nation-wide Releasing of The Seed of Light] is constructed in at least [1] of [Your] cities>",
+			   "Requires at least [50] population",
+			
+			   "City-State Influence recovers at twice the normal rate",
+			   "[+20]% Production towards any buildings that already exist in the Capital",
+			   "Empire enters a [7]-turn Golden Age",
+			   "Empire enters a [1]-turn Golden Age <every [7] turns>",
+			   "[7] population [in this city]",
+			   "[1] population [in this city] <every [1] turns>",
+			   "[+1 Production, +1 Food, +1 Gold, +1 Science, +1 Culture, +1 Happiness, +1 Faith] per [1] population [in this city] <during a Golden Age>",
+			   "Population loss from nuclear attacks [-95]% [in this city]",
+
+			   "[1]% Unhappiness from [Population] [in this city]",
+			   "Rebel units may spawn <every [1] turns>",
+			   
+			   "Unsellable",
+			   "Never destroyed when the city is captured",
+			   "Doubles Gold given to enemy if city is captured",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 7,
+		"cityHealth": 7,
+		
+		"production": 6,
+		"food": 4,
+		"gold": 5,
+		"science": 2,
+		"culture": 5,
+		"happiness": 2,
+		"faith": 3,
+
+		"cost": 1050,
+	},
+
+	//Library of Ruina & Events
 
 	{
 	        "name": "Library of Ruina",
@@ -209,258 +391,6 @@
 		"cost": 100,
 	},
 
-	//City Lvl - Global Myth & Associated Buildings
-	
-	{
-	        "name": "City LvL - Global Myth",
-		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities> <if [City-wide Releasing of The Seed of Light] is constructed in at least [1] of [in this city] cities>",
-			   "Requires at least [10] population",
-			
-			   "Empire enters a [2]-turn Golden Age",
-			   "[2] population [in this city]",
-			   "[+10]% [Production] from every [improved]",
-			   "[+10]% [Food] from every [improved]",
-			   "[+10]% [Gold] from every [improved]",
-			   "[+10]% [Science] from every [improved]",
-			   "[+10]% [Culture] from every [improved]",
-			   "[+10]% [Happiness] from every [improved]",
-			   "[+10]% [Faith] from every [improved]",
-
-			   "Rebel units may spawn <every [6] turns>",
-			   
-			   "Unsellable",
-			   "Never destroyed when the city is captured",
-			
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 2,
-		"cityHealth": 2,
-		
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 0,
-		"culture": 2,
-		"happiness": 0,
-		"faith": 2,
-
-		"cost": 100,
-	},
-
-	{
-	        "name": "Grade 7 Offices",
-		"requiredBuilding": "City LvL - Global Myth",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities>",
-			   "Never destroyed when the city is captured",
-
-			   "Free [Grade 7 Office Fixer] appears",
-			   "Free [Grade 7 Office Fixer] appears <every [3] turns> <when at war>",
-			
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 1,
-		"cityHealth": 1,
-		
-		"production": 3,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 0,
-		"happiness": 1,
-		"faith": 0,
-
-		"cost": 75,
-	},
-
-	{
-	        "name": "Grade 6 Offices",
-		"requiredBuilding": "City LvL - Global Myth",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Grade 7 Offices] is constructed in at least [1] of [in this city] cities>",
-			   "Never destroyed when the city is captured",
-
-			   "Free [Grade 6 Office Fixer] appears",
-			   "Free [Grade 6 Office Fixer] appears <every [4] turns> <when at war>",
-			
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 1,
-		"cityHealth": 1,
-		
-		"production": 4,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 0,
-		"happiness": 1,
-		"faith": 0,
-
-		"cost": 75,
-	},
-
-	//City Lvl - Orbis Terrarum Legend & Associated Buildings
-	
-	{
-	        "name": "City LvL - Orbis Terrarum Legend",
-		"requiredBuilding": "City LvL - Global Myth",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Requires at least [16] population",
-			
-			   "Empire enters a [3]-turn Golden Age",
-			   "[3] population [in this city]",
-			   "[+1]% [Production] from every [Building]",
-			   "[+1]% [Food] from every [Building]",
-			   "[+1]% [Gold] from every [Building]",
-			   "[+1]% [Science] from every [Building]",
-			   "[+1]% [Culture] from every [Building]",
-			   "[+1]% [Happiness] from every [Building]",
-			   "[+1]% [Faith] from every [Building]",
-
-			   "Rebel units may spawn <every [5] turns>",
-			   
-			   "Unsellable",
-			   "Never destroyed when the city is captured",
-			
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 3,
-		"cityHealth": 3,
-		
-		"production": 3,
-		"food": 2,
-		"gold": 1,
-		"science": 1,
-		"culture": 3,
-		"happiness": 1,
-		"faith": 2,
-
-		"cost": 150,
-	},
-
-	//City Lvl - Pestilentia Internationalis & Associated Buildings
-	
-	{
-	        "name": "City LvL - Pestilentia Internationalis",
-		"requiredBuilding": "City LvL - Orbis Terrarum Legend",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Requires at least [23] population",
-			
-			   "City-State Influence recovers at twice the normal rate",
-			   "Empire enters a [4]-turn Golden Age",
-			   "[4] population [in this city]",
-			   "[1] Unit Supply per [5] population [in this city]",
-			   "[+10]% Production when constructing [all] units [in this city]",
-			   "[5]% Food is carried over after population increases [in this city]",
-                           "[-10]% Culture cost of natural border growth [in this city]",
-
-			   "Rebel units may spawn <every [4] turns>",
-			   
-			   "Unsellable",
-			   "Never destroyed when the city is captured",
-			
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 4,
-		"cityHealth": 4,
-		
-		"production": 5,
-		"food": 3,
-		"gold": 2,
-		"science": 1,
-		"culture": 3,
-		"happiness": 2,
-		"faith": 2,
-
-		"cost": 250,
-	},
-
-	//City Lvl - Internationalis Visio Nocturna & Associated Buildings
-	
-	{
-	        "name": "City LvL - Internationalis Visio Nocturna",
-		"requiredBuilding": "City LvL - Pestilentia Internationalis",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Requires at least [31] population",
-			
-			   "Empire enters a [5]-turn Golden Age",
-			   "[5] population [in this city]",
-			   "[+5]% of excess happiness converted to [Production]",
-			   "[+5]% of excess happiness converted to [Food]",
-			   "[+5]% of excess happiness converted to [Gold]",
-			   "[+5]% of excess happiness converted to [Science]",
-			   "[+5]% of excess happiness converted to [Culture]",
-			   "[+5]% of excess happiness converted to [Happiness]",
-			   "[+5]% of excess happiness converted to [Faith]",
-
-			   "Rebel units may spawn <every [3] turns>",
-			   
-			   "Unsellable",
-			   "Never destroyed when the city is captured",
-			
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 5,
-		"cityHealth": 5,
-		
-		"production": 5,
-		"food": 3,
-		"gold": 3,
-		"science": 2,
-		"culture": 3,
-		"happiness": 2,
-		"faith": 3,
-
-		"cost": 400,
-	},
-
-	//City Lvl - Orbis terrarum Stella & Associated Buildings
-	
-	{
-	        "name": "City LvL - Orbis Terrarum Stella",
-		"requiredBuilding": "City LvL - Internationalis Visio Nocturna",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Requires at least [40] population",
-			
-			   "City-State Influence recovers at twice the normal rate",
-			   "[+10]% Production towards any buildings that already exist in the Capital",
-			   "Empire enters a [6]-turn Golden Age",
-			   "Empire enters a [1]-turn Golden Age <every [15] turns>",
-			   "[6] population [in this city]",
-			   "[5]% City Strength from defensive buildings",
-			   "[10]% Food is carried over after population increases [in this city]",
-
-			   "[1]% Unhappiness from [Unemployed] [in this city]",
-			   "Rebel units may spawn <every [2] turns>",
-			   
-			   "Unsellable",
-			   "Never destroyed when the city is captured",
-			
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 6,
-		"cityHealth": 6,
-		
-		"production": 5,
-		"food": 3,
-		"gold": 4,
-		"science": 2,
-		"culture": 4,
-		"happiness": 2,
-		"faith": 3,
-
-		"cost": 650,
-	},
-	
 	{
 	        "name": "Nation-wide Releasing of The Seed of Light",
 		"requiredBuilding": "Library of Ruina",
@@ -490,47 +420,112 @@
 		"cost": 1000,
 	},
 
-	//City Lvl - Impuritas Internationalis & Associated Buildings
-	
+	//City Offices
+
 	{
-	        "name": "City LvL - Impuritas Internationalis",
-		"requiredBuilding": "City LvL - Orbis Terrarum Stella",
+	        "name": "Grade 9 Offices",
+		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Nation-wide Releasing of The Seed of Light] is constructed in at least [1] of [Your] cities>",
-			   "Requires at least [50] population",
-			
-			   "City-State Influence recovers at twice the normal rate",
-			   "[+20]% Production towards any buildings that already exist in the Capital",
-			   "Empire enters a [7]-turn Golden Age",
-			   "Empire enters a [1]-turn Golden Age <every [7] turns>",
-			   "[7] population [in this city]",
-			   "[1] population [in this city] <every [1] turns>",
-			   "[+1 Production, +1 Food, +1 Gold, +1 Science, +1 Culture, +1 Happiness, +1 Faith] per [1] population [in this city] <during a Golden Age>",
-			   "Population loss from nuclear attacks [-95]% [in this city]",
+		"uniques": ["Never destroyed when the city is captured",
 
-			   "[1]% Unhappiness from [Population] [in this city]",
-			   "Rebel units may spawn <every [1] turns>",
+			   "Free [Grade 9 Office Fixer] appears",
+			   "Free [Grade 9 Office Fixer] appears <every [1] turns> <when at war>",
 			   
-			   "Unsellable",
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 1,
+		"cityHealth": 1,
+		
+		"production": 1,
+		"food": 0,
+		"gold": 0,
+		"science": 0,
+		"culture": 0,
+		"happiness": 1,
+		"faith": 0,
+
+		"cost": 30,
+	},
+
+	{
+	        "name": "Grade 8 Offices",
+		"requiredBuilding": "Grade 9 Offices",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Grade 9 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
-			   "Doubles Gold given to enemy if city is captured",
+
+			   "Free [Grade 8 Office Fixer] appears",
+			   "Free [Grade 8 Office Fixer] appears <upon gaining a [Grade 9 Office Fixer] unit> <every [2] turns> <when at war>",
 			
 		           "Triggers a global alert upon completion"],
 
-		"cityStrength": 7,
-		"cityHealth": 7,
+		"cityStrength": 1,
+		"cityHealth": 1,
 		
-		"production": 6,
-		"food": 4,
-		"gold": 5,
-		"science": 2,
-		"culture": 5,
-		"happiness": 2,
-		"faith": 3,
+		"production": 2,
+		"food": 0,
+		"gold": 0,
+		"science": 0,
+		"culture": 0,
+		"happiness": 1,
+		"faith": 0,
 
-		"cost": 1050,
+		"cost": 50,
 	},
 
-	//Library of Ruina Level & Events
+	{
+	        "name": "Grade 7 Offices",
+		"requiredBuilding": "City LvL - Global Myth",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities>",
+			   "Never destroyed when the city is captured",
+
+			   "Free [Grade 7 Office Fixer] appears",
+			   "Free [Grade 7 Office Fixer] appears <upon gaining a [Grade 8 Office Fixer] unit> <every [2] turns> <when at war>",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 1,
+		"cityHealth": 1,
+		
+		"production": 3,
+		"food": 0,
+		"gold": 0,
+		"science": 0,
+		"culture": 0,
+		"happiness": 1,
+		"faith": 0,
+
+		"cost": 75,
+	},
+
+	{
+	        "name": "Grade 6 Offices",
+		"requiredBuilding": "City LvL - Global Myth",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Grade 7 Offices] is constructed in at least [1] of [in this city] cities>",
+			   "Never destroyed when the city is captured",
+
+			   "Free [Grade 6 Office Fixer] appears",
+			   "Free [Grade 6 Office Fixer] appears <upon gaining a [Grade 7 Office Fixer] unit> <every [2] turns> <when at war>",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 1,
+		"cityHealth": 1,
+		
+		"production": 4,
+		"food": 0,
+		"gold": 0,
+		"science": 0,
+		"culture": 0,
+		"happiness": 1,
+		"faith": 0,
+
+		"cost": 75,
+	}
 ]
