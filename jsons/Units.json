@@ -80,6 +80,44 @@
 			    "[2] additional attacks per turn <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
 		            "[3] additional attacks per turn <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>"],
 	},
+
+	{
+		"name": "Grade 8 Office Fixer",
+		"unitType": "Scout",
+		"uniqueTo": "The City",
+		"replaces": "Swordsman",
+		"movement": 3,
+		"strength": 10,
+		"range": 1,
+		"cost": 100,
+		"uniques": ["Only available <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>",
+			
+			    "May heal outside of friendly territory <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+			    "May enter foreign tiles without open borders",
+			    "Can move after attacking",
+			    "Can move immediately once bought",
+
+			    "Ignores Zone of Control",
+  
+			    "Withdraws before melee combat <with [15]% chance>",
+			    "[+500]% Strength <when defending> <with [20]% chance>",
+
+			    "[+10]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
+		            "[+15]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
+		            "[+20]% Strength <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+		            "[+25]% Strength <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
+		            "[+30]% Strength <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
+		            "[+35]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
+		            "[+40]% Strength <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", 
+ 
+		            "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
+		            "[1] additional attacks per turn <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
+			    "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
+			    "[1] additional attacks per turn <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
+			    "[1] additional attacks per turn <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
+			    "[2] additional attacks per turn <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
+		            "[3] additional attacks per turn <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>"],
+	},
 	
 	//Top Three Agents of The Head
 	
@@ -89,7 +127,7 @@
 		"uniqueTo": "The City",
 		"replaces": "Great War Infantry",
 		"movement": 2,
-		"strength": 10,
+		"strength": 30,
 		"rangedStrength": 5,
 		"range": 1,
 		"cost": 25,
@@ -116,7 +154,7 @@
 			     "All healing effects doubled <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
 
 			     "Withdraws before melee combat <with [10]% chance>",
-			     "[+500]% Strength <when defending> <with [25]% chance>",
+			     "[+500]% Strength <when defending> <with [33]% chance>",
 
 			     "[-3]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>",
 			     "[-4]% Strength for enemy [All] units in adjacent [All] tiles <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
@@ -142,7 +180,7 @@
 		             "[+35]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
 		             "[+40]% Strength <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", 
 
-			     "Nuclear weapon of Strength [1] <every [1] turns> <with [20]% chance>",
+			     "Nuclear weapon of Strength [1] <when attacking> <with [20]% chance>",
 			     "Blast radius [0]",
 
 			     "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
@@ -168,7 +206,7 @@
 		"uniqueTo": "The City",
 		"replaces": "Marine",
 		"movement": 5,
-		"strength": 5,
+		"strength": 10,
 		"range": 1,
 		"cost": 25,
 		"uniques": [ "Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Your] cities>",
