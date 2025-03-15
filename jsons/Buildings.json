@@ -102,7 +102,7 @@
 		"happiness": 0,
 		"faith": 1,
 
-		"cost": 70,
+		"cost": 30,
 	},
 
 	
@@ -126,7 +126,7 @@
 		"happiness": 0,
 		"faith": 0,
 
-		"cost": 100,
+		"cost": 30,
 	},
 
 	{
@@ -149,7 +149,7 @@
 		"happiness": 0,
 		"faith": 0,
 
-		"cost": 200,
+		"cost": 50,
 	},
 
 	{
@@ -172,7 +172,7 @@
 		"happiness": 0,
 		"faith": 0,
 
-		"cost": 30,
+		"cost": 15,
 	},
 
 	{
