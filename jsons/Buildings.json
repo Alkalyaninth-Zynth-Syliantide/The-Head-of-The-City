@@ -450,7 +450,7 @@
 
 	{
 	        "name": "Grade 8 Offices",
-		"requiredBuilding": "Grade 9 Offices",
+		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
 		
 		"uniqueTo": "The City",
 		"uniques": ["Can only be built <if [Grade 9 Offices] is constructed in at least [1] of [in this city] cities>",
@@ -515,8 +515,8 @@
 			
 		           "Triggers a global alert upon completion"],
 
-		"cityStrength": 1,
-		"cityHealth": 1,
+		"cityStrength": 2,
+		"cityHealth": 2,
 		
 		"production": 4,
 		"food": 0,
@@ -526,6 +526,141 @@
 		"happiness": 1,
 		"faith": 0,
 
-		"cost": 75,
-	}
+		"cost": 105,
+	},
+
+	{
+	        "name": "Grade 5 Offices",
+		"requiredBuilding": "City LvL - Orbis Terrarum Legend",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Grade 6 Offices] is constructed in at least [1] of [in this city] cities>",
+			   "Never destroyed when the city is captured",
+
+			   "Free [Grade 5 Office Fixer] appears",
+			   "Free [Grade 5 Office Fixer] appears <upon gaining a [Grade 6 Office Fixer] unit> <every [2] turns> <when at war>",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 2,
+		"cityHealth": 2,
+		
+		"production": 5,
+		"food": 0,
+		"gold": 0,
+		"science": 0,
+		"culture": 0,
+		"happiness": 1,
+		"faith": 0,
+
+		"cost": 140,
+	},
+
+	{
+	        "name": "Grade 4 Offices",
+		"requiredBuilding": "City LvL - Orbis Terrarum Legend",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Grade 5 Offices] is constructed in at least [1] of [in this city] cities>",
+			   "Never destroyed when the city is captured",
+
+			   "Free [Grade 4 Office Fixer] appears",
+			   "Free [Grade 4 Office Fixer] appears <upon gaining a [Grade 5 Office Fixer] unit> <every [2] turns> <when at war>",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 2,
+		"cityHealth": 2,
+		
+		"production": 6,
+		"food": 0,
+		"gold": 0,
+		"science": 0,
+		"culture": 0,
+		"happiness": 1,
+		"faith": 0,
+
+		"cost": 175,
+	},
+
+	{
+	        "name": "Grade 3 Offices",
+		"requiredBuilding": "City LvL - Pestilentia Internationalis",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Grade 4 Offices] is constructed in at least [1] of [in this city] cities>",
+			   "Never destroyed when the city is captured",
+
+			   "Free [Grade 3 Office Fixer] appears",
+			   "Free [Grade 3 Office Fixer] appears <upon gaining a [Grade 4 Office Fixer] unit> <every [2] turns> <when at war>",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 3,
+		"cityHealth": 3,
+		
+		"production": 7,
+		"food": 0,
+		"gold": 0,
+		"science": 0,
+		"culture": 0,
+		"happiness": 1,
+		"faith": 0,
+
+		"cost": 215,
+	},
+
+	{
+	        "name": "Grade 2 Offices",
+		"requiredBuilding": "City LvL - Internationalis Visio Nocturna",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Grade 3 Offices] is constructed in at least [1] of [in this city] cities>",
+			   "Never destroyed when the city is captured",
+
+			   "Free [Grade 2 Office Fixer] appears",
+			   "Free [Grade 2 Office Fixer] appears <upon gaining a [Grade 3 Office Fixer] unit> <every [2] turns> <when at war>",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 3,
+		"cityHealth": 3,
+		
+		"production": 8,
+		"food": 0,
+		"gold": 0,
+		"science": 0,
+		"culture": 0,
+		"happiness": 1,
+		"faith": 0,
+
+		"cost": 260,
+	},
+
+	{
+	        "name": "Grade 1 Offices",
+		"requiredBuilding": "City LvL - Orbis Terrarum Stella",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Grade 2 Offices] is constructed in at least [1] of [in this city] cities>",
+			   "Never destroyed when the city is captured",
+
+			   "Free [Grade 1 Office Fixer] appears",
+			   "Free [Grade 1 Office Fixer] appears <upon gaining a [Grade 2 Office Fixer] unit> <every [2] turns> <when at war>",
+			
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 3,
+		"cityHealth": 3,
+		
+		"production": 9,
+		"food": 0,
+		"gold": 0,
+		"science": 0,
+		"culture": 0,
+		"happiness": 1,
+		"faith": 0,
+
+		"cost": 305,
+	},
 ]
