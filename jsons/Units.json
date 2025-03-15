@@ -47,6 +47,7 @@
 		"name": "Grade 9 Office Fixer",
 		"unitType": "Sword",
 		"uniqueTo": "The City",
+		"upgradesTo": "Grade 8 Office Fixer",
 		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 5,
@@ -60,12 +61,10 @@
 			    "Can move after attacking",
 			    "Can move immediately once bought",
 
-			    "Can upgrade to [Grade 8 Office Fixer]",
-
 			    "Ignores Zone of Control",
   
 			    "Withdraws before melee combat <with [10]% chance>",
-			    "[+500]% Strength <when defending> <with [5]% chance>",
+			    "[+200]% Strength <when defending> <with [5]% chance>",
 
 			    "[+10]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
 		            "[+15]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
@@ -88,6 +87,7 @@
 		"name": "Grade 8 Office Fixer",
 		"unitType": "Sword",
 		"uniqueTo": "The City",
+		"upgradesTo": "Grade 7 Office Fixer",
 		"replaces": "Pikeman",
 		"movement": 3,
 		"strength": 10,
@@ -104,7 +104,7 @@
 			    "Ignores Zone of Control",
   
 			    "Withdraws before melee combat <with [12]% chance>",
-			    "[+500]% Strength <when defending> <with [15]% chance>",
+			    "[+200]% Strength <when defending> <with [15]% chance>",
 
 			    "[+10]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
 		            "[+15]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
@@ -129,6 +129,7 @@
 		"name": "Grade 7 Office Fixer",
 		"unitType": "Sword",
 		"uniqueTo": "The City",
+		"upgradesTo": "Grade 6 Office Fixer",
 		"replaces": "Swordsman",
 		"movement": 3,
 		"strength": 15,
@@ -142,12 +143,10 @@
 			    "Can move after attacking",
 			    "Can move immediately once bought",
 
-			    "Can upgrade to [Grade 8 Office Fixer]",
-
 			    "Ignores Zone of Control",
   
 			    "Withdraws before melee combat <with [14]% chance>",
-			    "[+500]% Strength <when defending> <with [20]% chance>",
+			    "[+200]% Strength <when defending> <with [20]% chance>",
 
 			    "[+10]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
 		            "[+15]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
@@ -186,7 +185,7 @@
 			    "Ignores Zone of Control",
   
 			    "Withdraws before melee combat <with [16]% chance>",
-			    "[+500]% Strength <when defending> <with [25]% chance>",
+			    "[+200]% Strength <when defending> <with [25]% chance>",
 
 			    "[+10]% Strength <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
 		            "[+15]% Strength <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
