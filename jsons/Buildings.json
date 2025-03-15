@@ -10,6 +10,10 @@
 		"uniques": ["Can only be built <in cities with at least [3] [Population]>",
 			   "Unavailable <if [Official Founding of The Head] is constructed by anybody>",
                            "Requires at least [3] population",
+
+			   "Free [H E A D  Arbiter] appears",
+			   "Free [E Y E  Beholder] appears",
+		           "Free [E X E C U T I O N E R  Claw] appears",
 			
 			   "[+1 Culture] per [5] population [in this city] <during a Golden Age>",
 			   "[+1 Culture] per [5] population [in this city] <during We Love The King Day>",
@@ -431,9 +435,6 @@
 		"uniqueTo": "The City",
 		"uniques": ["Never destroyed when the city is captured",
 
-			   "Free [Grade 9 Office Fixer] appears",
-			   "Free [Grade 9 Office Fixer] appears <every [5] turns>",
-			   "Free [Grade 9 Office Fixer] appears <every [2] turns> <when at war>",
 			   "[1] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
 			   "[+5]% [Gold] [in this city]",
@@ -462,8 +463,6 @@
 		"uniques": ["Can only be built <if [Grade 9 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
 
-			   "Free [Grade 8 Office Fixer] appears",
-			   "Free [Grade 8 Office Fixer] appears <upon gaining a [Grade 9 Office Fixer] unit> <every [2] turns>",
 			   "[2] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
 			   "[+10]% [Gold] [in this city]",
@@ -492,8 +491,6 @@
 		"uniques": ["Can only be built <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
 
-			   "Free [Grade 7 Office Fixer] appears",
-			   "Free [Grade 7 Office Fixer] appears <upon gaining a [Grade 8 Office Fixer] unit> <every [2] turns>",
 			   "[3] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
 			   "[+15]% [Gold] [in this city]",
@@ -522,8 +519,6 @@
 		"uniques": ["Can only be built <if [Grade 7 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
 
-			   "Free [Grade 6 Office Fixer] appears",
-			   "Free [Grade 6 Office Fixer] appears <upon gaining a [Grade 7 Office Fixer] unit> <every [2] turns>",
 			   "[4] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
 			   "[+20]% [Gold] [in this city]",
@@ -552,8 +547,6 @@
 		"uniques": ["Can only be built <if [Grade 6 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
 
-			   "Free [Grade 5 Office Fixer] appears",
-			   "Free [Grade 5 Office Fixer] appears <upon gaining a [Grade 6 Office Fixer] unit> <every [2] turns>",
 			   "[5] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
 			   "[+25]% [Gold] [in this city]",
@@ -581,9 +574,7 @@
 		"uniqueTo": "The City",
 		"uniques": ["Can only be built <if [Grade 5 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
-
-			   "Free [Grade 4 Office Fixer] appears",
-			   "Free [Grade 4 Office Fixer] appears <upon gaining a [Grade 5 Office Fixer] unit> <every [2] turns>",
+			
 			   "[6] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
 			   "[+30]% [Gold] [in this city]",
@@ -611,9 +602,7 @@
 		"uniqueTo": "The City",
 		"uniques": ["Can only be built <if [Grade 4 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
-
-			   "Free [Grade 3 Office Fixer] appears",
-			   "Free [Grade 3 Office Fixer] appears <upon gaining a [Grade 4 Office Fixer] unit> <every [2] turns>",
+			
 			   "[7] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
 			   "[+35]% [Gold] [in this city]",
@@ -642,8 +631,6 @@
 		"uniques": ["Can only be built <if [Grade 3 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
 
-			   "Free [Grade 2 Office Fixer] appears",
-			   "Free [Grade 2 Office Fixer] appears <upon gaining a [Grade 3 Office Fixer] unit> <every [2] turns>",
 			   "[8] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
 			   "[+40]% [Gold] [in this city]",
@@ -672,8 +659,6 @@
 		"uniques": ["Can only be built <if [Grade 2 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
 
-			   "Free [Grade 1 Office Fixer] appears",
-			   "Free [Grade 1 Office Fixer] appears <upon gaining a [Grade 2 Office Fixer] unit> <every [2] turns>",
 			   "[9] units cost no maintenance",
 			   "[+1 Production] per [1] population [in this city]",
 			   "[+45]% [Gold] [in this city]",
