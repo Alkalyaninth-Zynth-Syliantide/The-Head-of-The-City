@@ -495,7 +495,7 @@
 		             "[+35]% Strength <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
 		             "[+40]% Strength <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>", 
 
-			     "Nuclear weapon of Strength [1] <upon damaging a [all] unit>",
+			     "Nuclear weapon of Strength [1] <upon defeating a [all] unit> <with [50]% chance>",
 			     "Blast radius [0]",
 
 			     "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
