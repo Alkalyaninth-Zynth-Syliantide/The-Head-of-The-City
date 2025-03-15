@@ -45,19 +45,21 @@
 
 	{
 		"name": "Grade 9 Office Fixer",
-		"unitType": "Scout",
+		"unitType": "Sword",
 		"uniqueTo": "The City",
-		"replaces": "Swordsman",
+		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 5,
 		"range": 1,
 		"cost": 50,
-		"uniques": ["Only available <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>",
+		"uniques": ["Only available <if [Grade 9 Offices] is constructed in at least [1] of [in this city] cities>",
 			
 			    "May heal outside of friendly territory <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
 			    "May enter foreign tiles without open borders",
 			    "Can move after attacking",
 			    "Can move immediately once bought",
+
+			    "Can upgrade to [Grade 8 Office Fixer]",
 
 			    "Ignores Zone of Control",
   
@@ -83,14 +85,14 @@
 
 	{
 		"name": "Grade 8 Office Fixer",
-		"unitType": "Scout",
+		"unitType": "Sword",
 		"uniqueTo": "The City",
-		"replaces": "Swordsman",
+		"replaces": "Pikeman",
 		"movement": 3,
 		"strength": 10,
 		"range": 1,
-		"cost": 100,
-		"uniques": ["Only available <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>",
+		"cost": 150,
+		"uniques": ["Only available <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities>",
 			
 			    "May heal outside of friendly territory <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
 			    "May enter foreign tiles without open borders",
