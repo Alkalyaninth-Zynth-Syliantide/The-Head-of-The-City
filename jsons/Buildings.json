@@ -47,6 +47,8 @@
 		"uniqueTo": "The City",
 		"uniques": ["Requires at least [1] population",
 
+			   "[+25]% Production towards any buildings that already exist in the Capital",
+
 			   "Unsellable",
 			   "Never destroyed when the city is captured",
 		
@@ -430,8 +432,10 @@
 		"uniques": ["Never destroyed when the city is captured",
 
 			   "Free [Grade 9 Office Fixer] appears",
-			   "Free [Grade 9 Office Fixer] appears <every [1] turns> <when at war>",
+			   "Free [Grade 9 Office Fixer] appears <every [5] turns>",
+			   "Free [Grade 9 Office Fixer] appears <every [2] turns> <when at war>",
 			   "[1] units cost no maintenance",
+			   "[+1 Production] per [1] population [in this city]",
 			   
 		           "Triggers a global alert upon completion"],
 
@@ -458,8 +462,9 @@
 			   "Never destroyed when the city is captured",
 
 			   "Free [Grade 8 Office Fixer] appears",
-			   "Free [Grade 8 Office Fixer] appears <upon gaining a [Grade 9 Office Fixer] unit> <every [2] turns> <when at war>",
+			   "Free [Grade 8 Office Fixer] appears <upon gaining a [Grade 9 Office Fixer] unit> <every [2] turns>",
 			   "[2] units cost no maintenance",
+			   "[+1 Production] per [1] population [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -486,8 +491,9 @@
 			   "Never destroyed when the city is captured",
 
 			   "Free [Grade 7 Office Fixer] appears",
-			   "Free [Grade 7 Office Fixer] appears <upon gaining a [Grade 8 Office Fixer] unit> <every [2] turns> <when at war>",
+			   "Free [Grade 7 Office Fixer] appears <upon gaining a [Grade 8 Office Fixer] unit> <every [2] turns>",
 			   "[3] units cost no maintenance",
+			   "[+1 Production] per [1] population [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -514,8 +520,9 @@
 			   "Never destroyed when the city is captured",
 
 			   "Free [Grade 6 Office Fixer] appears",
-			   "Free [Grade 6 Office Fixer] appears <upon gaining a [Grade 7 Office Fixer] unit> <every [2] turns> <when at war>",
+			   "Free [Grade 6 Office Fixer] appears <upon gaining a [Grade 7 Office Fixer] unit> <every [2] turns>",
 			   "[4] units cost no maintenance",
+			   "[+1 Production] per [1] population [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -542,8 +549,9 @@
 			   "Never destroyed when the city is captured",
 
 			   "Free [Grade 5 Office Fixer] appears",
-			   "Free [Grade 5 Office Fixer] appears <upon gaining a [Grade 6 Office Fixer] unit> <every [2] turns> <when at war>",
+			   "Free [Grade 5 Office Fixer] appears <upon gaining a [Grade 6 Office Fixer] unit> <every [2] turns>",
 			   "[5] units cost no maintenance",
+			   "[+1 Production] per [1] population [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -570,8 +578,9 @@
 			   "Never destroyed when the city is captured",
 
 			   "Free [Grade 4 Office Fixer] appears",
-			   "Free [Grade 4 Office Fixer] appears <upon gaining a [Grade 5 Office Fixer] unit> <every [2] turns> <when at war>",
+			   "Free [Grade 4 Office Fixer] appears <upon gaining a [Grade 5 Office Fixer] unit> <every [2] turns>",
 			   "[6] units cost no maintenance",
+			   "[+1 Production] per [1] population [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -598,8 +607,9 @@
 			   "Never destroyed when the city is captured",
 
 			   "Free [Grade 3 Office Fixer] appears",
-			   "Free [Grade 3 Office Fixer] appears <upon gaining a [Grade 4 Office Fixer] unit> <every [2] turns> <when at war>",
+			   "Free [Grade 3 Office Fixer] appears <upon gaining a [Grade 4 Office Fixer] unit> <every [2] turns>",
 			   "[7] units cost no maintenance",
+			   "[+1 Production] per [1] population [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -626,8 +636,9 @@
 			   "Never destroyed when the city is captured",
 
 			   "Free [Grade 2 Office Fixer] appears",
-			   "Free [Grade 2 Office Fixer] appears <upon gaining a [Grade 3 Office Fixer] unit> <every [2] turns> <when at war>",
+			   "Free [Grade 2 Office Fixer] appears <upon gaining a [Grade 3 Office Fixer] unit> <every [2] turns>",
 			   "[8] units cost no maintenance",
+			   "[+1 Production] per [1] population [in this city]",
 			 
 		           "Triggers a global alert upon completion"],
 
@@ -654,8 +665,9 @@
 			   "Never destroyed when the city is captured",
 
 			   "Free [Grade 1 Office Fixer] appears",
-			   "Free [Grade 1 Office Fixer] appears <upon gaining a [Grade 2 Office Fixer] unit> <every [2] turns> <when at war>",
+			   "Free [Grade 1 Office Fixer] appears <upon gaining a [Grade 2 Office Fixer] unit> <every [2] turns>",
 			   "[9] units cost no maintenance",
+			   "[+1 Production] per [1] population [in this city]",
 			 
 		           "Triggers a global alert upon completion"],
 
