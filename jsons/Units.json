@@ -468,13 +468,7 @@
 		             "[+70]% Strength <when defending> <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
 		             "[+75]% Strength <when defending> <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 
-			     "Nuclear weapon of Strength [1] <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
-		             "Nuclear weapon of Strength [2] <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>", 
-		             "Nuclear weapon of Strength [3] <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
-		             "Nuclear weapon of Strength [4] <if [City LvL - Pestilentia Internationalis] is constructed in at least [1] of [Your] cities>",
-		             "Nuclear weapon of Strength [5] <if [City LvL - Internationalis Visio Nocturna] is constructed in at least [1] of [Your] cities>",
-		             "Nuclear weapon of Strength [6] <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
-		             "Nuclear weapon of Strength [7] <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
+			     "Nuclear weapon of Strength [100]",
 			     "Blast radius [0]",
 
 			     "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
@@ -575,7 +569,7 @@
 		"replaces": "Infantry",
 		"movement": 4,
 		"strength": 50,
-		"range": 5,
+		"range": 1,
 		"cost": 25,
 		"uniques": [ "Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Your] cities>",
 			     "Uncapturable",
@@ -625,7 +619,6 @@
 		             "[+110]% Strength <when defending> <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 
 		             "Nuclear weapon of Strength [1]",
-			     "Blast radius [0]",
 			     "[This Unit] heals [100] HP <upon defeating a [All] unit>",
 			
 		             "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
