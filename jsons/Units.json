@@ -419,7 +419,7 @@
 	
 	{
 		"name": "H E A D  Arbiter",
-		"unitType": "Archery",
+		"unitType": "Scout",
 		"uniqueTo": "The City",
 		"replaces": "Great War Infantry",
 		"movement": 2,
@@ -570,12 +570,11 @@
 	},
 	{
 		"name": "E X E C U T I O N E R  Claw",
-		"unitType": "Sword",
+		"unitType": "Scout",
 		"uniqueTo": "The City",
 		"replaces": "Infantry",
 		"movement": 4,
 		"strength": 50,
-		"rangedStrength": 30,
 		"range": 5,
 		"cost": 25,
 		"uniques": [ "Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Your] cities>",
