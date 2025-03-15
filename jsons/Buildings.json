@@ -431,6 +431,7 @@
 
 			   "Free [Grade 9 Office Fixer] appears",
 			   "Free [Grade 9 Office Fixer] appears <every [1] turns> <when at war>",
+			   "[1] units cost no maintenance",
 			   
 		           "Triggers a global alert upon completion"],
 
@@ -458,6 +459,7 @@
 
 			   "Free [Grade 8 Office Fixer] appears",
 			   "Free [Grade 8 Office Fixer] appears <upon gaining a [Grade 9 Office Fixer] unit> <every [2] turns> <when at war>",
+			   "[2] units cost no maintenance",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -485,6 +487,7 @@
 
 			   "Free [Grade 7 Office Fixer] appears",
 			   "Free [Grade 7 Office Fixer] appears <upon gaining a [Grade 8 Office Fixer] unit> <every [2] turns> <when at war>",
+			   "[3] units cost no maintenance",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -512,6 +515,7 @@
 
 			   "Free [Grade 6 Office Fixer] appears",
 			   "Free [Grade 6 Office Fixer] appears <upon gaining a [Grade 7 Office Fixer] unit> <every [2] turns> <when at war>",
+			   "[4] units cost no maintenance",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -539,6 +543,7 @@
 
 			   "Free [Grade 5 Office Fixer] appears",
 			   "Free [Grade 5 Office Fixer] appears <upon gaining a [Grade 6 Office Fixer] unit> <every [2] turns> <when at war>",
+			   "[5] units cost no maintenance",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -566,6 +571,7 @@
 
 			   "Free [Grade 4 Office Fixer] appears",
 			   "Free [Grade 4 Office Fixer] appears <upon gaining a [Grade 5 Office Fixer] unit> <every [2] turns> <when at war>",
+			   "[6] units cost no maintenance",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -593,6 +599,7 @@
 
 			   "Free [Grade 3 Office Fixer] appears",
 			   "Free [Grade 3 Office Fixer] appears <upon gaining a [Grade 4 Office Fixer] unit> <every [2] turns> <when at war>",
+			   "[7] units cost no maintenance",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -620,7 +627,8 @@
 
 			   "Free [Grade 2 Office Fixer] appears",
 			   "Free [Grade 2 Office Fixer] appears <upon gaining a [Grade 3 Office Fixer] unit> <every [2] turns> <when at war>",
-			
+			   "[8] units cost no maintenance",
+			 
 		           "Triggers a global alert upon completion"],
 
 		"cityStrength": 3,
@@ -647,7 +655,8 @@
 
 			   "Free [Grade 1 Office Fixer] appears",
 			   "Free [Grade 1 Office Fixer] appears <upon gaining a [Grade 2 Office Fixer] unit> <every [2] turns> <when at war>",
-			
+			   "[9] units cost no maintenance",
+			 
 		           "Triggers a global alert upon completion"],
 
 		"cityStrength": 3,
