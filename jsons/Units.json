@@ -30,7 +30,7 @@
 
 	{
 		"name": "Grade 9 Office Fixer",
-		"unitType": "Sword",
+		"unitType": "Scout",
 		"uniqueTo": "The City",
 		"upgradesTo": "Grade 8 Office Fixer",
 		"replaces": "Spearman",
@@ -55,14 +55,14 @@
 
 	{
 		"name": "Grade 8 Office Fixer",
-		"unitType": "Sword",
+		"unitType": "Scout",
 		"uniqueTo": "The City",
 		"upgradesTo": "Grade 7 Office Fixer",
 		"replaces": "Pikeman",
 		"movement": 3,
 		"strength": 1,
 		"range": 1,
-		"cost": 150,
+		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities>",
 			
@@ -83,14 +83,14 @@
 
 	{
 		"name": "Grade 7 Office Fixer",
-		"unitType": "Sword",
+		"unitType": "Scout",
 		"uniqueTo": "The City",
 		"upgradesTo": "Grade 6 Office Fixer",
 		"replaces": "Swordsman",
 		"movement": 3,
 		"strength": 1,
 		"range": 1,
-		"cost": 200,
+		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 7 Offices] is constructed in at least [1] of [in this city] cities>",
 			
@@ -109,14 +109,14 @@
 
 	{
 		"name": "Grade 6 Office Fixer",
-		"unitType": "Sword",
+		"unitType": "Scout",
 		"uniqueTo": "The City",
 		"upgradesTo": "Grade 5 Office Fixer",
 		"replaces": "Longswordsman",
 		"movement": 4,
 		"strength": 1,
 		"range": 1,
-		"cost": 250,
+		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 6 Offices] is constructed in at least [1] of [in this city] cities>",
 			
@@ -137,14 +137,14 @@
 
 	{
 		"name": "Grade 5 Office Fixer",
-		"unitType": "Sword",
+		"unitType": "Scout",
 		"uniqueTo": "The City",
 		"upgradesTo": "Grade 4 Office Fixer",
 		"replaces": "Horseman",
 		"movement": 4,
 		"strength": 1,
 		"range": 1,
-		"cost": 400,
+		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 5 Offices] is constructed in at least [1] of [in this city] cities>",
 			
@@ -163,14 +163,14 @@
 
 	{
 		"name": "Grade 4 Office Fixer",
-		"unitType": "Sword",
+		"unitType": "Scout",
 		"uniqueTo": "The City",
 		"upgradesTo": "Grade 3 Office Fixer",
 		"replaces": "Knight",
 		"movement": 5,
 		"strength": 1,
 		"range": 2,
-		"cost": 550,
+		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 4 Offices] is constructed in at least [1] of [in this city] cities>",
 			
@@ -191,14 +191,14 @@
 
 	{
 		"name": "Grade 3 Office Fixer",
-		"unitType": "Sword",
+		"unitType": "Scout",
 		"uniqueTo": "The City",
 		"upgradesTo": "Grade 2 Office Fixer",
 		"replaces": "Cavalry",
 		"movement": 5,
 		"strength": 1,
 		"range": 1,
-		"cost": 700,
+		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 3 Offices] is constructed in at least [1] of [in this city] cities>",
 			
@@ -219,14 +219,14 @@
 
 	{
 		"name": "Grade 2 Office Fixer",
-		"unitType": "Sword",
+		"unitType": "Scout",
 		"uniqueTo": "The City",
 		"upgradesTo": "Grade 1 Office Fixer",
 		"replaces": "Musketman",
 		"movement": 6,
 		"strength": 1,
 		"range": 1,
-		"cost": 850,
+		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 2 Offices] is constructed in at least [1] of [in this city] cities>",
 			
@@ -247,13 +247,13 @@
 
 	{
 		"name": "Grade 1 Office Fixer",
-		"unitType": "Sword",
+		"unitType": "Scout",
 		"uniqueTo": "The City",
 		"replaces": "Rifleman",
 		"movement": 6,
 		"strength": 1,
 		"range": 1,
-		"cost": 1000,
+		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 1 Offices] is constructed in at least [1] of [in this city] cities>",
 			
@@ -297,7 +297,7 @@
 			     "Unit will heal every turn, even if it performs an action",
 			     "All healing effects doubled",
 
-			     "[Target Unit] gains the [Fairy] status for [10] turn(s) <upon damaging a [All] unit>",
+			     "[Target Unit] gains the [Fairy] status for [10] turn(s)",
 			     "[This Unit] gains the [Shockwave] status for [1] turn(s) <upon damaging a [All] unit> <with [10]% chance>",
 			     "[This Unit] gains the [Shockwave] status for [1] turn(s) <upon defeating a [All] unit> <with [20]% chance>",
 
@@ -367,7 +367,7 @@
 	},
 	{
 		"name": "E X E C U T I O N E R  Claw",
-		"unitType": "Sword",
+		"unitType": "Scout",
 		"uniqueTo": "The City",
 		"replaces": "Infantry",
 		"movement": 10,
