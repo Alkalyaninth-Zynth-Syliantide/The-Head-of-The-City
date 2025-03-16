@@ -4,7 +4,7 @@
 	
 	{
 		"name": "City Rat of The Backstreets",
-		"unitType": "Scout",
+		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"replaces": "Warrior",
 		"movement": 1,
@@ -30,7 +30,7 @@
 
 	{
 		"name": "Grade 9 Office Fixer",
-		"unitType": "Scout",
+		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"upgradesTo": "Grade 8 Office Fixer",
 		"replaces": "Spearman",
@@ -55,7 +55,7 @@
 
 	{
 		"name": "Grade 8 Office Fixer",
-		"unitType": "Scout",
+		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"upgradesTo": "Grade 7 Office Fixer",
 		"replaces": "Pikeman",
@@ -83,7 +83,7 @@
 
 	{
 		"name": "Grade 7 Office Fixer",
-		"unitType": "Scout",
+		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"upgradesTo": "Grade 6 Office Fixer",
 		"replaces": "Swordsman",
@@ -109,7 +109,7 @@
 
 	{
 		"name": "Grade 6 Office Fixer",
-		"unitType": "Scout",
+		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"upgradesTo": "Grade 5 Office Fixer",
 		"replaces": "Longswordsman",
@@ -137,7 +137,7 @@
 
 	{
 		"name": "Grade 5 Office Fixer",
-		"unitType": "Scout",
+		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"upgradesTo": "Grade 4 Office Fixer",
 		"replaces": "Horseman",
@@ -163,7 +163,7 @@
 
 	{
 		"name": "Grade 4 Office Fixer",
-		"unitType": "Scout",
+		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"upgradesTo": "Grade 3 Office Fixer",
 		"replaces": "Knight",
@@ -191,7 +191,7 @@
 
 	{
 		"name": "Grade 3 Office Fixer",
-		"unitType": "Scout",
+		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"upgradesTo": "Grade 2 Office Fixer",
 		"replaces": "Cavalry",
@@ -219,7 +219,7 @@
 
 	{
 		"name": "Grade 2 Office Fixer",
-		"unitType": "Scout",
+		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"upgradesTo": "Grade 1 Office Fixer",
 		"replaces": "Musketman",
@@ -247,7 +247,7 @@
 
 	{
 		"name": "Grade 1 Office Fixer",
-		"unitType": "Scout",
+		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"replaces": "Rifleman",
 		"movement": 6,
@@ -274,7 +274,7 @@
 	
 	{
 		"name": "H E A D  Arbiter",
-		"unitType": "Scout",
+		"unitType": "Magistratus Urbis",
 		"uniqueTo": "The City",
 		"replaces": "Great War Infantry",
 		"movement": 10,
@@ -317,7 +317,7 @@
 	},
 	{
 		"name": "E Y E  Beholder",
-		"unitType": "Scout",
+		"unitType": "Magistratus Urbis",
 		"uniqueTo": "The City",
 		"replaces": "Marine",
 		"movement": 10,
@@ -367,7 +367,7 @@
 	},
 	{
 		"name": "E X E C U T I O N E R  Claw",
-		"unitType": "Scout",
+		"unitType": "Magistratus Urbis",
 		"uniqueTo": "The City",
 		"replaces": "Infantry",
 		"movement": 10,
