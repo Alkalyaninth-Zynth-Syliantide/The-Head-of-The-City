@@ -1,10 +1,20 @@
 [
 
   //Emotion Levels
+	
+  {
+    "name": "Emotion Lvl - 0",
+    "column": 0,
+    "uniques": ["[+1]% Strength",
+
+                "[0] Movement point cost to disembark",
+	            "[0] Movement point cost to embark"],
+  },
 
   {
     "name": "Emotion Lvl - I",
-    "column": 0,
+    "column": 1,
+	"prerequisites": "Emotion Lvl - 0",
     "uniques": ["[+1]% Strength",
 
                 "[+1] Movement",
@@ -13,7 +23,7 @@
 
   {
     "name": "Emotion Lvl - II",
-    "column": 1,
+    "column": 2,
     "prerequisites": "Emotion Lvl - I",
     "uniques": ["[+1]% Strength",
 
@@ -23,7 +33,7 @@
 
   {
     "name": "Emotion Lvl - III",
-    "column": 2,
+    "column": 3,
     "prerequisites": "Emotion Lvl - II",
     "uniques": ["[+1]% Strength",
 
@@ -34,7 +44,7 @@
 
   {
     "name": "Emotion Lvl - IV",
-    "column": 3,
+    "column": 4,
     "prerequisites": "Emotion Lvl - III",
     "uniques": ["[+1]% Strength",
 
@@ -46,7 +56,7 @@
 
   {
     "name": "Emotion Lvl - V",
-    "column": 4,
+    "column": 5,
     "prerequisites": "Emotion Lvl - IV",
     "uniques": ["[+100]% Strength",
 
