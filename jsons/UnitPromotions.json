@@ -20,13 +20,13 @@
 "name": "Fairy"
 "uniques": ["[-1]% Strength",
 
-            "[This Unit] takes [1] damage <every [1] turns>",
-            "[This Unit] takes [1] damage <upon constructing [All]>",
-            "[This Unit] takes [1] damage <upon gaining a [All] unit>",
-            "[This Unit] takes [1] damage <upon turn start>",
-            "[This Unit] takes [1] damage <upon turn end>",
-            "[This Unit] takes [1] damage <when defending>",
-            "[This Unit] takes [1] damage <when attacking>"],
+            "[This Unit] takes [5] damage <every [1] turns>",
+            "[This Unit] takes [5] damage <upon constructing [All]>",
+            "[This Unit] takes [5] damage <upon gaining a [All] unit>",
+            "[This Unit] takes [5] damage <upon turn start>",
+            "[This Unit] takes [5] damage <upon turn end>",
+            "[This Unit] takes [5] damage <when defending>",
+            "[This Unit] takes [5] damage <when attacking>"],
   },
 
   //Cooldowns
