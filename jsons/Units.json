@@ -8,7 +8,7 @@
 		"uniqueTo": "The City",
 		"replaces": "Warrior",
 		"movement": 1,
-		"strength": 1,
+		"strength": 3,
 		"range": 1,
 		"cost": 50,
 		"uniques": ["Unable to capture cities",
