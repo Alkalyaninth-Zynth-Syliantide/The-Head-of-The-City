@@ -6,7 +6,7 @@
 		"startBias": ["Mountain","Jungle","River"],
 		"preferredVictoryType": "Domination",
 		"outerColor": [0,0,0],
-		"innerColor": [237,219,161],
+		"innerColor": [235,231,176],
 		
 		"startIntroPart1": "To know and manipulate all the secrets of the world; that is the privilege of the Head, the Eye, and the Claw. It is their honor and absolute power. No one dares to stand against them. As long as they exist, the tale of the Nest will never reach its close.",
 		"startIntroPart2": "This mod was brought to you by an avid Project Moon fan - Alkalyaninth Zynth Syliantide",
@@ -29,8 +29,9 @@
 		"afterPeace": "I only ask that you do not wage war on us again. The City cannot allot time for pointless quarrels...",
 		"tradeRequest": "This arrangement may indeed benefit us.",
 
-		"uniqueName": "The Dark Outskirts of The City",
-		"uniques": ["Enemy [All] units must spend [999] extra movement points when inside your territory"],
+		"uniqueName": "Potentia Opprimo",
+		"uniques": ["Enemy [All] units must spend [999] extra movement points when inside your territory",
+		            "[-9999]% Strength for enemy [All] units in adjacent [All] tiles"],
 		
 		"cities": ["Forest A","Forest B","Forest C","Forest D","Forest E","Forest F","Forest G","Forest H","Forest I","Forest J","Forest K","Forest L","Forest M","Forest N","Forest O","Forest P","Forest Q","Forest R","Forest S","Forest T","Forest U","Forest V","Forest W","Forest X","Forest Y","Forest Z"],
 	}
