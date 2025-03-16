@@ -9,14 +9,16 @@
             "Nuclear weapon of Strength [1]",
             "Blast radius [1]",
 
-            "[This Unit] loses the [Shockwave] status <upon turn end>"],
+            "[This Unit] loses the [Shockwave] promotion <upon turn end>",
+            "[This Unit] loses the [Shockwave] promotion <upon damaging a [All] unit>",
+            "[This Unit] loses the [Shockwave] promotion <upon defeating a [All] unit>"],
   },
   
   //Debuffs
   
   {
 "name": "Fairy"
-"uniques": ["[-1]% Strength",
+"uniques": ["[-9999]% Strength",
 
             "[This Unit] takes [5] damage <every [1] turns>",
             "[This Unit] takes [5] damage <upon constructing [All]>",
