@@ -9,6 +9,8 @@
             "Nuclear weapon of Strength [1]",
             "Blast radius [1]",
 
+            "[1] additional attacks per turn",
+
             "[This Unit] loses the [Shockwave] promotion <upon turn end>",
             "[This Unit] loses the [Shockwave] promotion <upon damaging a [All] unit>",
             "[This Unit] loses the [Shockwave] promotion <upon defeating a [All] unit>"],
