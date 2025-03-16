@@ -5,7 +5,7 @@
   {
     "name": "Emotion Lvl O",
     "column": 1,
-    "prerequisites": ,
+    "prerequisites": "",
     "uniques": ["[+1]% Strength",
 
                 "[0] Movement point cost to disembark",
