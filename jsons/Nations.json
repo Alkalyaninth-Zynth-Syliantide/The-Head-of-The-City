@@ -31,8 +31,8 @@
 
 		"uniqueName": "Potentia Opprimo",
 		"uniques": ["Enemy [All] units must spend [999] extra movement points when inside your territory",
-		            "[All] units gain the [Under The City's Influence] status for [999] turn(s) <upon turn start> <for units without [Citizen of The City]>",
-		            "[All] units gain the [Under The City's Influence] status for [999] turn(s) <upon turn end> <for units without [Citizen of The City]>"],
+		            "[All] units gain the [Under The City's Influence] promotion <upon turn start> <for units without [Citizen of The City]>",
+		            "[All] units gain the [Under The City's Influence] promotion <upon turn end> <for units without [Citizen of The City]>"],
 		
 		"cities": ["Forest A","Forest B","Forest C","Forest D","Forest E","Forest F","Forest G","Forest H","Forest I","Forest J","Forest K","Forest L","Forest M","Forest N","Forest O","Forest P","Forest Q","Forest R","Forest S","Forest T","Forest U","Forest V","Forest W","Forest X","Forest Y","Forest Z"],
 	}
