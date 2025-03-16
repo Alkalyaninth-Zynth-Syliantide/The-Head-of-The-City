@@ -1,13 +1,63 @@
 [
 
+  //Emotion Levels
+
+  {
+"name": "Emotion Lvl - I",
+"uniques": ["[+1]% Strength",
+
+            "[+1] Movement",
+            "[+1] Sight"],
+  },
+
+  {
+"name": "Emotion Lvl - II",
+"prerequisites": "Emotion Lvl - I",
+"uniques": ["[+1]% Strength",
+
+            "[+1] Movement",
+            "[+1] Range"],
+  },
+
+  {
+"name": "Emotion Lvl - III",
+"prerequisites": "Emotion Lvl - II",
+"uniques": ["[+1]% Strength",
+
+            "[+1] Movement",
+            "[+1] Sight",
+            "[+1] Range"],
+  },
+
+  {
+"name": "Emotion Lvl - IV",
+"prerequisites": "Emotion Lvl - III",
+"uniques": ["[+1]% Strength",
+
+            "[+1] Movement",
+            "[+1] Sight",
+            "[+1] Range",
+            "[1] additional attacks per turn"],
+  },
+
+  {
+"name": "Emotion Lvl - V",
+"prerequisites": "Emotion Lvl - IV",
+"uniques": ["[+1]% Strength",
+
+            "[+1] Movement",
+            "[1] additional attacks per turn <upon defeating a [All] unit> <every [1] turns>"],
+  },
+
+
   //Buffs
   
   {
-"name": "Shockwave"
+"name": "Shockwave",
 "uniques": ["[+1]% Strength",
 
             "Nuclear weapon of Strength [1]",
-            "Blast radius [1]",
+            "Blast radius [2]",
 
             "[1] additional attacks per turn",
 
@@ -19,7 +69,7 @@
   //Debuffs
   
   {
-"name": "Fairy"
+"name": "Fairy",
 "uniques": ["[-9999]% Strength",
 
             "[This Unit] takes [5] damage <every [1] turns>",
