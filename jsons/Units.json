@@ -279,7 +279,7 @@
 		"replaces": "Great War Infantry",
 		"movement": 10,
 		"strength": 2,
-		"rangedStrength": 0,
+		"rangedStrength": 1,
 		"range": 5,
 		"cost": 25,
 		"uniques": [ "Uncapturable",
