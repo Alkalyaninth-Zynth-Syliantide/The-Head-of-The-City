@@ -3,82 +3,87 @@
   //Emotion Levels
 
   {
-"name": "Emotion Lvl - I",
-"uniques": ["[+1]% Strength",
+    "name": "Emotion Lvl - I",
+    "column": 0,
+    "uniques": ["[+1]% Strength",
 
-            "[+1] Movement",
-            "[+1] Sight"],
+                "[+1] Movement",
+                "[+1] Sight"],
   },
 
   {
-"name": "Emotion Lvl - II",
-"prerequisites": "Emotion Lvl - I",
-"uniques": ["[+1]% Strength",
+    "name": "Emotion Lvl - II",
+    "column": 1,
+    "prerequisites": "Emotion Lvl - I",
+    "uniques": ["[+1]% Strength",
 
-            "[+1] Movement",
-            "[+1] Range"],
+                "[+1] Movement",
+                "[+1] Range"],
   },
 
   {
-"name": "Emotion Lvl - III",
-"prerequisites": "Emotion Lvl - II",
-"uniques": ["[+1]% Strength",
+    "name": "Emotion Lvl - III",
+    "column": 2,
+    "prerequisites": "Emotion Lvl - II",
+    "uniques": ["[+1]% Strength",
 
-            "[+1] Movement",
-            "[+1] Sight",
-            "[+1] Range"],
+                "[+1] Movement",
+                "[+1] Sight",
+                "[+1] Range"],
   },
 
   {
-"name": "Emotion Lvl - IV",
-"prerequisites": "Emotion Lvl - III",
-"uniques": ["[+1]% Strength",
+    "name": "Emotion Lvl - IV",
+    "column": 3,
+    "prerequisites": "Emotion Lvl - III",
+    "uniques": ["[+1]% Strength",
 
-            "[+1] Movement",
-            "[+1] Sight",
-            "[+1] Range",
-            "[1] additional attacks per turn"],
+                "[+1] Movement",
+                "[+1] Sight",
+                "[+1] Range",
+                "[1] additional attacks per turn"],
   },
 
   {
-"name": "Emotion Lvl - V",
-"prerequisites": "Emotion Lvl - IV",
-"uniques": ["[+100]% Strength",
+    "name": "Emotion Lvl - V",
+    "column": 4,
+    "prerequisites": "Emotion Lvl - IV",
+    "uniques": ["[+100]% Strength",
 
-            "[+1] Movement",
-            "[1] additional attacks per turn <upon defeating a [All] unit> <every [1] turns>"],
+                "[+1] Movement",
+                "[1] additional attacks per turn <upon defeating a [All] unit> <every [1] turns>"],
   },
 
 
   //Buffs
   
   {
-"name": "Shockwave",
-"uniques": ["[+1]% Strength",
+	"name": "Shockwave",
+	"uniques": ["[+1]% Strength",
 
-            "Nuclear weapon of Strength [1]",
-            "Blast radius [2]",
+       		    "Nuclear weapon of Strength [1]",
+        	    "Blast radius [2]",
 
-            "[1] additional attacks per turn",
+	            "[1] additional attacks per turn",
 
-            "[This Unit] loses the [Shockwave] promotion <upon turn end>",
-            "[This Unit] loses the [Shockwave] promotion <upon damaging a [All] unit>",
-            "[This Unit] loses the [Shockwave] promotion <upon defeating a [All] unit>"],
+	            "[This Unit] loses the [Shockwave] promotion <upon turn end>",
+	            "[This Unit] loses the [Shockwave] promotion <upon damaging a [All] unit>",
+	            "[This Unit] loses the [Shockwave] promotion <upon defeating a [All] unit>"],
   },
   
   //Debuffs
   
   {
-"name": "Fairy",
-"uniques": ["[-9999]% Strength",
+	"name": "Fairy",
+	"uniques": ["[-9999]% Strength",
 
-            "[This Unit] takes [5] damage <every [1] turns>",
-            "[This Unit] takes [5] damage <upon constructing [All]>",
-            "[This Unit] takes [5] damage <upon gaining a [All] unit>",
-            "[This Unit] takes [5] damage <upon turn start>",
-            "[This Unit] takes [5] damage <upon turn end>",
-            "[This Unit] takes [5] damage <when defending>",
-            "[This Unit] takes [5] damage <when attacking>"],
+ 	           "[This Unit] takes [5] damage <every [1] turns>",
+ 	           "[This Unit] takes [5] damage <upon constructing [All]>",
+		       "[This Unit] takes [5] damage <upon gaining a [All] unit>",
+  	   		   "[This Unit] takes [5] damage <upon turn start>",
+ 		       "[This Unit] takes [5] damage <upon turn end>",
+   		  	   "[This Unit] takes [5] damage <when defending>",
+   		 	   "[This Unit] takes [5] damage <when attacking>"],
   },
 
   //Cooldowns
