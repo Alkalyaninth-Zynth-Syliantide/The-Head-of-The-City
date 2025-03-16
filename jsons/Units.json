@@ -471,8 +471,8 @@
 
 			     "Nuclear weapon of Strength [1]",
 			     "[This Unit] heals [50] HP <upon losing at least [1] HP in a single attack>",
-			     "[This Unit] heals [50] HP <upon damaging a [Target Unit] unit>",
-			     "[This Unit] heals [50] HP <<upon defeating a [Target Unit] unit>",
+			     "[This Unit] heals [50] HP <upon damaging a [All] unit>",
+			     "[This Unit] heals [50] HP <<upon defeating a [All] unit>",
 
 			     "[3] Sight",
 
@@ -618,8 +618,8 @@
 		             "[+110]% Strength <when defending> <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 
 			     "[This Unit] heals [50] HP <upon losing at least [1] HP in a single attack>",
-			     "[This Unit] heals [50] HP <upon damaging a [Target Unit] unit>",
-			     "[This Unit] heals [50] HP <<upon defeating a [Target Unit] unit>",
+			     "[This Unit] heals [50] HP <upon damaging a [All] unit>",
+			     "[This Unit] heals [50] HP <<upon defeating a [All] unit>",
 			
 		             "[1] additional attacks per turn <if [City LvL - Orbis Terrarum Canard] is constructed in at least [1] of [Your] cities>", 
 		             "[1] additional attacks per turn <if [City LvL - Global Myth] is constructed in at least [1] of [Your] cities>",
