@@ -4,11 +4,10 @@
 	
   {
     "name": "Emotion Lvl - 0",
-    "column": 0,
     "uniques": ["[+1]% Strength",
 
                 "[0] Movement point cost to disembark",
-	            "[0] Movement point cost to embark"],
+	        "[0] Movement point cost to embark"],
   },
 
   {
