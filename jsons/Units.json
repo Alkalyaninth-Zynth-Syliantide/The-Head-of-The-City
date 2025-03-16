@@ -424,7 +424,7 @@
 		"replaces": "Great War Infantry",
 		"movement": 10,
 		"strength": 10,
-		"rangedStrength": 30,
+		"rangedStrength": 10,
 		"range": 2,
 		"cost": 25,
 		"uniques": [ "Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Your] cities>",
@@ -470,9 +470,11 @@
 		             "[+75]% Strength <when defending> <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 
 			     "Nuclear weapon of Strength [1]",
+			     "Blast radius [0]",
 			     "[This Unit] heals [50] HP <upon losing at least [1] HP in a single attack>",
 			     "[This Unit] heals [50] HP <upon damaging a [All] unit>",
 			     "[This Unit] heals [50] HP <upon defeating a [All] unit>",
+			     "[This Unit] heals [50] HP <when attacking>",
 
 			     "[3] Sight",
 
