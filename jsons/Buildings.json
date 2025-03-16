@@ -51,9 +51,6 @@
 		"uniqueTo": "The City",
 		"uniques": ["Requires at least [1] population",
 
-			   "[Military] units gain the [Under The City's Influence] promotion <upon turn start> <for units without [Citizen of The City]>",
-		           "[Military] units gain the [Under The City's Influence] promotion <upon turn end> <for units without [Citizen of The City]>",
-
 			   "[-25]% Production towards any buildings that already exist in the Capital",
 
 			   "Unsellable",
