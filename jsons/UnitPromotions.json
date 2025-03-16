@@ -43,7 +43,7 @@
   {
 "name": "Emotion Lvl - V",
 "prerequisites": "Emotion Lvl - IV",
-"uniques": ["[+1]% Strength",
+"uniques": ["[+100]% Strength",
 
             "[+1] Movement",
             "[1] additional attacks per turn <upon defeating a [All] unit> <every [1] turns>"],
