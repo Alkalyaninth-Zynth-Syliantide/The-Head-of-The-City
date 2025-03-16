@@ -3,7 +3,7 @@
   //Emotion Levels
 	
   {
-    "name": "Emotion Lvl-O",
+    "name": "Emotion Lvl - Boredom",
     "column": 1,
     "uniques": ["[+1]% Strength",
 
@@ -12,9 +12,9 @@
   },
 
   {
-    "name": "Emotion Lvl-I",
+    "name": "Emotion Lvl - Calm",
     "column": 2,
-    "prerequisites": "Emotion Lvl-O",
+    "prerequisites": "Emotion Lvl - Boredom",
     "uniques": ["[+1]% Strength",
 
                 "[+1] Movement",
@@ -22,9 +22,9 @@
   },
 
   {
-    "name": "Emotion Lvl-II",
+    "name": "Emotion Lvl - Serene",
     "column": 3,
-    "prerequisites": "Emotion Lvl-I",
+    "prerequisites": "Emotion Lvl - Calm",
     "uniques": ["[+1]% Strength",
 
                 "[+1] Movement",
@@ -32,9 +32,9 @@
   },
 
   {
-    "name": "Emotion Lvl-III",
+    "name": "Emotion Lvl - Productive",
     "column": 4,
-    "prerequisites": "Emotion Lvl-II",
+    "prerequisites": "Emotion Lvl - Serene",
     "uniques": ["[+1]% Strength",
 
                 "[+1] Movement",
@@ -43,9 +43,9 @@
   },
 
   {
-    "name": "Emotion Lvl-IV",
+    "name": "Emotion Lvl - Cheerful",
     "column": 5,
-    "prerequisites": "Emotion Lvl-III",
+    "prerequisites": "Emotion Lvl - Productive",
     "uniques": ["[+1]% Strength",
 
                 "[+1] Movement",
@@ -55,9 +55,9 @@
   },
 
   {
-    "name": "Emotion Lvl-V",
+    "name": "Emotion Lvl - Empowered",
     "column": 6,
-    "prerequisites": "Emotion Lvl-IV",
+    "prerequisites": "Emotion Lvl - Cheerful",
     "uniques": ["[+100]% Strength",
 
                 "[+1] Movement",
