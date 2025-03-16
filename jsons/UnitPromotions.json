@@ -14,7 +14,7 @@
   {
     "name": "Emotion Lvl - I",
     "column": 1,
-	"prerequisites": "Emotion Lvl - 0",
+    "prerequisites": "Emotion Lvl - 0",
     "uniques": ["[+1]% Strength",
 
                 "[+1] Movement",
