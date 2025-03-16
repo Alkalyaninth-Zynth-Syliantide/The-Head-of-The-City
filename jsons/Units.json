@@ -279,8 +279,8 @@
 		"replaces": "Great War Infantry",
 		"movement": 10,
 		"strength": 2,
-		"rangedStrength": 2,
-		"range": 2,
+		"rangedStrength": 0,
+		"range": 5,
 		"cost": 25,
 		"uniques": [ "Uncapturable",
 			     "Never appears as a Barbarian unit",
@@ -297,7 +297,9 @@
 			     "Unit will heal every turn, even if it performs an action",
 			     "All healing effects doubled",
 
-			     "[Target Unit] gains the [Fairy] status for [1] turn(s) <upon damaging a [All] unit>",
+			     "[Target Unit] gains the [Fairy] status for [10] turn(s) <upon damaging a [All] unit>",
+			     "[This Unit] gains the [Shockwave] status for [1] turn(s) <upon damaging a [All] unit> <with [10]% chance>",
+			     "[This Unit] gains the [Shockwave] status for [1] turn(s) <upon defeating a [All] unit> <with [20]% chance>",
 
 			     "[+50]% Strength <when defending> <with [50]% chance>",
 
