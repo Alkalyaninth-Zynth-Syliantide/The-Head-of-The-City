@@ -13,6 +13,7 @@
 		"range": 1,
 		"cost": 50,
 		"uniques": ["Unable to capture cities",
+			    "Can upgrade to [Grade 9 Office Fixer]",
 
 			    "Invisible to non-adjacent units",
 
@@ -35,7 +36,8 @@
 		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 9 Offices] is constructed in at least [1] of [in this city] cities>",
-  
+                            "Can upgrade to [Grade 8 Office Fixer]",
+			
 			    "Withdraws before melee combat <with [10]% chance>",
 
 			    "[This Unit] heals [1] HP <upon damaging a [All] unit>"],
@@ -53,7 +55,8 @@
 		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities>",
-			
+			    "Can upgrade to [Grade 7 Office Fixer]",
+			                            
 			    "Withdraws before melee combat <with [12]% chance>",
 
 			    "[This Unit] heals [2] HP <upon damaging a [All] unit>"],
@@ -73,6 +76,7 @@
 		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 7 Offices] is constructed in at least [1] of [in this city] cities>",
+			    "Can upgrade to [Grade 6 Office Fixer]",
 			
 			    "Withdraws before melee combat <with [14]% chance>",
 			
@@ -91,6 +95,7 @@
 		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 6 Offices] is constructed in at least [1] of [in this city] cities>",
+			    "Can upgrade to [Grade 5 Office Fixer]",
 			
 			    "Withdraws before melee combat <with [16]% chance>",
 
@@ -111,6 +116,7 @@
 		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 5 Offices] is constructed in at least [1] of [in this city] cities>",
+			    "Can upgrade to [Grade 4 Office Fixer]",
 			
 			    "Withdraws before melee combat <with [18]% chance>",
 
@@ -129,6 +135,7 @@
 		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 4 Offices] is constructed in at least [1] of [in this city] cities>",
+			    "Can upgrade to [Grade 3 Office Fixer]",
 			
 			    "Withdraws before melee combat <with [20]% chance>",
 
@@ -149,7 +156,8 @@
 		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 3 Offices] is constructed in at least [1] of [in this city] cities>",
-  
+                            "Can upgrade to [Grade 2 Office Fixer]",
+			
 			    "Withdraws before melee combat <with [22]% chance>",
 
 			    "[This Unit] heals [7] HP <upon damaging a [All] unit>"],
@@ -169,6 +177,7 @@
 		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 2 Offices] is constructed in at least [1] of [in this city] cities>",
+			    "Can upgrade to [Grade 1 Office Fixer]",
 			
 			    "Withdraws before melee combat <with [24]% chance>",
 
