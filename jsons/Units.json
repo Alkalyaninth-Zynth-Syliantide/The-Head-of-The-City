@@ -279,7 +279,7 @@
 		"replaces": "Great War Infantry",
 		"movement": 10,
 		"strength": 2,
-		"rangedStrength": 1,
+		"rangedStrength": 2,
 		"range": 5,
 		"cost": 25,
 		"uniques": [ "Uncapturable",
@@ -298,17 +298,17 @@
 			     "All healing effects doubled",
 
 			     "[Target Unit] gains the [Fairy] status for [10] turn(s) <upon damaging a [All] unit>",
-			     "[This Unit] gains the [Shockwave] promotion <upon damaging a [All] unit> <with [20]% chance>",
-			     "[This Unit] gains the [Shockwave] promotion <upon defeating a [All] unit> <with [50]% chance>",
+			     "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon damaging a [All] unit> <with [30]% chance>",
+			     "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon defeating a [All] unit> <with [33]% chance>",
 
 			     "[+50]% Strength <when defending> <with [50]% chance>",
 
 			     "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
 
-			     "[This Unit] heals [50] HP <upon losing at least [1] HP in a single attack>",
-			     "[This Unit] heals [50] HP <upon damaging a [All] unit>",
-			     "[This Unit] heals [50] HP <upon defeating a [All] unit>",
-			     "[This Unit] heals [50] HP <when attacking>",
+			     "[This Unit] heals [50] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
+			     "[This Unit] heals [50] HP <every [1] turns> <upon damaging a [All] unit>",
+			     "[This Unit] heals [50] HP <every [1] turns> <upon defeating a [All] unit>",
+			     "[This Unit] heals [50] HP <every [1] turns> <when attacking>",
 
 			     "[2] Sight",
 
@@ -360,7 +360,7 @@
 
 			     "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
 			
-		             "[1] Sight",
+		             "[3] Sight",
 
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
@@ -395,9 +395,9 @@
 
 			     "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
 
-			     "[This Unit] heals [50] HP <upon losing at least [1] HP in a single attack>",
-			     "[This Unit] heals [50] HP <upon damaging a [All] unit>",
-			     "[This Unit] heals [50] HP <upon defeating a [All] unit>",
+			     "[This Unit] heals [50] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
+			     "[This Unit] heals [50] HP <every [1] turns> <upon damaging a [All] unit>",
+			     "[This Unit] heals [50] HP <every [1] turns> <upon defeating a [All] unit>",
 			
 			     "Triggers a global alert upon build start",
 		             "Triggers a global alert upon completion"],
