@@ -9,9 +9,7 @@
             "Nuclear weapon of Strength [1]",
             "Blast radius [1]",
 
-            "[This Unit] loses the [Shockwave] status <when attacking>",
-            "[This Unit] loses the [Shockwave] status <upon damaging a [all] unit>",
-            "[This Unit] loses the [Shockwave] status <upon defeating a [all] unit>"],
+            "[This Unit] loses the [Shockwave] status <upon turn end>"],
   },
   
   //Debuffs
