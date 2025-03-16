@@ -1,6 +1,19 @@
 [
+
+  //Nation Unique
+  
   {
-"name": "Place Holder"
-"uniques": [],
+"name": "Under The City's Influence"
+"uniques": ["[-9999]% Strength"],
+  },
+  
+  //Debuffs
+  
+  {
+"name": "Fairy"
+"uniques": ["[-1]% Strength",
+  
+            "[This Unit] takes [5] damage <when defending>",
+            "[This Unit] takes [5] damage <when attacking>"],
   },
 ]
