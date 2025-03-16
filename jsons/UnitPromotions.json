@@ -1,16 +1,6 @@
 [
 
-  //Nation Unique
-  
-  {
-"name": "Under The City's Influence"
-"uniques": ["[-9999]% Strength"],
-  },
-
-  {
-"name": "Citizen of The City"
-"uniques": ["[+1]% Strength"],
-  },
+  //Buffs
   
   //Debuffs
   
