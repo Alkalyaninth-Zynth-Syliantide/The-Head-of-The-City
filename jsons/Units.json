@@ -297,9 +297,9 @@
 			     "Unit will heal every turn, even if it performs an action",
 			     "All healing effects doubled",
 
-			     "[Target Unit] gains the [Fairy] status for [10] turn(s)",
-			     "[This Unit] gains the [Shockwave] status for [1] turn(s) <upon damaging a [All] unit> <with [10]% chance>",
-			     "[This Unit] gains the [Shockwave] status for [1] turn(s) <upon defeating a [All] unit> <with [20]% chance>",
+			     "[Target Unit] gains the [Fairy] status for [10] turn(s) <upon damaging a [All] unit>",
+			     "[This Unit] gains the [Shockwave] promotion <upon damaging a [All] unit> <with [20]% chance>",
+			     "[This Unit] gains the [Shockwave] promotion <upon defeating a [All] unit> <with [50]% chance>",
 
 			     "[+50]% Strength <when defending> <with [50]% chance>",
 
