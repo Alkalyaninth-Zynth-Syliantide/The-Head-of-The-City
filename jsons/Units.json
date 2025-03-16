@@ -6,6 +6,7 @@
 		"name": "City Rat of The Backstreets",
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
+		"upgradesTo": "Grade 9 Office Fixer",
 		"replaces": "Warrior",
 		"movement": 1,
 		"strength": 1,
@@ -19,7 +20,6 @@
 			    "Can move immediately once bought",
 
 			    "Invisible to non-adjacent units",
-			    "Ignores Zone of Control",
 
 			    "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
 
@@ -38,17 +38,10 @@
 		"strength": 1,
 		"range": 1,
 		"cost": 100,
-		"uniques": ["Only available <if [Grade 9 Offices] is constructed in at least [1] of [in this city] cities>",
-			
-			    "May heal outside of friendly territory",
-			    "May enter foreign tiles without open borders",
-			    "Can move after attacking",
-			    "Can move immediately once bought",
-			    "Can perform Air Sweep",
+		"uniques": ["Unbuildable",
+			    "Only available <if [Grade 9 Offices] is constructed in at least [1] of [in this city] cities>",
   
 			    "Withdraws before melee combat <with [10]% chance>",
-
-			    "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
 
 			    "[This Unit] heals [1] HP <upon damaging a [All] unit>"],
 	},
@@ -66,15 +59,7 @@
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities>",
 			
-			    "May heal outside of friendly territory",
-			    "May enter foreign tiles without open borders",
-			    "Can move after attacking",
-			    "Can move immediately once bought",
-			    "Can perform Air Sweep",
-  
 			    "Withdraws before melee combat <with [12]% chance>",
-
-			    "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
 
 			    "[This Unit] heals [2] HP <upon damaging a [All] unit>"],
 	},
@@ -94,16 +79,8 @@
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 7 Offices] is constructed in at least [1] of [in this city] cities>",
 			
-			    "May heal outside of friendly territory",
-			    "May enter foreign tiles without open borders",
-			    "Can move after attacking",
-			    "Can move immediately once bought",
-			    "Can perform Air Sweep",
-  
 			    "Withdraws before melee combat <with [14]% chance>",
-
-			    "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
-
+			
 			    "[This Unit] heals [3] HP <upon damaging a [All] unit>"],
 	},
 
@@ -120,15 +97,7 @@
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 6 Offices] is constructed in at least [1] of [in this city] cities>",
 			
-			    "May heal outside of friendly territory",
-			    "May enter foreign tiles without open borders",
-			    "Can move after attacking",
-			    "Can move immediately once bought",
-			    "Can perform Air Sweep",
-  
 			    "Withdraws before melee combat <with [16]% chance>",
-
-			    "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
 
 			    "[This Unit] heals [4] HP <upon damaging a [All] unit>"],
 	},
@@ -148,15 +117,7 @@
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 5 Offices] is constructed in at least [1] of [in this city] cities>",
 			
-			    "May heal outside of friendly territory",
-			    "May enter foreign tiles without open borders",
-			    "Can move after attacking",
-			    "Can move immediately once bought",
-			    "Can perform Air Sweep",
-  
 			    "Withdraws before melee combat <with [18]% chance>",
-
-			    "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
 
 			    "[This Unit] heals [5] HP <upon damaging a [All] unit>"],
 	},
@@ -174,15 +135,7 @@
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 4 Offices] is constructed in at least [1] of [in this city] cities>",
 			
-			    "May heal outside of friendly territory",
-			    "May enter foreign tiles without open borders",
-			    "Can move after attacking",
-			    "Can move immediately once bought",
-			    "Can perform Air Sweep",
-  
 			    "Withdraws before melee combat <with [20]% chance>",
-
-			    "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
 
 			    "[This Unit] heals [6] HP <upon damaging a [All] unit>"],
 	},
@@ -201,16 +154,8 @@
 		"cost": 100,
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 3 Offices] is constructed in at least [1] of [in this city] cities>",
-			
-			    "May heal outside of friendly territory",
-			    "May enter foreign tiles without open borders",
-			    "Can move after attacking",
-			    "Can move immediately once bought",
-			    "Can perform Air Sweep",
   
 			    "Withdraws before melee combat <with [22]% chance>",
-
-			    "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
 
 			    "[This Unit] heals [7] HP <upon damaging a [All] unit>"],
 	},
@@ -230,15 +175,7 @@
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 2 Offices] is constructed in at least [1] of [in this city] cities>",
 			
-			    "May heal outside of friendly territory",
-			    "May enter foreign tiles without open borders",
-			    "Can move after attacking",
-			    "Can move immediately once bought",
-			    "Can perform Air Sweep",
-  
 			    "Withdraws before melee combat <with [24]% chance>",
-
-			    "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
 
 			    "[This Unit] heals [8] HP <upon damaging a [All] unit>"],
 	},
@@ -257,16 +194,8 @@
 		"uniques": ["Unbuildable",
 			    "Only available <if [Grade 1 Offices] is constructed in at least [1] of [in this city] cities>",
 			
-			    "May heal outside of friendly territory",
-			    "May enter foreign tiles without open borders",
-			    "Can move after attacking",
-			    "Can move immediately once bought",
-			    "Can perform Air Sweep",
-  
 			    "Withdraws before melee combat <with [26]% chance>",
-
-			    "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
-
+			
 			    "[This Unit] heals [9] HP <upon damaging a [All] unit>"],
 	},
 	
@@ -282,20 +211,7 @@
 		"rangedStrength": 2,
 		"range": 5,
 		"cost": 25,
-		"uniques": [ "Uncapturable",
-			     "Never appears as a Barbarian unit",
-			     "Limited to [1] per Civilization",
-                             "No damage penalty for wounded units",
-
-			     "May heal outside of friendly territory",
-			     "May Paradrop up to [5] tiles from inside friendly territory",
-			     "May enter foreign tiles without open borders",
-			     "Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Your] cities>",
-			     "Can move after attacking",
-			     "Can move immediately once bought",
-
-			     "Unit will heal every turn, even if it performs an action",
-			     "All healing effects doubled",
+		"uniques": [ "Limited to [1] per Civilization",
 
 			     "[Target Unit] gains the [Fairy] status for [10] turn(s) <upon damaging a [All] unit>",
 			     "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon damaging a [All] unit> <with [30]% chance>",
@@ -303,17 +219,12 @@
 
 			     "[+50]% Strength <when defending> <with [50]% chance>",
 
-			     "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
-
 			     "[This Unit] heals [50] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
 			     "[This Unit] heals [50] HP <every [1] turns> <upon damaging a [All] unit>",
 			     "[This Unit] heals [50] HP <every [1] turns> <upon defeating a [All] unit>",
 			     "[This Unit] heals [50] HP <every [1] turns> <when attacking>",
 
-			     "[2] Sight",
-
-			     "Triggers a global alert upon build start",
-		             "Triggers a global alert upon completion"],
+			     "[2] Sight"],
 	},
 	{
 		"name": "E Y E  Beholder",
@@ -324,46 +235,21 @@
 		"strength": 2,
 		"range": 1,
 		"cost": 25,
-		"uniques": [ "Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Your] cities>",
-			     "Uncapturable",
-			     "Unable to capture cities",
-			     "Unable to pillage tiles",
-			     "Never appears as a Barbarian unit",
+		"uniques": [ "Unable to pillage tiles",
 			     "Limited to [1] per Civilization",
-                             "No damage penalty for wounded units",
-			     "No defensive terrain penalty",
 			
-			     "Ignores terrain cost",
-			     "Ignores Zone of Control",
-			
-			     "Eliminates combat penalty for attacking over a river",
-			     "Eliminates combat penalty for attacking across a coast",
-
-			     "May heal outside of friendly territory <if [City LvL - Orbis Terrarum Legend] is constructed in at least [1] of [Your] cities>",
-			     "May Paradrop up to [5] tiles from inside friendly territory",
-                             "May enter foreign tiles without open borders",
 			     "Can see over obstacles",
 			     "Can see invisible [all] units",
-			     "Can move after attacking",
-			     "Can move immediately once bought",
 			     "Can only attack [City] units",
 
 			     "Invisible to non-adjacent units",
 		             "Reveals the entire map <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 
-			     "Unit will heal every turn, even if it performs an action",
-			     "All healing effects doubled",
-
 			     "Withdraws before melee combat <with [100]% chance>",
 
 			     "[This Unit] heals [100] HP <upon losing at least [1] HP in a single attack>",
 
-			     "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
-			
-		             "[3] Sight",
-
-			     "Triggers a global alert upon build start",
-		             "Triggers a global alert upon completion"],
+		             "[3] Sight"],
 	},
 	{
 		"name": "E X E C U T I O N E R  Claw",
@@ -374,32 +260,15 @@
 		"strength": 2,
 		"range": 1,
 		"cost": 25,
-		"uniques": [ "Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Your] cities>",
-			     "Uncapturable",
-			     "Never appears as a Barbarian unit",
-			     "Limited to [1] per Civilization",
-                             "No damage penalty for wounded units",
-
-			     "May heal outside of friendly territory",
-			     "May Paradrop up to [5] tiles from inside friendly territory",
-			     "May enter foreign tiles without open borders",
+		"uniques": [ "Limited to [1] per Civilization",
+                            
 			     "Can perform Air Sweep",
-			     "Can move after attacking",
-			     "Can move immediately once bought",
-
-			     "Unit will heal every turn, even if it performs an action",
-			     "All healing effects doubled",
-			    
+			    			    
 			     "Withdraws before melee combat <with [100]% chance>",
 	 	 	     "[+50]% Strength <when defending> <with [50]% chance>",
 
-			     "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
-
 			     "[This Unit] heals [50] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
 			     "[This Unit] heals [50] HP <every [1] turns> <upon damaging a [All] unit>",
-			     "[This Unit] heals [50] HP <every [1] turns> <upon defeating a [All] unit>",
-			
-			     "Triggers a global alert upon build start",
-		             "Triggers a global alert upon completion"],
+			     "[This Unit] heals [50] HP <every [1] turns> <upon defeating a [All] unit>"],
 	}
 ]
