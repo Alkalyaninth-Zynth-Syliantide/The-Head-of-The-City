@@ -14,14 +14,9 @@
 		"cost": 50,
 		"uniques": ["Unable to capture cities",
 
-			    "May heal outside of friendly territory",
-			    "May enter foreign tiles without open borders",
-			    "Can move after attacking",
-			    "Can move immediately once bought",
-
 			    "Invisible to non-adjacent units",
 
-			    "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
+			    "Withdraws before melee combat <with [8]% chance>",
 
 			    "Earn [100]% of the damage done to [All] units as [Gold]"],
 	},
