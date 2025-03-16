@@ -3,7 +3,7 @@
   //Emotion Levels
 	
   {
-    "name": "Emotion Lvl - 0",
+    "name": "Emotion Lvl - O",
     "uniques": ["[+1]% Strength",
 
                 "[0] Movement point cost to disembark",
@@ -13,7 +13,7 @@
   {
     "name": "Emotion Lvl - I",
     "column": 1,
-    "prerequisites": "Emotion Lvl - 0",
+    "prerequisites": "Emotion Lvl - O",
     "uniques": ["[+1]% Strength",
 
                 "[+1] Movement",
