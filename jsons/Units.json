@@ -405,7 +405,7 @@
 			     "Unit will heal every turn, even if it performs an action",
 			     "All healing effects doubled",
 
-			     "[Tagert Unit] units gain the [Fairy] promotion",
+			     "[Target Unit] gains the [Fairy] status for [1] turn(s) <upon damaging a [All] unit>",
 
 			     "[+50]% Strength <when defending> <with [50]% chance>",
 
