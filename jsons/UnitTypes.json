@@ -3,5 +3,11 @@
     "name": "Incolae Urbis",
     "movementType": "Land",
     "uniques": ["Comment [The inhabitants of The City]"],
+  },
+
+  {
+    "name": "Magistratus Urbis",
+    "movementType": "Land",
+    "uniques": ["Comment [The Head officials of The City]"],
   }
 ]
