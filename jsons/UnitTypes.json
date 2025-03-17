@@ -61,7 +61,7 @@
                 "Triggers a global alert upon build start",
 		"Triggers a global alert upon completion",
       
-                "Comment [The Head officials of The City]"],
+                "Comment [A role reserved for those with exceptional prudence. Individuals with this power have the final say which is beyond review of other branches, acting as The City's brain.]"],
   },
   {
     "name": "Urbs Videntis",
@@ -88,7 +88,7 @@
                 "Triggers a global alert upon build start",
 		"Triggers a global alert upon completion",
       
-                "Comment [The Head officials of The City]"],
+                "Comment [A role reserved for those with exceptional analytical skills. Individuals with this power to enact laws, hold hearings, regulate commerce & taxes, and declare wars, acting as The City's watchful eyes.]"],
   },
   {
     "name": "De Urbe Carnifex",
@@ -115,6 +115,6 @@
                 "Triggers a global alert upon build start",
 		"Triggers a global alert upon completion",
       
-                "Comment [The Head officials of The City]"],
+                "Comment [A role reserved for those with exceptional critical thinking skills. Individuals with this power execute or enforce the laws, acting as The City's muscle.]"],
   }
 ]
