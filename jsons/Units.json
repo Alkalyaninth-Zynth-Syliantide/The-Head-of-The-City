@@ -213,20 +213,20 @@
 		"movement": 10,
 		"strength": 2,
 		"rangedStrength": 2,
-		"range": 5,
+		"range": 3,
 		"cost": 25,
 		"uniques": [ "Limited to [1] per Civilization",
 
-			     "[Target Unit] gains the [Fairy] status for [10] turn(s) <upon damaging a [All] unit>",
+			     "[Target Unit] gains the [Fairy] status for [3] turn(s) <upon damaging a [All] unit>",
 			     "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon damaging a [All] unit> <with [30]% chance>",
 			     "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon defeating a [All] unit> <with [33]% chance>",
 
 			     "[+50]% Strength <when defending> <with [50]% chance>",
 
-			     "[This Unit] heals [50] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
-			     "[This Unit] heals [50] HP <every [1] turns> <upon damaging a [All] unit>",
-			     "[This Unit] heals [50] HP <every [1] turns> <upon defeating a [All] unit>",
-			     "[This Unit] heals [50] HP <every [1] turns> <when attacking>",
+			     "[This Unit] heals [15] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
+			     "[This Unit] heals [15] HP <every [1] turns> <upon damaging a [All] unit>",
+			     "[This Unit] heals [15] HP <every [1] turns> <upon defeating a [All] unit>",
+			     "[This Unit] heals [15] HP <every [1] turns> <when attacking>",
 
 			     "[2] Sight"],
 	},
@@ -251,7 +251,7 @@
 
 			     "Withdraws before melee combat <with [100]% chance>",
 
-			     "[This Unit] heals [100] HP <upon losing at least [1] HP in a single attack>",
+			     "[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack>",
 
 		             "[3] Sight"],
 	},
@@ -271,8 +271,8 @@
 			     "Withdraws before melee combat <with [100]% chance>",
 	 	 	     "[+50]% Strength <when defending> <with [50]% chance>",
 
-			     "[This Unit] heals [50] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
-			     "[This Unit] heals [50] HP <every [1] turns> <upon damaging a [All] unit>",
-			     "[This Unit] heals [50] HP <every [1] turns> <upon defeating a [All] unit>"],
+			     "[This Unit] heals [20] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
+			     "[This Unit] heals [20] HP <every [1] turns> <upon damaging a [All] unit>",
+			     "[This Unit] heals [20] HP <every [1] turns> <upon defeating a [All] unit>"],
 	}
 ]
