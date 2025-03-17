@@ -3,7 +3,8 @@
   //Emotion Levels
 	
   {
-    "name": "Emotion Lvl - Boredom",
+    "name": "Emotion Lvl - O",
+	"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
     "column": 10,
     "row": 1,
     "uniques": ["[+1]% Strength",
@@ -13,7 +14,8 @@
   },
 
   {
-    "name": "Emotion Lvl - Calm",
+    "name": "Emotion Lvl - I",
+	"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
     "column": 2,
     "uniques": ["[+1]% Strength",
 
@@ -22,7 +24,8 @@
   },
 
   {
-    "name": "Emotion Lvl - Serene",
+    "name": "Emotion Lvl - II",
+	"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
     "column": 3,
     "uniques": ["[+1]% Strength",
 
@@ -31,7 +34,8 @@
   },
 
   {
-    "name": "Emotion Lvl - Productive",
+    "name": "Emotion Lvl - III",
+    "unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
     "column": 4,
     "uniques": ["[+1]% Strength",
 
@@ -41,7 +45,8 @@
   },
 
   {
-    "name": "Emotion Lvl - Cheerful",
+    "name": "Emotion Lvl - IV",
+	"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
     "column": 5,
     "uniques": ["[+1]% Strength",
 
@@ -52,7 +57,8 @@
   },
 
   {
-    "name": "Emotion Lvl - Empowered",
+    "name": "Emotion Lvl - V",
+	"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
     "column": 6,
     "uniques": ["[+100]% Strength",
 
@@ -65,6 +71,7 @@
   
   {
 	"name": "Shockwave",
+	"unitTypes": ["Magistratus Urbis"],
 	"uniques": ["[+1]% Strength",
 
        		    "Nuclear weapon of Strength [1]",
