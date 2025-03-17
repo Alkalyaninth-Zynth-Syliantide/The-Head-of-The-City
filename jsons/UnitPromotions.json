@@ -5,8 +5,8 @@
   {
     "name": "Emotion Lvl - O",
 	"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
-    "column": 10,
-    "row": 1,
+    "column": 1,
+    "row": 9,
     "uniques": ["[+1]% Strength",
 
                 "[0] Movement point cost to disembark",
