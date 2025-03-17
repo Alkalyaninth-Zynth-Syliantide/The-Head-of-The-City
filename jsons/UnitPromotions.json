@@ -16,7 +16,9 @@
   {
     "name": "Emotion Lvl - I",
 	"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+    "prerequisites": ["Emotion Lvl - O"],
     "column": 2,
+    "row": 9,
     "uniques": ["[+1]% Strength",
 
                 "[+1] Movement",
@@ -26,7 +28,9 @@
   {
     "name": "Emotion Lvl - II",
 	"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+    "prerequisites": ["Emotion Lvl - O"],
     "column": 3,
+    "row": 9,
     "uniques": ["[+1]% Strength",
 
                 "[+1] Movement",
@@ -36,7 +40,9 @@
   {
     "name": "Emotion Lvl - III",
     "unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+     "prerequisites": ["Emotion Lvl - O"],
     "column": 4,
+    "row": 9,
     "uniques": ["[+1]% Strength",
 
                 "[+1] Movement",
@@ -47,7 +53,9 @@
   {
     "name": "Emotion Lvl - IV",
 	"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+    "prerequisites": ["Emotion Lvl - O"],
     "column": 5,
+    "row": 9,
     "uniques": ["[+1]% Strength",
 
                 "[+1] Movement",
@@ -59,7 +67,9 @@
   {
     "name": "Emotion Lvl - V",
 	"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+    "prerequisites": ["Emotion Lvl - O"],
     "column": 6,
+    "row": 9,
     "uniques": ["[+100]% Strength",
 
                 "[+1] Movement",
