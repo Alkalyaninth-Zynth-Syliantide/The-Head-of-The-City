@@ -1,0 +1,114 @@
+[
+
+//Unit Emotion Levels
+
+	{
+		"name": "Emotion Lvl - O",
+		"column": 1,
+		"row": 9,
+		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"uniques": ["[+1]% Strength",
+
+			    "[0] Movement point cost to disembark",
+			    "[0] Movement point cost to embark"],
+	},
+
+	{
+		"name": "Emotion Lvl - I",
+		"prerequisites": ["Emotion Lvl - O"],
+		"column": 1,
+		"row": 10,
+		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"uniques": ["[+1]% Strength",
+
+			    "[+1] Movement",
+			    "[+1] Sight"],
+	},
+
+	{
+		"name": "Emotion Lvl - II",
+		"prerequisites": ["Emotion Lvl - I"],
+		"column": 1,
+		"row": 11,
+		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"uniques": ["[+1]% Strength",
+
+			    "[+1] Movement",
+			    "[+1] Range"],
+	},
+
+	{
+		"name": "Emotion Lvl - III",
+		"prerequisites": ["Emotion Lvl - II"],
+		"column": 1,
+		"row": 12,
+		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"uniques": ["[+1]% Strength",
+
+			    "[+1] Movement",
+			    "[+1] Sight",
+			    "[+1] Range"],
+	},
+
+	{
+		"name": "Emotion Lvl - IV",
+		"prerequisites": ["Emotion Lvl - III"],
+		"column": 1,
+		"row": 13,
+		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"uniques": ["[+50]% Strength",
+
+			    "[+1] Movement",
+			    "[+1] additional attacks per turn"],
+	},
+
+	{
+		"name": "Emotion Lvl - V",
+		"prerequisites": ["Emotion Lvl - IV"],
+		"column": 1,
+		"row": 14,
+		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"uniques": ["[+50]% Strength",
+
+			    "[+1] Movement",
+			    "[+1] Sight",
+			    "[+1] Range",
+			    "[+1] additional attacks per turn <upon defeating a [All] unit> <every [1] turns>"],
+	},
+
+//Unit Buffs
+
+	{
+		"name": "Shockwave",
+		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"uniques": ["[+1]% Strength",
+			    "[+9999]% Strength <when defending>",
+
+			    "Nuclear weapon of Strength [1]",
+			    "Blast radius [2]",
+
+			    "[This Unit] loses the [Shockwave] promotion <upon turn end>",
+			    "[This Unit] loses the [Shockwave] promotion <upon damaging a [All] unit>",
+			    "[This Unit] loses the [Shockwave] promotion <upon defeating a [All] unit"],
+	},
+
+//Unit Debuffs
+
+	{
+		"name": "Fairy",
+		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"uniques": ["[-9999]% Strength",
+
+			   "Nuclear weapon of Strength [1]",
+			   "Blast radius [2]",
+
+			   "[This Unit] takes [5] damage <every [1] turns>",
+			   "[This Unit] takes [5] damage <upon turn end>",
+			   "[This Unit] takes [5] damage <upon turn start>",
+			   "[This Unit] takes [5] damage <upon damaging a [All] unit>",
+			   "[This Unit] takes [5] damage <upon defeating a [All] unit"],
+	},
+
+//Status Cooldowns
+
+]
