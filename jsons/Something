@@ -1,6 +1,6 @@
 [
 
-//Emotion Levels
+//Unit Emotion Levels
 
 	{
 		"name": "Emotion Lvl - O",
@@ -9,8 +9,8 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
 		"uniques": ["[+1]% Strength",
 
-								"[0] Movement point cost to disembark",
-								"[0] Movement point cost to embark"],
+			    "[0] Movement point cost to disembark",
+			    "[0] Movement point cost to embark"],
 	},
 
 	{
@@ -21,8 +21,8 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
 		"uniques": ["[+1]% Strength",
 
-								"[+1] Movement",
-								"[+1] Sight"],
+			    "[+1] Movement",
+			    "[+1] Sight"],
 	},
 
 	{
@@ -33,8 +33,8 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
 		"uniques": ["[+1]% Strength",
 
-								"[+1] Movement",
-								"[+1] Range"],
+			    "[+1] Movement",
+			    "[+1] Range"],
 	},
 
 	{
@@ -45,9 +45,9 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
 		"uniques": ["[+1]% Strength",
 
-								"[+1] Movement",
-								"[+1] Sight",
-								"[+1] Range"],
+			    "[+1] Movement",
+			    "[+1] Sight",
+			    "[+1] Range"],
 	},
 
 	{
@@ -58,8 +58,8 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
 		"uniques": ["[+50]% Strength",
 
-								"[+1] Movement",
-								"[+1] additional attacks per turn"],
+			    "[+1] Movement",
+			    "[+1] additional attacks per turn"],
 	},
 
 	{
@@ -70,45 +70,45 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
 		"uniques": ["[+50]% Strength",
 
-								"[+1] Movement",
-								"[+1] Sight",
-								"[+1] Range",
-								"[+1] additional attacks per turn <upon defeating a [All] unit> <every [1] turns>"],
+			    "[+1] Movement",
+			    "[+1] Sight",
+			    "[+1] Range",
+			    "[+1] additional attacks per turn <upon defeating a [All] unit> <every [1] turns>"],
 	},
 
-//Buffs
+//Unit Buffs
 
 	{
 		"name": "Shockwave",
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
 		"uniques": ["[+1]% Strength",
-								"[+9999]% Strength <when defending>",
+			    "[+9999]% Strength <when defending>",
 
-								"Nuclear weapon of Strength [1]",
-								"Blast radius [2]",
+			    "Nuclear weapon of Strength [1]",
+			    "Blast radius [2]",
 
-								"[This Unit] loses the [Shockwave] promotion <upon turn end>",
-								"[This Unit] loses the [Shockwave] promotion <upon damaging a [All] unit>",
-								"[This Unit] loses the [Shockwave] promotion <upon defeating a [All] unit"],
+			    "[This Unit] loses the [Shockwave] promotion <upon turn end>",
+			    "[This Unit] loses the [Shockwave] promotion <upon damaging a [All] unit>",
+			    "[This Unit] loses the [Shockwave] promotion <upon defeating a [All] unit"],
 	},
 
-//Debuffs
+//Unit Debuffs
 
 	{
 		"name": "Fairy",
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
 		"uniques": ["[-9999]% Strength",
 
-								"Nuclear weapon of Strength [1]",
-								"Blast radius [2]",
+			   "Nuclear weapon of Strength [1]",
+			   "Blast radius [2]",
 
-								"[This Unit] takes [5] damage <every [1] turns>",
-								"[This Unit] takes [5] damage <upon turn end>",
-								"[This Unit] takes [5] damage <upon turn start>",
-								"[This Unit] takes [5] damage <upon damaging a [All] unit>",
-								"[This Unit] takes [5] damage <upon defeating a [All] unit"],
+			   "[This Unit] takes [5] damage <every [1] turns>",
+			   "[This Unit] takes [5] damage <upon turn end>",
+			   "[This Unit] takes [5] damage <upon turn start>",
+			   "[This Unit] takes [5] damage <upon damaging a [All] unit>",
+			   "[This Unit] takes [5] damage <upon defeating a [All] unit"],
 	},
 
-//Cooldowns
+//Status Cooldowns
 
 ]
