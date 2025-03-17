@@ -37,7 +37,61 @@
   //Governing Units
 
   {
-    "name": "Magistratus Urbis",
+    "name": "Arbitrarius Urbis",
+    "movementType": "Land",
+    "uniques": ["Uncapturable",
+		"Never appears as a Barbarian unit",
+                "No damage penalty for wounded units",
+                "No defensive terrain penalty",
+
+		"May heal outside of friendly territory",
+		"May Paradrop up to [7] tiles from inside friendly territory",
+		"May enter foreign tiles without open borders",
+		"Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Your] cities>",
+		"Can move after attacking",
+		"Can move immediately once bought",
+
+		"Unit will heal every turn, even if it performs an action",
+		"All healing effects doubled",
+
+	        "[+50]% XP gained from combat",
+
+                "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
+
+                "Triggers a global alert upon build start",
+		"Triggers a global alert upon completion",
+      
+                "Comment [The Head officials of The City]"],
+  },
+  {
+    "name": "Urbs Videntis",
+    "movementType": "Land",
+    "uniques": ["Uncapturable",
+		"Never appears as a Barbarian unit",
+                "No damage penalty for wounded units",
+                "No defensive terrain penalty",
+
+		"May heal outside of friendly territory",
+		"May Paradrop up to [7] tiles from inside friendly territory",
+		"May enter foreign tiles without open borders",
+		"Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Your] cities>",
+		"Can move after attacking",
+		"Can move immediately once bought",
+
+		"Unit will heal every turn, even if it performs an action",
+		"All healing effects doubled",
+
+	        "[+50]% XP gained from combat",
+
+                "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
+
+                "Triggers a global alert upon build start",
+		"Triggers a global alert upon completion",
+      
+                "Comment [The Head officials of The City]"],
+  },
+  {
+    "name": "De Urbe Carnifex",
     "movementType": "Land",
     "uniques": ["Uncapturable",
 		"Never appears as a Barbarian unit",
