@@ -6,7 +6,7 @@
 		"name": "Emotion Lvl - O",
 		"column": 1,
 		"row": 9,
-		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+1]% Strength",
 
 			    "[0] Movement point cost to disembark",
@@ -18,7 +18,7 @@
 		"prerequisites": ["Emotion Lvl - O"],
 		"column": 1,
 		"row": 10,
-		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+1]% Strength",
 
 			    "[+1] Movement",
@@ -30,7 +30,7 @@
 		"prerequisites": ["Emotion Lvl - I"],
 		"column": 1,
 		"row": 11,
-		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+1]% Strength",
 
 			    "[+1] Movement",
@@ -42,7 +42,7 @@
 		"prerequisites": ["Emotion Lvl - II"],
 		"column": 1,
 		"row": 12,
-		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+1]% Strength",
 
 			    "[+1] Movement",
@@ -55,7 +55,7 @@
 		"prerequisites": ["Emotion Lvl - III"],
 		"column": 1,
 		"row": 13,
-		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+50]% Strength",
 
 			    "[+1] Movement",
@@ -67,7 +67,7 @@
 		"prerequisites": ["Emotion Lvl - IV"],
 		"column": 1,
 		"row": 14,
-		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+50]% Strength",
 
 			    "[+1] Movement",
@@ -80,7 +80,7 @@
 
 	{
 		"name": "Shockwave",
-		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"unitTypes": ["Arbitrarius Urbis"],
 		"uniques": ["[+1]% Strength",
 			    "[+9999]% Strength <when defending>",
 
