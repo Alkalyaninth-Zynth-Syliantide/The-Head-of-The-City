@@ -96,12 +96,8 @@
 
 	{
 		"name": "Fairy",
-		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
 		"uniques": ["[-9999]% Strength",
-
-			   "Nuclear weapon of Strength [1]",
-			   "Blast radius [2]",
-
+			
 			   "[This Unit] takes [5] damage <every [1] turns>",
 			   "[This Unit] takes [5] damage <upon turn end>",
 			   "[This Unit] takes [5] damage <upon turn start>",
