@@ -89,7 +89,7 @@
 
 			    "[This Unit] loses the [Shockwave] promotion <upon turn end>",
 			    "[This Unit] loses the [Shockwave] promotion <upon damaging a [All] unit>",
-			    "[This Unit] loses the [Shockwave] promotion <upon defeating a [All] unit"],
+			    "[This Unit] loses the [Shockwave] promotion <upon defeating a [All] unit>"],
 	},
 
 //Unit Debuffs
@@ -102,7 +102,7 @@
 			   "[This Unit] takes [5] damage <upon turn end>",
 			   "[This Unit] takes [5] damage <upon turn start>",
 			   "[This Unit] takes [5] damage <upon damaging a [All] unit>",
-			   "[This Unit] takes [5] damage <upon defeating a [All] unit"],
+			   "[This Unit] takes [5] damage <upon defeating a [All] unit>"],
 	},
 
 //Status Cooldowns
