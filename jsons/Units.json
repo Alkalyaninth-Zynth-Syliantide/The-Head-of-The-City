@@ -207,7 +207,7 @@
 	
 	{
 		"name": "H E A D  Arbiter",
-		"unitType": "Magistratus Urbis",
+		"unitType": "Arbitrarius Urbis",
 		"uniqueTo": "The City",
 		"replaces": "Great War Infantry",
 		"movement": 10,
@@ -232,7 +232,7 @@
 	},
 	{
 		"name": "E Y E  Beholder",
-		"unitType": "Magistratus Urbis",
+		"unitType": "Urbs Videntis",
 		"uniqueTo": "The City",
 		"replaces": "Marine",
 		"movement": 10,
@@ -257,7 +257,7 @@
 	},
 	{
 		"name": "E X E C U T I O N E R  Claw",
-		"unitType": "Magistratus Urbis",
+		"unitType": "De Urbe Carnifex",
 		"uniqueTo": "The City",
 		"replaces": "Infantry",
 		"movement": 10,
