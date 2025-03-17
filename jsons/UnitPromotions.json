@@ -4,18 +4,18 @@
 	
   {
     "name": "Emotion Lvl - O",
-	  "unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
     "column": 1,
     "row": 9,
     "uniques": ["[+1]% Strength",
 
                 "[0] Movement point cost to disembark",
-	              "[0] Movement point cost to embark"],
+			          "[0] Movement point cost to embark"],
   },
 
   {
     "name": "Emotion Lvl - I",
-  	"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
+		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Magistratus Urbis"],
     "prerequisites": ["Emotion Lvl - O"],
     "column": 2,
     "row": 9,
