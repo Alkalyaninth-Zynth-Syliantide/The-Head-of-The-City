@@ -213,7 +213,7 @@
 		"movement": 10,
 		"strength": 2,
 		"rangedStrength": 2,
-		"range": 3,
+		"range": 2,
 		"cost": 25,
 		"uniques": [ "Limited to [1] per Civilization",
 
