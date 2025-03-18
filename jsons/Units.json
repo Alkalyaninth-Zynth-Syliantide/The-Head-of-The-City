@@ -219,7 +219,7 @@
 		"uniqueTo": "The City",
 		"replaces": "Infantry",
 		"movement": 10,
-		"strength": 2,
+		"strength": 1,
 		"range": 1,
 		"cost": 25,
 		"uniques": [ "Limited to [1] per Civilization",
