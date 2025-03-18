@@ -1,5 +1,33 @@
 [
 	
+	//Test Build
+
+	{
+	        "name": "Enable Cheats",
+		
+		"uniqueTo": "The City",
+		"uniques": ["[+100]% [Production]",
+			    "[+100]% [Food]",
+			    "[+100]% [Gold]",
+			    "[+100]% [Science]",
+			    "[+100]% [Culture]",
+			    "[+100]% [Happiness]",
+			    "[+100]% [Faith]"],
+
+		"cityStrength": 999,
+		"cityHealth": 999,
+		
+		"production": 999,
+		"food": 999,
+		"gold": 999,
+		"science": 999,
+		"culture": 999,
+		"happiness": 999,
+		"faith": 999,
+
+		"cost": 1,
+	},
+	
 	//Official Recogniton Buildings
 
 	{
