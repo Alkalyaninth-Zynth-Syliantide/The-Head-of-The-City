@@ -19,7 +19,7 @@
 		"column": 1,
 		"row": 10,
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
-		"uniques": ["[+1]% Strength",
+		"uniques": ["[+100]% Strength",
 
 			    "[+1] Movement",
 			    "[+1] Sight"],
@@ -31,7 +31,7 @@
 		"column": 1,
 		"row": 11,
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
-		"uniques": ["[+1]% Strength",
+		"uniques": ["[+200]% Strength",
 
 			    "[+1] Movement",
 			    "[+1] Range"],
@@ -43,7 +43,7 @@
 		"column": 1,
 		"row": 12,
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
-		"uniques": ["[+1]% Strength",
+		"uniques": ["[+300]% Strength",
 
 			    "[+1] Movement",
 			    "[+1] Sight",
@@ -56,7 +56,7 @@
 		"column": 1,
 		"row": 13,
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
-		"uniques": ["[+50]% Strength",
+		"uniques": ["[+400]% Strength",
 
 			    "[+1] Movement",
 			    "[+1] additional attacks per turn"],
@@ -68,7 +68,7 @@
 		"column": 1,
 		"row": 14,
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
-		"uniques": ["[+50]% Strength",
+		"uniques": ["[+500]% Strength",
 
 			    "[+1] Movement",
 			    "[+1] Sight",
@@ -82,12 +82,12 @@
 		"name": "Shockwave",
 		"unitTypes": ["Arbitrarius Urbis"],
 		"uniques": ["[+1]% Strength",
-			    "[+9999]% Strength <when defending>",
+			    "[+99999]% Strength <when defending>",
 
 			    "Nuclear weapon of Strength [1]",
 			    "Blast radius [2]",
 			    "[+1] Range",
-			    "[+1] additional attacks per turn",
+			    "[1] additional attacks per turn",
 
 			    "[This Unit] loses the [Shockwave] promotion <upon turn end>",
 			    "[This Unit] loses the [Shockwave] promotion <upon damaging a [All] unit>",
@@ -98,13 +98,13 @@
 
 	{
 		"name": "Fairy",
-		"uniques": ["[-9999]% Strength",
+		"uniques": ["[-1]% Strength",
 			
-			   "[This Unit] takes [5] damage <every [1] turns>",
-			   "[This Unit] takes [5] damage <upon turn end>",
-			   "[This Unit] takes [5] damage <upon turn start>",
-			   "[This Unit] takes [5] damage <upon damaging a [All] unit>",
-			   "[This Unit] takes [5] damage <upon defeating a [All] unit>"],
+			   "[This Unit] takes [7] damage <every [1] turns>",
+			   "[This Unit] takes [7] damage <upon turn end>",
+			   "[This Unit] takes [7] damage <upon turn start>",
+			   "[This Unit] takes [7] damage <upon damaging a [All] unit>",
+			   "[This Unit] takes [7] damage <upon defeating a [All] unit>"],
 	},
 
 //Status Cooldowns
