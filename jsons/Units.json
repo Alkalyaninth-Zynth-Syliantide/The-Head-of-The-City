@@ -206,7 +206,7 @@
 			     "Invisible to non-adjacent units",
 		             "Reveals the entire map <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 
-			     "[+6900]% Strength when defending",
+			     "[+6900]% Strength <when defending>",
 			     "Withdraws before melee combat <with [100]% chance>",
 
 			     "[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack>",
