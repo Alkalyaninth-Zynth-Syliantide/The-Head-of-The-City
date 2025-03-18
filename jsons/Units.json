@@ -6,20 +6,13 @@
 		"name": "City Rat of The Backstreets",
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
-		"upgradesTo": "Grade 9 Office Fixer",
 		"replaces": "Warrior",
 		"movement": 1,
 		"strength": 1,
 		"range": 1,
 		"cost": 100,
-		"uniques": ["Unable to capture cities",
-			    "Can upgrade to [Grade 9 Office Fixer]",
-
-			    "Invisible to non-adjacent units",
-
-			    "Withdraws before melee combat <with [8]% chance>",
-
-			    "Earn [100]% of the damage done to [All] units as [Gold]"],
+		"uniques": ["[+200]% Strength <when defending>",
+			    "Withdraws before melee combat <with [4]% chance>"],
 	},
 
 	//City LvL - Orbis Terrarum Canard Associated Units
@@ -28,38 +21,30 @@
 		"name": "Grade 9 Office Fixer",
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
-		"upgradesTo": "Grade 8 Office Fixer",
 		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 1,
 		"range": 1,
 		"cost": 200,
-		"uniques": ["Unbuildable",
-			    "Only available <if [Grade 9 Offices] is constructed in at least [1] of [in this city] cities>",
-                            "Can upgrade to [Grade 8 Office Fixer]",
+		"uniques": ["Only available <if [Grade 9 Offices] is constructed in at least [1] of [in this city] cities>",
 			
-			    "Withdraws before melee combat <with [10]% chance>",
-
-			    "[This Unit] heals [1] HP <upon damaging a [All] unit>"],
+			    "[+500]% Strength <when defending>",
+			    "Withdraws before melee combat <with [8]% chance>"],
 	},
 
 	{
 		"name": "Grade 8 Office Fixer",
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
-		"upgradesTo": "Grade 7 Office Fixer",
 		"replaces": "Pikeman",
-		"movement": 3,
+		"movement": 2,
 		"strength": 1,
 		"range": 1,
 		"cost": 300,
-		"uniques": ["Unbuildable",
-			    "Only available <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities>",
-			    "Can upgrade to [Grade 7 Office Fixer]",
-			                            
-			    "Withdraws before melee combat <with [12]% chance>",
-
-			    "[This Unit] heals [2] HP <upon damaging a [All] unit>"],
+		"uniques": ["Only available <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities>",
+			
+			    "[+800]% Strength <when defending>",                    
+			    "Withdraws before melee combat <with [12]% chance>"],
 	},
 
 	//City LvL - Global Myth Associated Units
@@ -68,38 +53,30 @@
 		"name": "Grade 7 Office Fixer",
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
-		"upgradesTo": "Grade 6 Office Fixer",
 		"replaces": "Swordsman",
 		"movement": 3,
 		"strength": 1,
 		"range": 1,
 		"cost": 400,
-		"uniques": ["Unbuildable",
-			    "Only available <if [Grade 7 Offices] is constructed in at least [1] of [in this city] cities>",
-			    "Can upgrade to [Grade 6 Office Fixer]",
-			
-			    "Withdraws before melee combat <with [14]% chance>",
-			
-			    "[This Unit] heals [3] HP <upon damaging a [All] unit>"],
+		"uniques": ["Only available <if [Grade 7 Offices] is constructed in at least [1] of [in this city] cities>",
+
+			    "[+1100]% Strength <when defending>",
+			    "Withdraws before melee combat <with [16]% chance>"],
 	},
 
 	{
 		"name": "Grade 6 Office Fixer",
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
-		"upgradesTo": "Grade 5 Office Fixer",
 		"replaces": "Longswordsman",
-		"movement": 4,
+		"movement": 3,
 		"strength": 1,
 		"range": 1,
 		"cost": 500,
-		"uniques": ["Unbuildable",
-			    "Only available <if [Grade 6 Offices] is constructed in at least [1] of [in this city] cities>",
-			    "Can upgrade to [Grade 5 Office Fixer]",
-			
-			    "Withdraws before melee combat <with [16]% chance>",
+		"uniques": ["Only available <if [Grade 6 Offices] is constructed in at least [1] of [in this city] cities>",
 
-			    "[This Unit] heals [4] HP <upon damaging a [All] unit>"],
+			    "[+1400]% Strength <when defending>",
+			    "Withdraws before melee combat <with [20]% chance>"],
 	},
 
 	//City LvL - Orbis Terrarum Legend Associated Units
@@ -108,38 +85,30 @@
 		"name": "Grade 5 Office Fixer",
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
-		"upgradesTo": "Grade 4 Office Fixer",
 		"replaces": "Horseman",
 		"movement": 4,
 		"strength": 1,
 		"range": 1,
 		"cost": 600,
-		"uniques": ["Unbuildable",
-			    "Only available <if [Grade 5 Offices] is constructed in at least [1] of [in this city] cities>",
-			    "Can upgrade to [Grade 4 Office Fixer]",
-			
-			    "Withdraws before melee combat <with [18]% chance>",
+		"uniques": ["Only available <if [Grade 5 Offices] is constructed in at least [1] of [in this city] cities>",
 
-			    "[This Unit] heals [5] HP <upon damaging a [All] unit>"],
+			    "[+1700]% Strength <when defending>",
+			    "Withdraws before melee combat <with [24]% chance>"],
 	},
 
 	{
 		"name": "Grade 4 Office Fixer",
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
-		"upgradesTo": "Grade 3 Office Fixer",
 		"replaces": "Knight",
-		"movement": 5,
+		"movement": 4,
 		"strength": 1,
 		"range": 2,
 		"cost": 700,
-		"uniques": ["Unbuildable",
-			    "Only available <if [Grade 4 Offices] is constructed in at least [1] of [in this city] cities>",
-			    "Can upgrade to [Grade 3 Office Fixer]",
-			
-			    "Withdraws before melee combat <with [20]% chance>",
+		"uniques": ["Only available <if [Grade 4 Offices] is constructed in at least [1] of [in this city] cities>",
 
-			    "[This Unit] heals [6] HP <upon damaging a [All] unit>"],
+			    "[+2000]% Strength <when defending>",
+			    "Withdraws before melee combat <with [28]% chance>"],
 	},
 
 	//City LvL - Pestilentia Internationalis Associated Units
@@ -148,19 +117,15 @@
 		"name": "Grade 3 Office Fixer",
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
-		"upgradesTo": "Grade 2 Office Fixer",
 		"replaces": "Cavalry",
 		"movement": 5,
 		"strength": 1,
 		"range": 1,
 		"cost": 800,
-		"uniques": ["Unbuildable",
-			    "Only available <if [Grade 3 Offices] is constructed in at least [1] of [in this city] cities>",
-                            "Can upgrade to [Grade 2 Office Fixer]",
-			
-			    "Withdraws before melee combat <with [22]% chance>",
+		"uniques": ["Only available <if [Grade 3 Offices] is constructed in at least [1] of [in this city] cities>",
 
-			    "[This Unit] heals [7] HP <upon damaging a [All] unit>"],
+			    "[+2300]% Strength <when defending>",
+			    "Withdraws before melee combat <with [32]% chance>"],
 	},
 
 	//City LvL -Internationalis Visio Nocturna Associated Units
@@ -169,19 +134,15 @@
 		"name": "Grade 2 Office Fixer",
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
-		"upgradesTo": "Grade 1 Office Fixer",
 		"replaces": "Musketman",
-		"movement": 6,
+		"movement": 5,
 		"strength": 1,
 		"range": 1,
 		"cost": 900,
-		"uniques": ["Unbuildable",
-			    "Only available <if [Grade 2 Offices] is constructed in at least [1] of [in this city] cities>",
-			    "Can upgrade to [Grade 1 Office Fixer]",
-			
-			    "Withdraws before melee combat <with [24]% chance>",
+		"uniques": ["Only available <if [Grade 2 Offices] is constructed in at least [1] of [in this city] cities>",
 
-			    "[This Unit] heals [8] HP <upon damaging a [All] unit>"],
+			    "[+2600]% Strength <when defending>",
+			    "Withdraws before melee combat <with [36]% chance>"],
 	},
 
 	//City LvL - Orbis Terrarum Stella Associated Units
@@ -195,12 +156,10 @@
 		"strength": 1,
 		"range": 1,
 		"cost": 1000,
-		"uniques": ["Unbuildable",
-			    "Only available <if [Grade 1 Offices] is constructed in at least [1] of [in this city] cities>",
-			
-			    "Withdraws before melee combat <with [26]% chance>",
-			
-			    "[This Unit] heals [9] HP <upon damaging a [All] unit>"],
+		"uniques": ["Only available <if [Grade 1 Offices] is constructed in at least [1] of [in this city] cities>",
+
+			    "[+2900]% Strength <when defending>",
+			    "Withdraws before melee combat <with [40]% chance>"],
 	},
 	
 	//Top Three Agents of The Head
@@ -211,23 +170,23 @@
 		"uniqueTo": "The City",
 		"replaces": "Great War Infantry",
 		"movement": 10,
-		"strength": 2,
-		"rangedStrength": 2,
+		"strength": 1,
+		"rangedStrength": 1,
 		"range": 2,
 		"cost": 25,
 		"uniques": [ "Limited to [1] per Civilization",
+
+			     "[+6900]% Strength",
 
 			     "[Target Unit] gains the [Fairy] status for [3] turn(s) <upon damaging a [All] unit>",
 			     "[This Unit] gains the [Shockwave] promotion <every [1] turns> <with [10]% chance>",
 			     "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon damaging a [All] unit> <with [20]% chance>",
 			     "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon defeating a [All] unit> <with [30]% chance>",
 
-			     "[+50]% Strength <when defending> <with [50]% chance>",
-
-			     "[This Unit] heals [15] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
-			     "[This Unit] heals [15] HP <every [1] turns> <upon damaging a [All] unit>",
-			     "[This Unit] heals [15] HP <every [1] turns> <upon defeating a [All] unit>",
-			     "[This Unit] heals [15] HP <every [1] turns> <when attacking>",
+			     "[This Unit] heals [5] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
+			     "[This Unit] heals [5] HP <every [1] turns> <upon damaging a [All] unit>",
+			     "[This Unit] heals [5] HP <every [1] turns> <upon defeating a [All] unit>",
+			     "[This Unit] heals [5] HP <every [1] turns> <when attacking>",
 
 			     "[2] Sight"],
 	},
@@ -237,7 +196,7 @@
 		"uniqueTo": "The City",
 		"replaces": "Marine",
 		"movement": 10,
-		"strength": 2,
+		"strength": 1,
 		"range": 1,
 		"cost": 25,
 		"uniques": [ "Unable to pillage tiles",
@@ -250,6 +209,7 @@
 			     "Invisible to non-adjacent units",
 		             "Reveals the entire map <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 
+			     "[+6900]% Strength ,when defending",
 			     "Withdraws before melee combat <with [100]% chance>",
 
 			     "[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack>",
@@ -268,12 +228,12 @@
 		"uniques": [ "Limited to [1] per Civilization",
                             
 			     "Can perform Air Sweep",
-			    			    
-			     "Withdraws before melee combat <with [100]% chance>",
-	 	 	     "[+50]% Strength <when defending> <with [50]% chance>",
 
-			     "[This Unit] heals [20] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
-			     "[This Unit] heals [20] HP <every [1] turns> <upon damaging a [All] unit>",
-			     "[This Unit] heals [20] HP <every [1] turns> <upon defeating a [All] unit>"],
+			     "[+99999]% Strength <when defending>",
+			     "Withdraws before melee combat <with [100]% chance>",
+
+			     "[This Unit] heals [7] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
+			     "[This Unit] heals [7] HP <every [1] turns> <upon damaging a [All] unit>",
+			     "[This Unit] heals [7] HP <every [1] turns> <upon defeating a [All] unit>"],
 	}
 ]
