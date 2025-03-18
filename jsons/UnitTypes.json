@@ -11,9 +11,7 @@
 	        "Can move immediately once bought",
 	        "Cannot attack",
 
-	        "[+20]% XP gained from combat",
-      
-                "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
+	        "[+30]% XP gained from combat",
               
                 "Comment [The inhabitants of The City]"],
   },
@@ -27,9 +25,7 @@
 	        "Can move immediately once bought",
 	        "Can perform Air Sweep",
 
-	        "[+30]% XP gained from combat",
-      
-                "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
+	        "[+40]% XP gained from combat",
               
                 "Comment [The exceptional inhabitants of The City]"],
   },
@@ -39,7 +35,8 @@
   {
     "name": "Arbitrarius Urbis",
     "movementType": "Land",
-    "uniques": ["Uncapturable",
+    "uniques": ["Comment [A role reserved for those with exceptional prudence. Individuals with this power have the final say which is beyond review of other branches, acting as The City's brain.]",
+	        "Uncapturable",
 		"Never appears as a Barbarian unit",
                 "No damage penalty for wounded units",
                 "No defensive terrain penalty",
@@ -56,17 +53,14 @@
 
 	        "[+50]% XP gained from combat",
 
-                "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
-
                 "Triggers a global alert upon build start",
-		"Triggers a global alert upon completion",
-      
-                "Comment [A role reserved for those with exceptional prudence. Individuals with this power have the final say which is beyond review of other branches, acting as The City's brain.]"],
+		"Triggers a global alert upon completion"],
   },
   {
     "name": "Urbs Videntis",
     "movementType": "Land",
-    "uniques": ["Uncapturable",
+    "uniques": ["Comment [A role reserved for those with exceptional analytical skills. Individuals with this power to enact laws, hold hearings, regulate commerce & taxes, and declare wars, acting as The City's watchful eyes.]",
+	        "Uncapturable",
 		"Never appears as a Barbarian unit",
                 "No damage penalty for wounded units",
                 "No defensive terrain penalty",
@@ -83,17 +77,14 @@
 
 	        "[+50]% XP gained from combat",
 
-                "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
-
                 "Triggers a global alert upon build start",
-		"Triggers a global alert upon completion",
-      
-                "Comment [A role reserved for those with exceptional analytical skills. Individuals with this power to enact laws, hold hearings, regulate commerce & taxes, and declare wars, acting as The City's watchful eyes.]"],
+		"Triggers a global alert upon completion"],
   },
   {
     "name": "De Urbe Carnifex",
     "movementType": "Land",
-    "uniques": ["Uncapturable",
+    "uniques": ["Comment [A role reserved for those with exceptional critical thinking skills. Individuals with this power execute or enforce the laws, acting as The City's muscle.]",
+	        "Uncapturable",
 		"Never appears as a Barbarian unit",
                 "No damage penalty for wounded units",
                 "No defensive terrain penalty",
@@ -110,11 +101,7 @@
 
 	        "[+50]% XP gained from combat",
 
-                "[-9999]% Strength for enemy [All] units in adjacent [All] tiles",
-
                 "Triggers a global alert upon build start",
-		"Triggers a global alert upon completion",
-      
-                "Comment [A role reserved for those with exceptional critical thinking skills. Individuals with this power execute or enforce the laws, acting as The City's muscle.]"],
+		"Triggers a global alert upon completion"],
   }
 ]
