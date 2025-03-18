@@ -31,7 +31,6 @@
 			    "[+500]% Strength <when defending>",
 			    "Withdraws before melee combat <with [8]% chance>"],
 	},
-
 	{
 		"name": "Grade 8 Office Fixer",
 		"unitType": "Incolae Urbis",
@@ -63,7 +62,6 @@
 			    "[+1100]% Strength <when defending>",
 			    "Withdraws before melee combat <with [16]% chance>"],
 	},
-
 	{
 		"name": "Grade 6 Office Fixer",
 		"unitType": "Incolae Urbis",
@@ -95,7 +93,6 @@
 			    "[+1700]% Strength <when defending>",
 			    "Withdraws before melee combat <with [24]% chance>"],
 	},
-
 	{
 		"name": "Grade 4 Office Fixer",
 		"unitType": "Incolae Urbis",
