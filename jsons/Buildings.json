@@ -3,6 +3,33 @@
 	//Official Recogniton Buildings
 	
 	{
+	        "name": "Official Recognition of The City",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Requires at least [1] population",
+
+			   "[-25]% Production towards any buildings that already exist in the Capital",
+
+			   "Unsellable",
+			   "Never destroyed when the city is captured",
+		
+		           "Triggers a global alert upon completion"],
+
+		"cityStrength": 5,
+		"cityHealth": 5,
+		
+		"production": 0,
+		"food": 0,
+		"gold": 0,
+		"science": 0,
+		"culture": 0,
+		"happiness": 0,
+		"faith": 0,
+
+		"cost": 50,
+	},
+
+	{
 	        "name": "Official Founding of The Head",
 		"requiredBuilding": "Official Recognition of The City",
 		
@@ -10,10 +37,6 @@
 		"uniques": ["Can only be built <in cities with at least [3] [Population]>",
 			   "Unavailable <if [Official Founding of The Head] is constructed by anybody>",
                            "Requires at least [3] population",
-
-			   "Free [H E A D  Arbiter] appears",
-			   "Free [E Y E  Beholder] appears",
-		           "Free [E X E C U T I O N E R  Claw] appears",
 			
 			   "[+1 Culture] per [5] population [in this city] <during a Golden Age>",
 			   "[+1 Culture] per [5] population [in this city] <during We Love The King Day>",
@@ -42,34 +65,7 @@
 		"happiness": 0,
 		"faith": 0,
 
-		"cost": 70,
-	},
-	
-	{
-	        "name": "Official Recognition of The City",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Requires at least [1] population",
-
-			   "[-25]% Production towards any buildings that already exist in the Capital",
-
-			   "Unsellable",
-			   "Never destroyed when the city is captured",
-		
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 5,
-		"cityHealth": 5,
-		
-		"production": 0,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 0,
-		"happiness": 0,
-		"faith": 0,
-
-		"cost": 30,
+		"cost": 1,
 	},
 	
 	//City Levels
@@ -123,13 +119,13 @@
 			
 			   "Empire enters a [2]-turn Golden Age",
 			   "[2] population [in this city]",
-			   "[+10]% [Production] from every [improved]",
-			   "[+10]% [Food] from every [improved]",
-			   "[+10]% [Gold] from every [improved]",
-			   "[+10]% [Science] from every [improved]",
-			   "[+10]% [Culture] from every [improved]",
-			   "[+10]% [Happiness] from every [improved]",
-			   "[+10]% [Faith] from every [improved]",
+			   "[+2]% [Production] from every [improved]",
+			   "[+2]% [Food] from every [improved]",
+			   "[+2]% [Gold] from every [improved]",
+			   "[+2]% [Science] from every [improved]",
+			   "[+2]% [Culture] from every [improved]",
+			   "[+2]% [Happiness] from every [improved]",
+			   "[+2]% [Faith] from every [improved]",
 
 			   "Rebel units may spawn <every [6] turns>",
 			   
@@ -435,9 +431,8 @@
 		"uniqueTo": "The City",
 		"uniques": ["Never destroyed when the city is captured",
 
-			   "[1] units cost no maintenance",
-			   "[+1 Production] per [1] population [in this city]",
-			   "[+5]% [Gold] [in this city]",
+			   "[+1 Production] per [10] population [in this city]",
+			   "[+2]% [Gold] [in this city]",
 			   
 		           "Triggers a global alert upon completion"],
 
@@ -463,9 +458,8 @@
 		"uniques": ["Can only be built <if [Grade 9 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
 
-			   "[2] units cost no maintenance",
-			   "[+1 Production] per [1] population [in this city]",
-			   "[+10]% [Gold] [in this city]",
+			   "[+1 Production] per [9] population [in this city]",
+			   "[+4]% [Gold] [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -491,9 +485,8 @@
 		"uniques": ["Can only be built <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
 
-			   "[3] units cost no maintenance",
-			   "[+1 Production] per [1] population [in this city]",
-			   "[+15]% [Gold] [in this city]",
+			   "[+1 Production] per [8] population [in this city]",
+			   "[+6]% [Gold] [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -519,9 +512,8 @@
 		"uniques": ["Can only be built <if [Grade 7 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
 
-			   "[4] units cost no maintenance",
-			   "[+1 Production] per [1] population [in this city]",
-			   "[+20]% [Gold] [in this city]",
+			   "[+1 Production] per [7] population [in this city]",
+			   "[+8]% [Gold] [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -547,9 +539,8 @@
 		"uniques": ["Can only be built <if [Grade 6 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
 
-			   "[5] units cost no maintenance",
-			   "[+1 Production] per [1] population [in this city]",
-			   "[+25]% [Gold] [in this city]",
+			   "[+1 Production] per [6] population [in this city]",
+			   "[+10]% [Gold] [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -575,9 +566,8 @@
 		"uniques": ["Can only be built <if [Grade 5 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
 			
-			   "[6] units cost no maintenance",
-			   "[+1 Production] per [1] population [in this city]",
-			   "[+30]% [Gold] [in this city]",
+			   "[+1 Production] per [5] population [in this city]",
+			   "[+12]% [Gold] [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -602,10 +592,9 @@
 		"uniqueTo": "The City",
 		"uniques": ["Can only be built <if [Grade 4 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
-			
-			   "[7] units cost no maintenance",
-			   "[+1 Production] per [1] population [in this city]",
-			   "[+35]% [Gold] [in this city]",
+		
+			   "[+1 Production] per [4] population [in this city]",
+			   "[+14]% [Gold] [in this city]",
 			
 		           "Triggers a global alert upon completion"],
 
@@ -631,9 +620,8 @@
 		"uniques": ["Can only be built <if [Grade 3 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
 
-			   "[8] units cost no maintenance",
-			   "[+1 Production] per [1] population [in this city]",
-			   "[+40]% [Gold] [in this city]",
+			   "[+1 Production] per [3] population [in this city]",
+			   "[+16]% [Gold] [in this city]",
 			 
 		           "Triggers a global alert upon completion"],
 
@@ -659,9 +647,8 @@
 		"uniques": ["Can only be built <if [Grade 2 Offices] is constructed in at least [1] of [in this city] cities>",
 			   "Never destroyed when the city is captured",
 
-			   "[9] units cost no maintenance",
-			   "[+1 Production] per [1] population [in this city]",
-			   "[+45]% [Gold] [in this city]",
+			   "[+1 Production] per [2] population [in this city]",
+			   "[+18]% [Gold] [in this city]",
 			 
 		           "Triggers a global alert upon completion"],
 
