@@ -488,6 +488,23 @@
 
 	{
 
+	        "name": "Grade 8 Fixer Deployment Authorization",
+		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities>",
+			    "Destroyed when the city is captured",
+
+			    "Free [Grade 8 Office Fixer] appears",
+			    "Remove [Grade 8 Fixer Deployment Authorization] [in this city] <upon gaining a [Grade 8 Office Fixer] unit>"",
+			 
+		            "Triggers a global alert upon completion"],
+
+		"cost": 150,
+	},
+
+	{
+
 	        "name": "Color Fixer Deployment Authorization",
 		"requiredBuilding": "City LvL - Impuritas Internationalis",
 		
