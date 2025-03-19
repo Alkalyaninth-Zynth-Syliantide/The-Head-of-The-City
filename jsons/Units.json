@@ -189,7 +189,7 @@
 		"strength": 1,
 		"range": 1,
 		"cost": 1200,
-		"uniques": ["Only available <if [Hana Association] is constructed in at least [1] of [in this city] cities>",
+		"uniques": ["Only available <if [Color Fixer Deployment Authorization] is constructed in at least [1] of [in this city] cities>",
 
 			    "[+1000]% Strength <when defending>",
 			    "[+3900]% Strength",
