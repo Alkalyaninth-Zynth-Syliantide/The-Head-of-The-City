@@ -61,7 +61,6 @@
 
 		"cost": 1,
 	},
-	
 	{
 	        "name": "Official Recognition of The City",
 		"requiredBuilding": "Official Founding of The Head",
@@ -128,8 +127,6 @@
 
 		"cost": 30,
 	},
-
-
 	{
 	        "name": "City LvL - Global Myth",
 		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
@@ -167,8 +164,6 @@
 
 		"cost": 100,
 	},
-
-
 	{
 	        "name": "City LvL - Orbis Terrarum Legend",
 		"requiredBuilding": "City LvL - Global Myth",
@@ -205,8 +200,6 @@
 
 		"cost": 150,
 	},
-
-
 	{
 	        "name": "City LvL - Pestilentia Internationalis",
 		"requiredBuilding": "City LvL - Orbis Terrarum Legend",
@@ -241,8 +234,6 @@
 
 		"cost": 250,
 	},
-
-
 	{
 	        "name": "City LvL - Internationalis Visio Nocturna",
 		"requiredBuilding": "City LvL - Pestilentia Internationalis",
@@ -279,8 +270,6 @@
 
 		"cost": 400,
 	},
-
-
 	{
 	        "name": "City LvL - Orbis Terrarum Stella",
 		"requiredBuilding": "City LvL - Internationalis Visio Nocturna",
@@ -316,7 +305,6 @@
 
 		"cost": 650,
 	},
-
 	{
 	        "name": "City LvL - Impuritas Internationalis",
 		"requiredBuilding": "City LvL - Orbis Terrarum Stella",
