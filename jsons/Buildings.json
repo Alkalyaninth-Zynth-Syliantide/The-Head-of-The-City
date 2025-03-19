@@ -424,7 +424,7 @@
 		"uniqueTo": "The City",
 		"uniques": ["Never destroyed when the city is captured",
 			 
-		           "Triggers a global alert upon completion"],
+		            "Triggers a global alert upon completion"],
 
 		"cityStrength": 3,
 		"cityHealth": 3,
@@ -443,240 +443,48 @@
 	//City Offices
 
 	{
-	        "name": "Grade 9 Offices",
-		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
+	        "name": "Fixer Offices of The City",
+		"requiredBuilding": "Hana Association",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Never destroyed when the city is captured",
+		"uniques": ["Destroyed when the city is captured",
 
-			   "[+1 Production] per [10] population [in this city]",
-			   "[+2]% [Gold] [in this city]",
+			    "[+1 Production] per [5] population [in this city]",
 			   
-		           "Triggers a global alert upon completion"],
+		            "Triggers a global alert upon completion"],
 
-		"cityStrength": 1,
-		"cityHealth": 1,
-		
-		"production": 1,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 0,
-		"happiness": 1,
-		"faith": 0,
-
-		"cost": 30,
-	},
-	{
-	        "name": "Grade 8 Offices",
-		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Grade 9 Offices] is constructed in at least [1] of [in this city] cities>",
-			   "Never destroyed when the city is captured",
-
-			   "[+1 Production] per [9] population [in this city]",
-			   "[+4]% [Gold] [in this city]",
-			
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 1,
-		"cityHealth": 1,
-		
-		"production": 2,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 0,
-		"happiness": 1,
-		"faith": 0,
-
-		"cost": 50,
-	},
-	{
-	        "name": "Grade 7 Offices",
-		"requiredBuilding": "City LvL - Global Myth",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities>",
-			   "Never destroyed when the city is captured",
-
-			   "[+1 Production] per [8] population [in this city]",
-			   "[+6]% [Gold] [in this city]",
-			
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 1,
-		"cityHealth": 1,
+		"cityStrength": 0,
+		"cityHealth": 0,
 		
 		"production": 3,
 		"food": 0,
 		"gold": 0,
 		"science": 0,
 		"culture": 0,
-		"happiness": 1,
+		"happiness": 0,
 		"faith": 0,
 
-		"cost": 75,
-	},
-	{
-	        "name": "Grade 6 Offices",
-		"requiredBuilding": "City LvL - Global Myth",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Grade 7 Offices] is constructed in at least [1] of [in this city] cities>",
-			   "Never destroyed when the city is captured",
-
-			   "[+1 Production] per [7] population [in this city]",
-			   "[+8]% [Gold] [in this city]",
-			
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 2,
-		"cityHealth": 2,
-		
-		"production": 4,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 0,
-		"happiness": 1,
-		"faith": 0,
-
-		"cost": 105,
-	},
-	{
-	        "name": "Grade 5 Offices",
-		"requiredBuilding": "City LvL - Orbis Terrarum Legend",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Grade 6 Offices] is constructed in at least [1] of [in this city] cities>",
-			   "Never destroyed when the city is captured",
-
-			   "[+1 Production] per [6] population [in this city]",
-			   "[+10]% [Gold] [in this city]",
-			
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 2,
-		"cityHealth": 2,
-		
-		"production": 5,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 0,
-		"happiness": 1,
-		"faith": 0,
-
-		"cost": 140,
-	},
-	{
-	        "name": "Grade 4 Offices",
-		"requiredBuilding": "City LvL - Orbis Terrarum Legend",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Grade 5 Offices] is constructed in at least [1] of [in this city] cities>",
-			   "Never destroyed when the city is captured",
-			
-			   "[+1 Production] per [5] population [in this city]",
-			   "[+12]% [Gold] [in this city]",
-			
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 2,
-		"cityHealth": 2,
-		
-		"production": 6,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 0,
-		"happiness": 1,
-		"faith": 0,
-
-		"cost": 175,
-	},
-	{
-	        "name": "Grade 3 Offices",
-		"requiredBuilding": "City LvL - Pestilentia Internationalis",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Grade 4 Offices] is constructed in at least [1] of [in this city] cities>",
-			   "Never destroyed when the city is captured",
-		
-			   "[+1 Production] per [4] population [in this city]",
-			   "[+14]% [Gold] [in this city]",
-			
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 3,
-		"cityHealth": 3,
-		
-		"production": 7,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 0,
-		"happiness": 1,
-		"faith": 0,
-
-		"cost": 215,
-	},
-	{
-	        "name": "Grade 2 Offices",
-		"requiredBuilding": "City LvL - Internationalis Visio Nocturna",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Grade 3 Offices] is constructed in at least [1] of [in this city] cities>",
-			   "Never destroyed when the city is captured",
-
-			   "[+1 Production] per [3] population [in this city]",
-			   "[+16]% [Gold] [in this city]",
-			 
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 3,
-		"cityHealth": 3,
-		
-		"production": 8,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 0,
-		"happiness": 1,
-		"faith": 0,
-
-		"cost": 260,
-	},
-	{
-	        "name": "Grade 1 Offices",
-		"requiredBuilding": "City LvL - Orbis Terrarum Stella",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Grade 2 Offices] is constructed in at least [1] of [in this city] cities>",
-			   "Never destroyed when the city is captured",
-
-			   "[+1 Production] per [2] population [in this city]",
-			   "[+18]% [Gold] [in this city]",
-			 
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 3,
-		"cityHealth": 3,
-		
-		"production": 9,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 0,
-		"happiness": 1,
-		"faith": 0,
-
-		"cost": 305,
+		"cost": 500,
 	},
 
 	//Authorizations
+
+	{
+
+	        "name": "Grade 9 Fixer Deployment Authorization",
+		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities>",
+			    "Destroyed when the city is captured",
+
+			    "Free [Grade 9 Office Fixer] appears",
+			    "Remove [Grade 9 Fixer Deployment Authorization] [in this city] <upon gaining a [Grade 9 Office Fixer] unit>"",
+			 
+		            "Triggers a global alert upon completion"],
+
+		"cost": 50,
+	},
 
 	{
 
@@ -684,21 +492,10 @@
 		"requiredBuilding": "City LvL - Impuritas Internationalis",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Grade 1 Offices] is constructed in at least [1] of [in this city] cities>",
-			   "Destroyed when the city is captured",
+		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities>",
+			    "Destroyed when the city is captured",
 			 
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 0,
-		"cityHealth": 0,
-		
-		"production": 0,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 0,
-		"happiness": 0,
-		"faith": 0,
+		            "Triggers a global alert upon completion"],
 
 		"cost": 750,
 	},
