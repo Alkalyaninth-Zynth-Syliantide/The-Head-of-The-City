@@ -1,5 +1,24 @@
 [
 	
+	//Unit Replacement List
+
+	//Warrior - City Rat of The Backstreets
+	//Spearman - Grade NINE Office Fixer
+	//Pikeman - Grade EIGHT Office Fixer
+	//Swordsman - Grade SEVEN Office Fixer
+	//Longswordsman - Grade SIX Office Fixer
+	//Horseman - Grade FIVE Office Fixer
+	//Knight - Grade FOUR Office Fixer
+	//Cavalry - Grade THREE Office Fixer
+	//Musketman - Grade TWO Office Fixer
+	//Rifleman - Grade ONE Office Fixer
+
+	//Great War Infantry - The RED Mist
+
+	//Composite Bowman - Arbiter of The Head
+	//Giant Death Robot - Beholder of The Eye
+	//Paratrooper - Claw Executioner
+	
 	//Starting Unit
 	
 	{
@@ -22,7 +41,7 @@
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"replaces": "Spearman",
-		"movement": 2,
+		"movement": 1,
 		"strength": 1,
 		"range": 1,
 		"cost": 200,
@@ -36,7 +55,7 @@
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"replaces": "Pikeman",
-		"movement": 2,
+		"movement": 1,
 		"strength": 1,
 		"range": 1,
 		"cost": 300,
@@ -53,7 +72,7 @@
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"replaces": "Swordsman",
-		"movement": 3,
+		"movement": 2,
 		"strength": 1,
 		"range": 1,
 		"cost": 400,
@@ -67,7 +86,7 @@
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"replaces": "Longswordsman",
-		"movement": 3,
+		"movement": 2,
 		"strength": 1,
 		"range": 1,
 		"cost": 500,
@@ -84,7 +103,7 @@
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"replaces": "Horseman",
-		"movement": 4,
+		"movement": 2,
 		"strength": 1,
 		"range": 1,
 		"cost": 600,
@@ -98,7 +117,7 @@
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"replaces": "Knight",
-		"movement": 4,
+		"movement": 2,
 		"strength": 1,
 		"range": 2,
 		"cost": 700,
@@ -115,7 +134,7 @@
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"replaces": "Cavalry",
-		"movement": 5,
+		"movement": 3,
 		"strength": 1,
 		"range": 1,
 		"cost": 800,
@@ -125,14 +144,14 @@
 			    "Withdraws before melee combat <with [32]% chance>"],
 	},
 
-	//City LvL -Internationalis Visio Nocturna Associated Units
+	//City LvL - Internationalis Visio Nocturna Associated Units
 
 	{
 		"name": "Grade 2 Office Fixer",
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"replaces": "Musketman",
-		"movement": 5,
+		"movement": 3,
 		"strength": 1,
 		"range": 1,
 		"cost": 900,
@@ -149,7 +168,7 @@
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
 		"replaces": "Rifleman",
-		"movement": 6,
+		"movement": 4,
 		"strength": 1,
 		"range": 1,
 		"cost": 1000,
@@ -158,81 +177,100 @@
 			    "[+2900]% Strength <when defending>",
 			    "Withdraws before melee combat <with [40]% chance>"],
 	},
+
+	//City LvL - Impuritas Internationalis Color Fixers
+
+	{
+		"name": "The RED Mist",
+		"unitType": "Eximia Incolae Urbis",
+		"uniqueTo": "The City",
+		"replaces": "Great War Infantry",
+		"movement": 5,
+		"strength": 1,
+		"range": 1,
+		"cost": 1200,
+		"uniques": ["Only available <if [Hana Association] is constructed in at least [1] of [in this city] cities>",
+
+			    "[+1000]% Strength <when defending>",
+			    "[+3900]% Strength",
+			    "Withdraws before melee combat <with [40]% chance>"],
+	},
+
 	
 	//Top Three Agents of The Head
 	
 	{
-		"name": "H E A D  Arbiter",
+		"name": "Arbiter of The Head",
 		"unitType": "Arbitrarius Urbis",
 		"uniqueTo": "The City",
-		"replaces": "Great War Infantry",
-		"movement": 10,
+		"replaces": "Composite Bowman",
+		"movement": 5,
 		"strength": 1,
 		"rangedStrength": 1,
 		"range": 2,
-		"cost": 25,
-		"uniques": [ "Limited to [1] per Civilization",
+		"cost": 1500,
+		"uniques": ["Limited to [1] per Civilization",
 
-			     "[+6900]% Strength",
+			    "[+6900]% Strength",
 
-			     "[Target Unit] gains the [Fairy] status for [3] turn(s) <upon damaging a [All] unit>",
-			     "[This Unit] gains the [Shockwave] promotion <every [10] turns>",
-			     "[This Unit] gains the [Shockwave] promotion <every [1] turns> <with [15]% chance>",
-			     "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon damaging a [All] unit> <with [30]% chance>",
-			     "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon defeating a [All] unit> <with [50]% chance>",
+			    "[Target Unit] gains the [Fairy] status for [3] turn(s) <upon damaging a [All] unit>",
+			    "[This Unit] gains the [Shockwave] promotion <every [7] turns>",
+			    "[This Unit] gains the [Shockwave] promotion <every [1] turns> <with [15]% chance>",
+			    "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon damaging a [All] unit> <with [20]% chance>",
+			    "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon defeating a [All] unit> <with [30]% chance>",
 
-			     "[This Unit] heals [5] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
-			     "[This Unit] heals [5] HP <every [1] turns> <upon damaging a [All] unit>",
-			     "[This Unit] heals [5] HP <every [1] turns> <upon defeating a [All] unit>",
-			     "[This Unit] heals [5] HP <every [1] turns> <when attacking>",
+			    "[This Unit] heals [5] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
+			    "[This Unit] heals [5] HP <every [1] turns> <upon damaging a [All] unit>",
+			    "[This Unit] heals [5] HP <every [1] turns> <upon defeating a [All] unit>",
+			    "[This Unit] heals [5] HP <every [1] turns> <when attacking>",
 
-			     "[2] Sight"],
+			    "[2] Sight"],
 	},
 	{
-		"name": "E Y E  Beholder",
+		"name": "Beholder of The Eye",
 		"unitType": "Urbs Videntis",
 		"uniqueTo": "The City",
-		"replaces": "Marine",
+		"replaces": "Giant Death Robot",
 		"movement": 10,
 		"strength": 1,
 		"range": 1,
-		"cost": 25,
-		"uniques": [ "Unable to pillage tiles",
-			     "Limited to [1] per Civilization",
+		"cost": 1500,
+		"uniques": ["Unable to pillage tiles",
+			    "Limited to [1] per Civilization",
 			
-			     "Can see over obstacles",
-			     "Can see invisible [all] units",
-			     "Can only attack [City] units",
+			    "Can see over obstacles",
+			    "Can see invisible [all] units",
+			    "Can only attack [City] units",
+			    "Can carry [1] [Arbiter of The Head] units",
+			    "Can carry [1] [Claw Executioner] units",
 
-			     "Invisible to non-adjacent units",
-		             "Reveals the entire map <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
+			    "Invisible to non-adjacent units",
+		            "Reveals the entire map <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 
-			     "[+6900]% Strength <when defending>",
-			     "Withdraws before melee combat <with [100]% chance>",
+			    "[+6900]% Strength <when defending>",
 
-			     "[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack>",
+			    "[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack>",
 
-		             "[3] Sight"],
+		            "[3] Sight"],
 	},
 	{
-		"name": "E X E C U T I O N E R  Claw",
+		"name": "Claw Executioner",
 		"unitType": "De Urbe Carnifex",
 		"uniqueTo": "The City",
-		"replaces": "Infantry",
-		"movement": 10,
+		"replaces": "Paratrooper",
+		"movement": 5,
 		"strength": 1,
 		"range": 1,
-		"cost": 25,
-		"uniques": [ "Limited to [1] per Civilization",
+		"cost": 1500,
+		"uniques": ["Limited to [1] per Civilization",
                             
-			     "Can perform Air Sweep",
+			    "Can perform Air Sweep",
+			
+			    "[+1000]% Strength <when defending>",
+			    "[+6900]% Strength",
 
-			     "[+6900]% Strength",
-			     "[+99999]% Strength <when defending>",
-			     "Withdraws before melee combat <with [100]% chance>",
-
-			     "[This Unit] heals [7] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
-			     "[This Unit] heals [7] HP <every [1] turns> <upon damaging a [All] unit>",
-			     "[This Unit] heals [7] HP <every [1] turns> <upon defeating a [All] unit>"],
+			    "[This Unit] heals [7] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
+			    "[This Unit] heals [7] HP <every [1] turns> <upon damaging a [All] unit>",
+			    "[This Unit] heals [7] HP <every [1] turns> <upon defeating a [All] unit>"],
 	}
 ]
