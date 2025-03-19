@@ -176,6 +176,7 @@
 			     "[+6900]% Strength",
 
 			     "[Target Unit] gains the [Fairy] status for [3] turn(s) <upon damaging a [All] unit>",
+			     "[This Unit] gains the [Shockwave] promotion <every [10] turns>",
 			     "[This Unit] gains the [Shockwave] promotion <every [1] turns> <with [15]% chance>",
 			     "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon damaging a [All] unit> <with [30]% chance>",
 			     "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon defeating a [All] unit> <with [50]% chance>",
