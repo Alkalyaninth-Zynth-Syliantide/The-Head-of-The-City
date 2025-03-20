@@ -129,9 +129,6 @@
 		"uniques": ["[+2300]% Strength <when defending>",
 			    "Withdraws before melee combat <with [32]% chance>"],
 	},
-
-	//City LvL - Internationalis Visio Nocturna Associated Units
-
 	{
 		"name": "Grade 2 Office Fixer",
 		"unitType": "Incolae Urbis",
@@ -144,6 +141,9 @@
 		"uniques": ["[+2600]% Strength <when defending>",
 			    "Withdraws before melee combat <with [36]% chance>"],
 	},
+
+	//City LvL - Internationalis Visio Nocturna Associated Units
+	
 	{
 		"name": "Grade 1 Office Fixer",
 		"unitType": "Incolae Urbis",
