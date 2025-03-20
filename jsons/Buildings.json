@@ -427,7 +427,7 @@
 
 	{
 
-	        "name": "Grade 9 Fixer Deployment Authorization",
+	        "name": "Fixer Deployment Authorization - Grade 9",
 		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
 		
 		"uniqueTo": "The City",
@@ -435,7 +435,10 @@
 			    "Destroyed when the city is captured",
 
 			    "Free [Grade 9 Office Fixer] appears",
-			    "Remove [Grade 9 Fixer Deployment Authorization] [in this city] <upon turn end>",
+			    "Free [Grade 9 Office Fixer] appears <with [50]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
+			    "Remove [Fixer Deployment Authorization - Grade 9] [in this city] <upon turn end>",
+
+			    "Nullifies Growth [in this city]",
 			
 			    "Unsellable",
 			
@@ -443,18 +446,196 @@
 
 		"cost": 50,
 	},
-
 	{
 
-	        "name": "Color Fixer Deployment Authorization",
-		"requiredBuilding": "City LvL - Impuritas Internationalis",
+	        "name": "Fixer Deployment Authorization - Grade 8",
+		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
 		
 		"uniqueTo": "The City",
 		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities>",
 			    "Destroyed when the city is captured",
-			 
+
+			    "Free [Grade 8 Office Fixer] appears",
+			    "Free [Grade 8 Office Fixer] appears <with [45]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
+			    "Remove [Fixer Deployment Authorization - Grade 8] [in this city] <upon turn end>",
+
+			    "Nullifies Growth [in this city]",
+			
+			    "Unsellable",
+			
 		            "Triggers a global alert upon completion"],
 
-		"cost": 750,
+		"cost": 100,
 	},
+	{
+
+	        "name": "Fixer Deployment Authorization - Grade 7",
+		"requiredBuilding": "City LvL - Global Myth",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities>",
+			    "Destroyed when the city is captured",
+
+			    "Free [Grade 7 Office Fixer] appears",
+			    "Free [Grade 7 Office Fixer] appears <with [40]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
+			    "Remove [Fixer Deployment Authorization - Grade 7] [in this city] <upon turn end>",
+
+			    "Nullifies Growth [in this city]",
+			
+			    "Unsellable",
+			
+		            "Triggers a global alert upon completion"],
+
+		"cost": 150,
+	},
+	{
+
+	        "name": "Fixer Deployment Authorization - Grade 6",
+		"requiredBuilding": "City LvL - Global Myth",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities>",
+			    "Destroyed when the city is captured",
+
+			    "Free [Grade 6 Office Fixer] appears",
+			    "Free [Grade 6 Office Fixer] appears <with [35]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
+			    "Remove [Fixer Deployment Authorization - Grade 6] [in this city] <upon turn end>",
+
+			    "Nullifies Growth [in this city]",
+			
+			    "Unsellable",
+			
+		            "Triggers a global alert upon completion"],
+
+		"cost": 200,
+	},
+	{
+
+	        "name": "Fixer Deployment Authorization - Grade 5",
+		"requiredBuilding": "City LvL - Orbis Terrarum Legend",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities>",
+			    "Destroyed when the city is captured",
+
+			    "Free [Grade 5 Office Fixer] appears",
+			    "Free [Grade 5 Office Fixer] appears <with [30]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
+			    "Remove [Fixer Deployment Authorization - Grade 5] [in this city] <upon turn end>",
+
+			    "Nullifies Growth [in this city]",
+			
+			    "Unsellable",
+			
+		            "Triggers a global alert upon completion"],
+
+		"cost": 300,
+	},
+	{
+
+	        "name": "Fixer Deployment Authorization - Grade 4",
+		"requiredBuilding": "City LvL - Orbis Terrarum Legend",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities>",
+			    "Destroyed when the city is captured",
+
+			    "Free [Grade 4 Office Fixer] appears",
+			    "Free [Grade 4 Office Fixer] appears <with [25]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
+			    "Remove [Fixer Deployment Authorization - Grade 4] [in this city] <upon turn end>",
+
+			    "Nullifies Growth [in this city]",
+			
+			    "Unsellable",
+			
+		            "Triggers a global alert upon completion"],
+
+		"cost": 400,
+	},
+	{
+
+	        "name": "Fixer Deployment Authorization - Grade 3",
+		"requiredBuilding": "City LvL - Pestilentia Internationalis",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities>",
+			    "Destroyed when the city is captured",
+
+			    "Free [Grade 3 Office Fixer] appears",
+			    "Free [Grade 3 Office Fixer] appears <with [20]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
+			    "Remove [Fixer Deployment Authorization - Grade 3] [in this city] <upon turn end>",
+
+			    "Nullifies Growth [in this city]",
+			
+			    "Unsellable",
+			
+		            "Triggers a global alert upon completion"],
+
+		"cost": 550,
+	},
+	{
+
+	        "name": "Fixer Deployment Authorization - Grade 2",
+		"requiredBuilding": "City LvL - Pestilentia Internationalis",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities>",
+			    "Destroyed when the city is captured",
+
+			    "Free [Grade 2 Office Fixer] appears",
+			    "Free [Grade 2 Office Fixer] appears <with [15]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
+			    "Remove [Fixer Deployment Authorization - Grade 2] [in this city] <upon turn end>",
+
+			    "Nullifies Growth [in this city]",
+			
+			    "Unsellable",
+			
+		            "Triggers a global alert upon completion"],
+
+		"cost": 700,
+	},
+	{
+
+	        "name": "Fixer Deployment Authorization - Grade 1",
+		"requiredBuilding": "City LvL - Orbis Terrarum Stella",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities>",
+			    "Destroyed when the city is captured",
+
+			    "Free [Grade 1 Office Fixer] appears",
+			    "Free [Grade 1 Office Fixer] appears <with [10]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
+			    "Remove [Fixer Deployment Authorization - Grade 1] [in this city] <upon turn end>",
+
+			    "Nullifies Growth [in this city]",
+			
+			    "Unsellable",
+			
+		            "Triggers a global alert upon completion"],
+
+		"cost": 900,
+	},
+
+	//Color Fixer Authorization
+
+	{
+
+	        "name": "Color Fixer Deployment Authorization - The RED Mist",
+		"requiredBuilding": "City LvL - Orbis Terrarum Stella",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities>",
+			    "Destroyed when the city is captured",
+
+			    "Free [The RED Mist] appears",
+			    "Remove [Color Fixer Deployment Authorization - The RED Mist] [in this city] <upon turn end>",
+
+			    "Nullifies Growth [in this city]",
+			
+			    "Unsellable",
+			
+		            "Triggers a global alert upon completion"],
+
+		"cost": 1250,
+	},
+
 ]
