@@ -73,17 +73,6 @@
 		
 		           "Triggers a global alert upon completion"],
 
-		"cityStrength": 5,
-		"cityHealth": 5,
-		
-		"production": 0,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 0,
-		"happiness": 0,
-		"faith": 0,
-
 		"cost": 50,
 	},
 	
@@ -113,14 +102,6 @@
 
 		"cityStrength": 1,
 		"cityHealth": 1,
-		
-		"production": 0,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 1,
-		"happiness": 0,
-		"faith": 1,
 
 		"cost": 30,
 	},
@@ -129,7 +110,7 @@
 		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities> <if [City-wide Releasing of The Seed of Light] is constructed in at least [1] of [in this city] cities>",
+		"uniques": ["Can only be built <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities> <if [City-wide Releasing of The Seed of Light - I] is constructed in at least [1] of [in this city] cities>",
 			   "Requires at least [10] population",
 			
 			   "[+1]% [Production] from every [improved]",
@@ -149,14 +130,6 @@
 
 		"cityStrength": 2,
 		"cityHealth": 2,
-		
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 0,
-		"culture": 1,
-		"happiness": 0,
-		"faith": 1,
 
 		"cost": 100,
 	},
@@ -184,14 +157,6 @@
 
 		"cityStrength": 3,
 		"cityHealth": 3,
-		
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
 
 		"cost": 150,
 	},
@@ -219,14 +184,6 @@
 		"cityStrength": 4,
 		"cityHealth": 4,
 		
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
-
 		"cost": 250,
 	},
 	{
@@ -253,14 +210,6 @@
 
 		"cityStrength": 5,
 		"cityHealth": 5,
-		
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
 
 		"cost": 400,
 	},
@@ -286,14 +235,6 @@
 
 		"cityStrength": 6,
 		"cityHealth": 6,
-		
-		"production": 1,
-		"food": 1,
-		"gold": 1,
-		"science": 1,
-		"culture": 1,
-		"happiness": 1,
-		"faith": 1,
 
 		"cost": 650,
 	},
@@ -343,7 +284,7 @@
 		"uniqueTo": "The City",
 		"uniques": ["Never destroyed when the city is captured",
 			
-		           "Triggers a global alert upon completion"],
+		            "Triggers a global alert upon completion"],
 
 		"cityStrength": 1,
 		"cityHealth": 1,
@@ -360,28 +301,25 @@
 	},
 
 	{
-	        "name": "City-wide Releasing of The Seed of Light",
+	        "name": "City-wide Releasing of The Seed of Light - I",
 		"requiredBuilding": "Library of Ruina",
 		
 		"uniqueTo": "The City",
 		"uniques": ["Instantly gain [50] [Faith] <when religion is enabled>",
-			   "Instantly gain [25] [Gold] <when religion is disabled>",
+			    "Instantly gain [25] [Gold] <when religion is disabled>",
 
-			   "Unsellable",
-			   "Destroyed when the city is captured",
+			    "Unsellable",
+			    "Never destroyed when the city is captured",
 			
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 1,
-		"cityHealth": 1,
+		            "Triggers a global alert upon completion"],
 		
 		"production": 1,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
+		"food": 1,
+		"gold": 1,
+		"science": 1,
 		"culture": 1,
 		"happiness": 1,
-		"faith": 0,
+		"faith": 1,
 
 		"cost": 100,
 	},
@@ -393,16 +331,13 @@
 		"uniqueTo": "The City",
 		"uniques": ["Can only be built <if [City LvL - Orbis Terrarum Stella] is constructed in at least [1] of [Your] cities>",
 
-			   "Instantly gain [300] [Faith] <when religion is enabled>",
-			   "Instantly gain [150] [Gold] <when religion is disabled>",
+			    "Instantly gain [300] [Faith] <when religion is enabled>",
+			    "Instantly gain [150] [Gold] <when religion is disabled>",
 
-			   "Unsellable",
-			   "Destroyed when the city is captured",
+		 	    "Unsellable",
+			    "Never destroyed when the city is captured",
 			
-		           "Triggers a global alert upon completion"],
-
-		"cityStrength": 1,
-		"cityHealth": 1,
+		            "Triggers a global alert upon completion"],
 		
 		"production": 1,
 		"food": 1,
@@ -414,6 +349,41 @@
 
 		"cost": 1000,
 	},
+
+	//City Wings
+
+		//R Corporation
+
+		{
+	    	 	"name": "Ministration Document - R Corp",
+			"requiredBuilding": "Library of Ruina",
+		
+			"uniqueTo": "The City",
+			"uniques": ["Never destroyed when the city is captured",
+			 
+		 	            "Triggers a global alert upon completion"],
+
+			"cityStrength": 5,
+			"cityHealth": 5,
+
+			"food": 1,
+
+			"cost": 300,
+		},
+		{
+	    	 	"name": "R Corp - Clone Hatcheries",
+			"requiredBuilding": "Ministration Document - R Corp",
+		
+			"uniqueTo": "The City",
+			"uniques": ["Never destroyed when the city is captured",
+			 
+		 	            "Triggers a global alert upon completion"],
+
+			"food": 1,
+
+			"cost": 300,
+		},
+
 
 	//City Associations
 
@@ -428,14 +398,6 @@
 
 		"cityStrength": 3,
 		"cityHealth": 3,
-		
-		"production": 9,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 0,
-		"happiness": 1,
-		"faith": 0,
 
 		"cost": 300,
 	},
@@ -453,17 +415,11 @@
 			   
 		            "Triggers a global alert upon completion"],
 
-		"cityStrength": 0,
-		"cityHealth": 0,
+		"cityStrength": 1,
+		"cityHealth": 1,
 		
 		"production": 3,
-		"food": 0,
-		"gold": 0,
-		"science": 0,
-		"culture": 0,
-		"happiness": 0,
-		"faith": 0,
-
+		
 		"cost": 500,
 	},
 
@@ -479,7 +435,7 @@
 			    "Destroyed when the city is captured",
 
 			    "Free [Grade 9 Office Fixer] appears",
-			    "Remove [Grade 9 Fixer Deployment Authorization] [in this city] <every [1] turns>",
+			    "Remove [Grade 9 Fixer Deployment Authorization] [in this city] <upon turn end>",
 			
 			    "Unsellable",
 			
