@@ -106,6 +106,16 @@
 			   "[This Unit] takes [7] damage <upon damaging a [All] unit>",
 			   "[This Unit] takes [7] damage <upon defeating a [All] unit>"],
 	},
+	{
+		"name": "Bleed",
+		"uniques": ["[-1]% Strength",
+			
+			   "[This Unit] takes [5] damage <every [1] turns>",
+			   "[This Unit] takes [5] damage <upon turn end>",
+			   "[This Unit] takes [5] damage <upon turn start>",
+			   "[This Unit] takes [5] damage <upon damaging a [All] unit>",
+			   "[This Unit] takes [5] damage <upon defeating a [All] unit>"],
+	},
 
 //Status Cooldowns
 
