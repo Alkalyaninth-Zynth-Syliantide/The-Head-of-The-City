@@ -110,7 +110,7 @@
 		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Grade 8 Offices] is constructed in at least [1] of [in this city] cities> <if [City-wide Releasing of The Seed of Light - I] is constructed in at least [1] of [in this city] cities>",
+		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities> <if [City-wide Releasing of The Seed of Light - I] is constructed in at least [1] of [in this city] cities>",
 			   "Requires at least [10] population",
 			
 			   "[+1]% [Production] from every [improved]",
