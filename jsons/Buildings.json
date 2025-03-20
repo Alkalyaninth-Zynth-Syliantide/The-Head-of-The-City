@@ -479,30 +479,13 @@
 			    "Destroyed when the city is captured",
 
 			    "Free [Grade 9 Office Fixer] appears",
-			    "Remove [Grade 9 Fixer Deployment Authorization] [in this city] <upon gaining a [Grade 9 Office Fixer] unit>"",
-
+			    "Remove [Grade 9 Fixer Deployment Authorization] [in this city] <every [1] turns>",
+			
 			    "Unsellable",
 			
 		            "Triggers a global alert upon completion"],
 
 		"cost": 50,
-	},
-
-	{
-
-	        "name": "Grade 8 Fixer Deployment Authorization",
-		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
-		
-		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities>",
-			    "Destroyed when the city is captured",
-
-			    "Free [Grade 8 Office Fixer] appears",
-			    "Remove [Grade 8 Fixer Deployment Authorization] [in this city] <upon gaining a [Grade 8 Office Fixer] unit>"",
-			 
-		            "Triggers a global alert upon completion"],
-
-		"cost": 150,
 	},
 
 	{
