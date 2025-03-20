@@ -5,7 +5,11 @@
   {
     "name": "Incolae Urbis",
     "movementType": "Land",
-    "uniques": ["May heal outside of friendly territory",
+    "uniques": ["Unbuildable",
+	    	"Cannot be purchased",
+	    	"Shown while unbuilable",
+	    
+	    	"May heal outside of friendly territory",
 		"May enter foreign tiles without open borders",
 	        "Can move after attacking",
 	        "Can move immediately once bought",
@@ -18,7 +22,11 @@
   {
     "name": "Eximia Incolae Urbis",
     "movementType": "Land",
-    "uniques": ["May heal outside of friendly territory",
+    "uniques": ["Unbuildable",
+	    	"Cannot be purchased",
+	    	"Shown while unbuilable",
+	    
+	    	"May heal outside of friendly territory",
 		"May enter foreign tiles without open borders",
 	        "Can move after attacking",
 	        "Can move immediately once bought",
