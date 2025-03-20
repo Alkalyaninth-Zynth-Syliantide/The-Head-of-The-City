@@ -30,7 +30,9 @@
 		"strength": 1,
 		"range": 1,
 		"cost": 100,
-		"uniques": ["[+200]% Strength <when defending>",
+		"uniques": ["[+100]% Strenght <with [50]% chance>",
+			    "[+100]% Strenght <with [51]% chance>",
+			
 			    "Withdraws before melee combat <with [4]% chance>"],
 	},
 
@@ -45,7 +47,10 @@
 		"strength": 1,
 		"range": 1,
 		"cost": 200,
-		"uniques": ["[+500]% Strength <when defending>",
+		"uniques": ["[+300]% Strenght",
+			    "[+100]% Strenght <with [50]% chance>",
+			    "[+100]% Strenght <with [51]% chance>",
+			
 			    "Withdraws before melee combat <with [8]% chance>"],
 	},
 	{
@@ -57,7 +62,10 @@
 		"strength": 1,
 		"range": 1,
 		"cost": 300,
-		"uniques": ["[+800]% Strength <when defending>",                    
+		"uniques": ["[+600]% Strenght",
+			    "[+100]% Strenght <with [50]% chance>",
+			    "[+100]% Strenght <with [51]% chance>",
+			                 
 			    "Withdraws before melee combat <with [12]% chance>"],
 	},
 
@@ -72,7 +80,11 @@
 		"strength": 1,
 		"range": 1,
 		"cost": 400,
-		"uniques": ["[+1100]% Strength <when defending>",
+		"uniques": ["[+800]% Strenght",
+			    "[+100]% Strenght <with [49]% chance>",
+			    "[+100]% Strenght <with [50]% chance>",
+			    "[+100]% Strenght <with [51]% chance>",
+			
 			    "Withdraws before melee combat <with [16]% chance>"],
 	},
 	{
@@ -84,7 +96,11 @@
 		"strength": 1,
 		"range": 1,
 		"cost": 500,
-		"uniques": ["[+1400]% Strength <when defending>",
+		"uniques": ["[+1100]% Strenght",
+			    "[+100]% Strenght <with [49]% chance>",
+			    "[+100]% Strenght <with [50]% chance>",
+			    "[+100]% Strenght <with [51]% chance>",
+			
 			    "Withdraws before melee combat <with [20]% chance>"],
 	},
 
@@ -99,7 +115,11 @@
 		"strength": 1,
 		"range": 1,
 		"cost": 600,
-		"uniques": ["[+1700]% Strength <when defending>",
+		"uniques": ["[+1400]% Strenght",
+			    "[+100]% Strenght <with [49]% chance>",
+			    "[+100]% Strenght <with [50]% chance>",
+			    "[+100]% Strenght <with [51]% chance>",
+			
 			    "Withdraws before melee combat <with [24]% chance>"],
 	},
 	{
@@ -111,7 +131,11 @@
 		"strength": 1,
 		"range": 2,
 		"cost": 700,
-		"uniques": ["[+2000]% Strength <when defending>",
+		"uniques": ["[+1700]% Strenght",
+			    "[+100]% Strenght <with [49]% chance>",
+			    "[+100]% Strenght <with [50]% chance>",
+			    "[+100]% Strenght <with [51]% chance>",
+			
 			    "Withdraws before melee combat <with [28]% chance>"],
 	},
 
@@ -126,7 +150,12 @@
 		"strength": 1,
 		"range": 1,
 		"cost": 800,
-		"uniques": ["[+2300]% Strength <when defending>",
+		"uniques": ["[+1900]% Strenght",
+			    "[+100]% Strenght <with [49]% chance>",
+			    "[+100]% Strenght <with [50]% chance>",
+			    "[+100]% Strenght <with [51]% chance>",
+			    "[+100]% Strenght <with [52]% chance>",
+			  
 			    "Withdraws before melee combat <with [32]% chance>"],
 	},
 	{
@@ -138,7 +167,13 @@
 		"strength": 1,
 		"range": 1,
 		"cost": 900,
-		"uniques": ["[+2600]% Strength <when defending>",
+		"uniques": ["[+2100]% Strenght",
+			    "[+100]% Strenght <with [48]% chance>",
+			    "[+100]% Strenght <with [49]% chance>",
+			    "[+100]% Strenght <with [50]% chance>",
+			    "[+100]% Strenght <with [51]% chance>",
+			    "[+100]% Strenght <with [52]% chance>",
+
 			    "Withdraws before melee combat <with [36]% chance>"],
 	},
 
@@ -153,7 +188,13 @@
 		"strength": 1,
 		"range": 1,
 		"cost": 1000,
-		"uniques": ["[+2900]% Strength <when defending>",
+		"uniques": ["[+2400]% Strenght",
+			    "[+100]% Strenght <with [48]% chance>",
+			    "[+100]% Strenght <with [49]% chance>",
+			    "[+100]% Strenght <with [50]% chance>",
+			    "[+100]% Strenght <with [51]% chance>",
+			    "[+100]% Strenght <with [52]% chance>",
+			
 			    "Withdraws before melee combat <with [40]% chance>"],
 	},
 
@@ -168,8 +209,14 @@
 		"strength": 1,
 		"range": 1,
 		"cost": 1200,
-		"uniques": ["[+1000]% Strength <when defending>",
-			    "[+3900]% Strength",
+		"uniques": ["[+3400]% Strenght",
+			    "[+100]% Strenght <with [48]% chance>",
+			    "[+100]% Strenght <with [49]% chance>",
+			    "[+100]% Strenght <with [50]% chance>",
+			    "[+100]% Strenght <with [51]% chance>",
+			    "[+100]% Strenght <with [52]% chance>",
+			
+			    "[+1000]% Strength <when defending>",
 			    "Withdraws before melee combat <with [40]% chance>"],
 	},
 
@@ -188,7 +235,12 @@
 		"cost": 1500,
 		"uniques": ["Limited to [1] per Civilization",
 
-			    "[+6900]% Strength",
+			    "[+6400]% Strength",
+			    "[+100]% Strenght <with [48]% chance>",
+			    "[+100]% Strenght <with [49]% chance>",
+			    "[+100]% Strenght <with [50]% chance>",
+			    "[+100]% Strenght <with [51]% chance>",
+			    "[+100]% Strenght <with [52]% chance>",
 
 			    "[Target Unit] gains the [Fairy] status for [3] turn(s) <upon damaging a [All] unit>",
 			    "[This Unit] gains the [Shockwave] promotion <every [7] turns>",
@@ -224,7 +276,12 @@
 			    "Invisible to non-adjacent units",
 		            "Reveals the entire map <if [City LvL - Impuritas Internationalis] is constructed in at least [1] of [Your] cities>",
 
-			    "[+6900]% Strength <when defending>",
+			    "[+6400]% Strength",
+			    "[+100]% Strenght <with [48]% chance>",
+			    "[+100]% Strenght <with [49]% chance>",
+			    "[+100]% Strenght <with [50]% chance>",
+			    "[+100]% Strenght <with [51]% chance>",
+			    "[+100]% Strenght <with [52]% chance>",
 
 			    "[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack>",
 
@@ -243,8 +300,14 @@
                             
 			    "Can perform Air Sweep",
 			
+			    "[+6400]% Strength",
+			    "[+100]% Strenght <with [48]% chance>",
+			    "[+100]% Strenght <with [49]% chance>",
+			    "[+100]% Strenght <with [50]% chance>",
+			    "[+100]% Strenght <with [51]% chance>",
+			    "[+100]% Strenght <with [52]% chance>",
+
 			    "[+1000]% Strength <when defending>",
-			    "[+6900]% Strength",
 
 			    "[This Unit] heals [7] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
 			    "[This Unit] heals [7] HP <every [1] turns> <upon damaging a [All] unit>",
