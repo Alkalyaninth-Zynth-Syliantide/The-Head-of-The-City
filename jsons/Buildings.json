@@ -480,7 +480,9 @@
 
 			    "Free [Grade 9 Office Fixer] appears",
 			    "Remove [Grade 9 Fixer Deployment Authorization] [in this city] <upon gaining a [Grade 9 Office Fixer] unit>"",
-			 
+
+			    "Unsellable",
+			
 		            "Triggers a global alert upon completion"],
 
 		"cost": 50,
