@@ -436,7 +436,6 @@
 
 			    "Free [Grade 9 Office Fixer] appears",
 			    "Free [Grade 9 Office Fixer] appears <with [50]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
-			    "Remove [Fixer Deployment Authorization - Grade 9] [in this city] <upon turn end>",
 
 			    "Nullifies Growth [in this city]",
 			
@@ -457,7 +456,6 @@
 
 			    "Free [Grade 8 Office Fixer] appears",
 			    "Free [Grade 8 Office Fixer] appears <with [45]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
-			    "Remove [Fixer Deployment Authorization - Grade 8] [in this city] <upon turn end>",
 
 			    "Nullifies Growth [in this city]",
 			
@@ -478,7 +476,6 @@
 
 			    "Free [Grade 7 Office Fixer] appears",
 			    "Free [Grade 7 Office Fixer] appears <with [40]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
-			    "Remove [Fixer Deployment Authorization - Grade 7] [in this city] <upon turn end>",
 
 			    "Nullifies Growth [in this city]",
 			
@@ -499,8 +496,7 @@
 
 			    "Free [Grade 6 Office Fixer] appears",
 			    "Free [Grade 6 Office Fixer] appears <with [35]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
-			    "Remove [Fixer Deployment Authorization - Grade 6] [in this city] <upon turn end>",
-
+			
 			    "Nullifies Growth [in this city]",
 			
 			    "Unsellable",
@@ -520,7 +516,6 @@
 
 			    "Free [Grade 5 Office Fixer] appears",
 			    "Free [Grade 5 Office Fixer] appears <with [30]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
-			    "Remove [Fixer Deployment Authorization - Grade 5] [in this city] <upon turn end>",
 
 			    "Nullifies Growth [in this city]",
 			
@@ -541,7 +536,6 @@
 
 			    "Free [Grade 4 Office Fixer] appears",
 			    "Free [Grade 4 Office Fixer] appears <with [25]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
-			    "Remove [Fixer Deployment Authorization - Grade 4] [in this city] <upon turn end>",
 
 			    "Nullifies Growth [in this city]",
 			
@@ -562,7 +556,6 @@
 
 			    "Free [Grade 3 Office Fixer] appears",
 			    "Free [Grade 3 Office Fixer] appears <with [20]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
-			    "Remove [Fixer Deployment Authorization - Grade 3] [in this city] <upon turn end>",
 
 			    "Nullifies Growth [in this city]",
 			
@@ -583,7 +576,6 @@
 
 			    "Free [Grade 2 Office Fixer] appears",
 			    "Free [Grade 2 Office Fixer] appears <with [15]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
-			    "Remove [Fixer Deployment Authorization - Grade 2] [in this city] <upon turn end>",
 
 			    "Nullifies Growth [in this city]",
 			
@@ -604,7 +596,6 @@
 
 			    "Free [Grade 1 Office Fixer] appears",
 			    "Free [Grade 1 Office Fixer] appears <with [10]% chance> <if [R Corp - Clone Hatcheries] is constructed in at least [1] of [in this city] cities>",
-			    "Remove [Fixer Deployment Authorization - Grade 1] [in this city] <upon turn end>",
 
 			    "Nullifies Growth [in this city]",
 			
@@ -627,8 +618,7 @@
 			    "Destroyed when the city is captured",
 
 			    "Free [The RED Mist] appears",
-			    "Remove [Color Fixer Deployment Authorization - The RED Mist] [in this city] <upon turn end>",
-
+			
 			    "Nullifies Growth [in this city]",
 			
 			    "Unsellable",
