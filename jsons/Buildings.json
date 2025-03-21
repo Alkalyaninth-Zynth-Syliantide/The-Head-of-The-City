@@ -624,7 +624,8 @@
 			    "Unsellable",
 			
 		            "Triggers a global alert upon completion"],
-
+		
+		"isWonder": true
 		"cost": 1250,
 	},
 
