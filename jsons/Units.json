@@ -227,7 +227,7 @@
 		"strength": 1,
 		"range": 1,
 		"cost": 1200,
-		"uniques": ["[+3400]% Strength",
+		"uniques": ["[+4400]% Strength",
 			    "[+100]% Strength <with [48]% chance>",
 			    "[+100]% Strength <with [49]% chance>",
 			    "[+100]% Strength <with [50]% chance>",
@@ -236,6 +236,12 @@
 			
 			    "[+1000]% Strength <when defending>",
 			    "Withdraws before melee combat <with [40]% chance>",
+
+			    "[This Unit] heals [2] HP <upon losing at least [1] HP in a single attack>",
+			    "[This Unit] heals [2] HP <upon damaging a [All] unit>",
+			    "[This Unit] heals [2] HP <upon defeating a [All] unit>",
+			    "[This Unit] heals [2] HP <when attacking>",
+			    "[This Unit] heals [2] HP <when defending>",
 		
 			    "Remove [Color Fixer Deployment Authorization - The RED Mist] [in this city] <upon being defeated>"],
 	},
@@ -268,10 +274,11 @@
 			    "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon damaging a [All] unit> <with [20]% chance>",
 			    "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon defeating a [All] unit> <with [30]% chance>",
 
-			    "[This Unit] heals [5] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
-			    "[This Unit] heals [5] HP <every [1] turns> <upon damaging a [All] unit>",
-			    "[This Unit] heals [5] HP <every [1] turns> <upon defeating a [All] unit>",
-			    "[This Unit] heals [5] HP <every [1] turns> <when attacking>",
+			    "[This Unit] heals [3] HP <upon losing at least [1] HP in a single attack>",
+			    "[This Unit] heals [3] HP <upon damaging a [All] unit>",
+			    "[This Unit] heals [3] HP <upon defeating a [All] unit>",
+			    "[This Unit] heals [3] HP <when attacking>",
+			    "[This Unit] heals [3] HP <when defending>",
 
 			    "[2] Sight"],
 	},
@@ -329,8 +336,10 @@
 
 			    "[+1000]% Strength <when defending>",
 
-			    "[This Unit] heals [7] HP <every [1] turns> <upon losing at least [1] HP in a single attack>",
-			    "[This Unit] heals [7] HP <every [1] turns> <upon damaging a [All] unit>",
-			    "[This Unit] heals [7] HP <every [1] turns> <upon defeating a [All] unit>"],
+			    "[This Unit] heals [5] HP <upon losing at least [1] HP in a single attack>",
+			    "[This Unit] heals [5] HP <upon damaging a [All] unit>",
+			    "[This Unit] heals [5] HP <upon defeating a [All] unit>",
+			    "[This Unit] heals [5] HP <when attacking>",
+			    "[This Unit] heals [5] HP <when defending>",],
 	}
 ]
