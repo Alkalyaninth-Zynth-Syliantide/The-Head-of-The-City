@@ -274,8 +274,8 @@
 
 			    "[Target Unit] gains the [Fairy] status for [3] turn(s) <upon damaging a [All] unit>",
 			    "[This Unit] gains the [Shockwave] promotion <every [7] turns>",
-			    "[This Unit] gains the [Shockwave] promotion <every [1] turns> <with [15]% chance>",
-			    "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon damaging a [All] unit> <with [20]% chance>",
+			    "[This Unit] gains the [Shockwave] promotion <every [1] turns> <with [20]% chance>",
+			    "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon damaging a [All] unit> <with [25]% chance>",
 			    "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon defeating a [All] unit> <with [30]% chance>",
 
 			    "[This Unit] heals [3] HP <upon losing at least [1] HP in a single attack>",
