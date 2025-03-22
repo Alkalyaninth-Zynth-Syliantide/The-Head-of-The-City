@@ -77,7 +77,7 @@
 		"name": "Shockwave",
 		"unitTypes": ["Arbitrarius Urbis"],
 		"uniques": ["[+1]% Strength",
-			    "[+99999]% Strength <when defending>",
+			    "[+2999]% Strength <when defending>",
 
 			    "Nuclear weapon of Strength [1]",
 			    "Blast radius [2]",
