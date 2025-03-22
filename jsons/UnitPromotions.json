@@ -55,7 +55,7 @@
 		"uniques": ["[+400]% Strength",
 
 			    "[+1] Movement",
-			    "[+1] additional attacks per turn"],
+			    "[1] additional attacks per turn"],
 	},
 
 	{
@@ -68,7 +68,7 @@
 
 			    "[+1] Sight",
 			    "[+1] Range",
-			    "[+1] additional attacks per turn <upon defeating a [All] unit> <every [1] turns>"],
+			    "[1] additional attacks per turn <upon defeating a [All] unit> <every [1] turns>"],
 	},
 
 //Unit Buffs
