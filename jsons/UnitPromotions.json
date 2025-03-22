@@ -21,7 +21,7 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+100]% Strength",
 
-			    "[+1] Sight"],
+			    "[2] Sight"],
 	},
 
 	{
@@ -30,9 +30,7 @@
 		"column": 1,
 		"row": 11,
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
-		"uniques": ["[+200]% Strength",
-
-			    "[+1] Movement"],
+		"uniques": ["[+200]% Strength"],
 	},
 
 	{
@@ -43,7 +41,7 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+300]% Strength",
 
-			    "[+1] Range"],
+			    "[2] Range"],
 	},
 
 	{
@@ -54,7 +52,6 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+400]% Strength",
 
-			    "[+1] Movement",
 			    "[1] additional attacks per turn"],
 	},
 
@@ -66,8 +63,8 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+500]% Strength",
 
-			    "[+1] Sight",
-			    "[+1] Range",
+			    "[3] Sight",
+			    "[3] Range",
 			    "[1] additional attacks per turn <upon defeating a [All] unit> <every [1] turns>"],
 	},
 
@@ -81,7 +78,7 @@
 
 			    "Nuclear weapon of Strength [1]",
 			    "Blast radius [2]",
-			    "[+1] Range",
+			    "[5] Range",
 			    "[1] additional attacks per turn",
 
 			    "[This Unit] loses the [Shockwave] promotion <upon turn end>",
