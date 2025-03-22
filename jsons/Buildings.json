@@ -439,11 +439,30 @@
 		"cost": 500,
 	},
 
-	//Authorizations
+	//Contracts
 
 	{
 
-	        "name": "Fixer Deployment Authorization - Grade 9",
+	        "name": "City Rat Deployment Contract",
+		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
+		
+		"uniqueTo": "The City",
+		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities>",
+			    "Destroyed when the city is captured",
+
+			    "Free [City Rat of The Backstreets] appears",
+
+			    "Nullifies Growth [in this city]",
+			
+			    "Unsellable",
+			
+		            "Triggers a global alert upon completion"],
+
+		"cost": 50,
+	},
+	{
+
+	        "name": "Fixer Deployment Contract - Grade 9",
 		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
 		
 		"uniqueTo": "The City",
@@ -463,7 +482,7 @@
 	},
 	{
 
-	        "name": "Fixer Deployment Authorization - Grade 8",
+	        "name": "Fixer Deployment Contract - Grade 8",
 		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
 		
 		"uniqueTo": "The City",
@@ -483,7 +502,7 @@
 	},
 	{
 
-	        "name": "Fixer Deployment Authorization - Grade 7",
+	        "name": "Fixer Deployment Contract - Grade 7",
 		"requiredBuilding": "City LvL - Global Myth",
 		
 		"uniqueTo": "The City",
@@ -503,7 +522,7 @@
 	},
 	{
 
-	        "name": "Fixer Deployment Authorization - Grade 6",
+	        "name": "Fixer Deployment Contract - Grade 6",
 		"requiredBuilding": "City LvL - Global Myth",
 		
 		"uniqueTo": "The City",
@@ -523,7 +542,7 @@
 	},
 	{
 
-	        "name": "Fixer Deployment Authorization - Grade 5",
+	        "name": "Fixer Deployment Contract - Grade 5",
 		"requiredBuilding": "City LvL - Orbis Terrarum Legend",
 		
 		"uniqueTo": "The City",
@@ -543,7 +562,7 @@
 	},
 	{
 
-	        "name": "Fixer Deployment Authorization - Grade 4",
+	        "name": "Fixer Deployment Contract - Grade 4",
 		"requiredBuilding": "City LvL - Orbis Terrarum Legend",
 		
 		"uniqueTo": "The City",
@@ -563,7 +582,7 @@
 	},
 	{
 
-	        "name": "Fixer Deployment Authorization - Grade 3",
+	        "name": "Fixer Deployment Contract - Grade 3",
 		"requiredBuilding": "City LvL - Pestilentia Internationalis",
 		
 		"uniqueTo": "The City",
@@ -583,7 +602,7 @@
 	},
 	{
 
-	        "name": "Fixer Deployment Authorization - Grade 2",
+	        "name": "Fixer Deployment Contract - Grade 2",
 		"requiredBuilding": "City LvL - Pestilentia Internationalis",
 		
 		"uniqueTo": "The City",
@@ -603,7 +622,7 @@
 	},
 	{
 
-	        "name": "Fixer Deployment Authorization - Grade 1",
+	        "name": "Fixer Deployment Contract - Grade 1",
 		"requiredBuilding": "City LvL - Orbis Terrarum Stella",
 		
 		"uniqueTo": "The City",
@@ -626,7 +645,7 @@
 
 	{
 
-	        "name": "Color Fixer Deployment Authorization - The RED Mist",
+	        "name": "Color Fixer Deployment Contract - The RED Mist",
 		"requiredBuilding": "City LvL - Orbis Terrarum Stella",
 		
 		"uniqueTo": "The City",
