@@ -237,6 +237,8 @@
 			    "[+1000]% Strength <when defending>",
 			    "Withdraws before melee combat <with [40]% chance>",
 
+			    "[Target Unit] gains the [Bleed] status for [1] turn(s) <upon damaging a [All] unit>",
+
 			    "[This Unit] heals [2] HP <upon losing at least [1] HP in a single attack>",
 			    "[This Unit] heals [2] HP <upon damaging a [All] unit>",
 			    "[This Unit] heals [2] HP <upon defeating a [All] unit>",
