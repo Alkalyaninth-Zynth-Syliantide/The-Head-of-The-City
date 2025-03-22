@@ -444,11 +444,10 @@
 	{
 
 	        "name": "City Rat Deployment Contract",
-		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
+		"requiredBuilding": "Official Recognition of The City",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities>",
-			    "Destroyed when the city is captured",
+		"uniques": ["Destroyed when the city is captured",
 
 			    "Free [City Rat of The Backstreets] appears",
 
@@ -458,7 +457,7 @@
 			
 		            "Triggers a global alert upon completion"],
 
-		"cost": 50,
+		"cost": 20,
 	},
 	{
 
