@@ -9,44 +9,48 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+1]% Strength",
 
+			    "[1] additional attacks per turn",
+
 			    "[2] Movement point cost to disembark",
 			    "[2] Movement point cost to embark"],
 	},
 
 	{
-		"name": "Emotion Lvl - I",
+		"name": "Emotion Lvl - 1",
 		"prerequisites": ["Emotion Lvl - O"],
 		"column": 1,
 		"row": 10,
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+100]% Strength",
 
-			    "[2] Sight"],
+			    "[1] additional attacks per turn"],
 	},
 
 	{
-		"name": "Emotion Lvl - II",
-		"prerequisites": ["Emotion Lvl - I"],
+		"name": "Emotion Lvl - 2",
+		"prerequisites": ["Emotion Lvl - 1"],
 		"column": 1,
 		"row": 11,
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
-		"uniques": ["[+200]% Strength"],
+		"uniques": ["[+200]% Strength",
+
+			    "[1] additional attacks per turn"],
 	},
 
 	{
-		"name": "Emotion Lvl - III",
-		"prerequisites": ["Emotion Lvl - II"],
+		"name": "Emotion Lvl - 3",
+		"prerequisites": ["Emotion Lvl - 2"],
 		"column": 1,
 		"row": 12,
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+300]% Strength",
 
-			    "[2] Range"],
+			    "[1] additional attacks per turn"],
 	},
 
 	{
-		"name": "Emotion Lvl - IV",
-		"prerequisites": ["Emotion Lvl - III"],
+		"name": "Emotion Lvl - 4",
+		"prerequisites": ["Emotion Lvl - 3"],
 		"column": 1,
 		"row": 13,
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
@@ -56,16 +60,14 @@
 	},
 
 	{
-		"name": "Emotion Lvl - V",
-		"prerequisites": ["Emotion Lvl - IV"],
+		"name": "Emotion Lvl - 5",
+		"prerequisites": ["Emotion Lvl - 4"],
 		"column": 1,
 		"row": 14,
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+500]% Strength",
-
-			    "[3] Sight",
-			    "[3] Range",
-			    "[1] additional attacks per turn <upon defeating a [All] unit> <every [1] turns>"],
+			
+			    "[1] additional attacks per turn"],
 	},
 
 //Unit Buffs
