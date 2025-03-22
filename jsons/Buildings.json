@@ -36,15 +36,17 @@
 		"uniqueTo": "The City",
 		"uniques": ["Unavailable <if [Official Founding of The Head] is constructed by anybody>",
 			
-			   "[+1 Culture] per [5] population [in this city]",
-			   "[-5]% Culture cost of natural border growth [in this city]",
-			   "Each city founded increases culture cost of policies [5]% less than normal",
+			    "[+1 Culture] per [5] population [in this city]",
+			    "[-5]% Culture cost of natural border growth [in this city]",
+			    "Each city founded increases culture cost of policies [5]% less than normal",
 
-			   "Never destroyed when the city is captured",
-			   "Doubles Gold given to enemy if city is captured",
+			    "Never destroyed when the city is captured",
+			    "Doubles Gold given to enemy if city is captured",
+
+			    "Indicates the capital city",
 			
-			   "Triggers a global alert upon build start",
-		           "Triggers a global alert upon completion"],
+			    "Triggers a global alert upon build start",
+		            "Triggers a global alert upon completion"],
 
 		"cityStrength": 5,
 		"cityHealth": 5,
@@ -61,17 +63,19 @@
 	},
 	{
 	        "name": "Official Recognition of The City",
-		"requiredBuilding": "Official Founding of The Head",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Requires at least [1] population",
+		"uniques": ["Can only be built <if [Official Founding of The Head] is constructed in at least [1] of [Your] cities>",
+			    "Requires at least [1] population",
 
-			   "[-25]% Production towards any buildings that already exist in the Capital",
+			    "Nullifies Growth [in this city] <in cities with at least [5] [Population]> <if [City LvL - Orbis Terrarum Canard] is not constructed>",
 
-			   "Unsellable",
-			   "Never destroyed when the city is captured",
+			    "[-25]% Production towards any buildings that already exist in the Capital",
+
+			    "Unsellable",
+			    "Never destroyed when the city is captured",
 		
-		           "Triggers a global alert upon completion"],
+		            "Triggers a global alert upon completion"],
 
 		"cost": 50,
 	},
@@ -84,21 +88,23 @@
 		
 		"uniqueTo": "The City",
 		"uniques": ["Requires at least [5] population",
-			
-			   "[+2]% [Production]",
-			   "[+2]% [Food]",
-			   "[+2]% [Gold]",
-			   "[+2]% [Science]",
-			   "[+2]% [Culture]",
-			   "[+2]% [Happiness]",
-			   "[+2]% [Faith]",
 
-			   "Rebel units may spawn <every [7] turns>",
-			   
-			   "Unsellable",
-			   "Never destroyed when the city is captured",
+			    "Nullifies Growth [in this city] <in cities with at least [10] [Population]> <if [City LvL - Global Myth] is not constructed>",
 			
-		           "Triggers a global alert upon completion"],
+			    "[+2]% [Production]",
+			    "[+2]% [Food]",
+			    "[+2]% [Gold]",
+			    "[+2]% [Science]",
+			    "[+2]% [Culture]",
+			    "[+2]% [Happiness]",
+			    "[+2]% [Faith]",
+
+			    "Rebel units may spawn <every [7] turns>",
+			   
+			    "Unsellable",
+			    "Never destroyed when the city is captured",
+			
+		            "Triggers a global alert upon completion"],
 
 		"cityStrength": 1,
 		"cityHealth": 1,
@@ -110,23 +116,25 @@
 		"requiredBuilding": "City LvL - Orbis Terrarum Canard",
 		
 		"uniqueTo": "The City",
-		"uniques": ["Can only be built <if [Fixer Offices of The City] is constructed in at least [1] of [in this city] cities> <if [City-wide Releasing of The Seed of Light - I] is constructed in at least [1] of [in this city] cities>",
-			   "Requires at least [10] population",
-			
-			   "[+1]% [Production] from every [improved]",
-			   "[+1]% [Food] from every [improved]",
-			   "[+1]% [Gold] from every [improved]",
-			   "[+1]% [Science] from every [improved]",
-			   "[+1]% [Culture] from every [improved]",
-			   "[+1]% [Happiness] from every [improved]",
-			   "[+1]% [Faith] from every [improved]",
+		"uniques": ["Can only be built <if [City-wide Releasing of The Seed of Light - I] is constructed in at least [1] of [in this city] cities>",
+			    "Requires at least [10] population",
 
-			   "Rebel units may spawn <every [6] turns>",
-			   
-			   "Unsellable",
-			   "Never destroyed when the city is captured",
+			    "Nullifies Growth [in this city] <in cities with at least [16] [Population]> <if [City LvL - Orbis Terrarum Legend] is not constructed>",
 			
-		           "Triggers a global alert upon completion"],
+			    "[+1]% [Production] from every [improved]",
+			    "[+1]% [Food] from every [improved]",
+			    "[+1]% [Gold] from every [improved]",
+			    "[+1]% [Science] from every [improved]",
+			    "[+1]% [Culture] from every [improved]",
+			    "[+1]% [Happiness] from every [improved]",
+			    "[+1]% [Faith] from every [improved]",
+
+			    "Rebel units may spawn <every [6] turns>",
+			   
+			    "Unsellable",
+			    "Never destroyed when the city is captured",
+			
+		            "Triggers a global alert upon completion"],
 
 		"cityStrength": 2,
 		"cityHealth": 2,
@@ -139,21 +147,23 @@
 		
 		"uniqueTo": "The City",
 		"uniques": ["Requires at least [16] population",
-			
-			   "[+1]% [Production] from every [Building]",
-			   "[+1]% [Food] from every [Building]",
-			   "[+1]% [Gold] from every [Building]",
-			   "[+1]% [Science] from every [Building]",
-			   "[+1]% [Culture] from every [Building]",
-			   "[+1]% [Happiness] from every [Building]",
-			   "[+1]% [Faith] from every [Building]",
 
-			   "Rebel units may spawn <every [5] turns>",
-			   
-			   "Unsellable",
-			   "Never destroyed when the city is captured",
+			    "Nullifies Growth [in this city] <in cities with at least [23] [Population]> <if [City LvL - Pestilentia Internationalis] is not constructed>",
 			
-		           "Triggers a global alert upon completion"],
+			    "[+1]% [Production] from every [Building]",
+			    "[+1]% [Food] from every [Building]",
+			    "[+1]% [Gold] from every [Building]",
+			    "[+1]% [Science] from every [Building]",
+			    "[+1]% [Culture] from every [Building]",
+			    "[+1]% [Happiness] from every [Building]",
+			    "[+1]% [Faith] from every [Building]",
+
+			    "Rebel units may spawn <every [5] turns>",
+			   
+			    "Unsellable",
+			    "Never destroyed when the city is captured",
+			
+		            "Triggers a global alert upon completion"],
 
 		"cityStrength": 3,
 		"cityHealth": 3,
@@ -166,20 +176,22 @@
 		
 		"uniqueTo": "The City",
 		"uniques": ["Requires at least [23] population",
-			
-			   "City-State Influence recovers at twice the normal rate",
-			   "[4] population [in this city]",
-			   "[1] Unit Supply per [5] population [in this city]",
-			   "[+10]% Production when constructing [all] units [in this city]",
-			   "[5]% Food is carried over after population increases [in this city]",
-                           "[-10]% Culture cost of natural border growth [in this city]",
 
-			   "Rebel units may spawn <every [4] turns>",
-			   
-			   "Unsellable",
-			   "Never destroyed when the city is captured",
+			    "Nullifies Growth [in this city] <in cities with at least [31] [Population]> <if [City LvL - Internationalis Visio Nocturna] is not constructed>",
 			
-		           "Triggers a global alert upon completion"],
+			    "City-State Influence recovers at twice the normal rate",
+			    "[4] population [in this city]",
+			    "[1] Unit Supply per [5] population [in this city]",
+			    "[+10]% Production when constructing [all] units [in this city]",
+			    "[5]% Food is carried over after population increases [in this city]",
+                            "[-10]% Culture cost of natural border growth [in this city]",
+
+			    "Rebel units may spawn <every [4] turns>",
+			   
+			    "Unsellable",
+			    "Never destroyed when the city is captured",
+			
+		            "Triggers a global alert upon completion"],
 
 		"cityStrength": 4,
 		"cityHealth": 4,
@@ -192,21 +204,23 @@
 		
 		"uniqueTo": "The City",
 		"uniques": ["Requires at least [31] population",
-			
-			   "[+5]% of excess happiness converted to [Production]",
-			   "[+5]% of excess happiness converted to [Food]",
-			   "[+5]% of excess happiness converted to [Gold]",
-			   "[+5]% of excess happiness converted to [Science]",
-			   "[+5]% of excess happiness converted to [Culture]",
-			   "[+5]% of excess happiness converted to [Happiness]",
-			   "[+5]% of excess happiness converted to [Faith]",
 
-			   "Rebel units may spawn <every [3] turns>",
-			   
-			   "Unsellable",
-			   "Never destroyed when the city is captured",
+			    "Nullifies Growth [in this city] <in cities with at least [40] [Population]> <if [City LvL - Orbis Terrarum Stella] is not constructed>",
 			
-		           "Triggers a global alert upon completion"],
+			    "[+5]% of excess happiness converted to [Production]",
+			    "[+5]% of excess happiness converted to [Food]",
+			    "[+5]% of excess happiness converted to [Gold]",
+			    "[+5]% of excess happiness converted to [Science]",
+			    "[+5]% of excess happiness converted to [Culture]",
+			    "[+5]% of excess happiness converted to [Happiness]",
+			    "[+5]% of excess happiness converted to [Faith]",
+
+			    "Rebel units may spawn <every [3] turns>",
+			   
+			    "Unsellable",
+			    "Never destroyed when the city is captured",
+			
+		            "Triggers a global alert upon completion"],
 
 		"cityStrength": 5,
 		"cityHealth": 5,
@@ -219,19 +233,21 @@
 		
 		"uniqueTo": "The City",
 		"uniques": ["Requires at least [40] population",
-			
-			   "City-State Influence recovers at twice the normal rate",
-			   "[+10]% Production towards any buildings that already exist in the Capital",
-			   "[5]% City Strength from defensive buildings",
-			   "[10]% Food is carried over after population increases [in this city]",
 
-			   "[1]% Unhappiness from [Unemployed] [in this city]",
-			   "Rebel units may spawn <every [2] turns>",
-			   
-			   "Unsellable",
-			   "Never destroyed when the city is captured",
+			    "Nullifies Growth [in this city] <in cities with at least [50] [Population]> <if [City LvL - Impuritas Internationalis] is not constructed>",
 			
-		           "Triggers a global alert upon completion"],
+			    "City-State Influence recovers at twice the normal rate",
+			    "[+10]% Production towards any buildings that already exist in the Capital",
+			    "[5]% City Strength from defensive buildings",
+			    "[10]% Food is carried over after population increases [in this city]",
+ 
+			    "[1]% Unhappiness from [Unemployed] [in this city]",
+			    "Rebel units may spawn <every [2] turns>",
+			   
+			    "Unsellable",
+			    "Never destroyed when the city is captured",
+			
+		            "Triggers a global alert upon completion"],
 
 		"cityStrength": 6,
 		"cityHealth": 6,
@@ -244,22 +260,22 @@
 		
 		"uniqueTo": "The City",
 		"uniques": ["Can only be built <if [Nation-wide Releasing of The Seed of Light] is constructed in at least [1] of [Your] cities>",
-			   "Requires at least [50] population",
+			    "Requires at least [50] population",
 
-			   "Nullifies Growth [in this city] <in cities with at least [50] [Population]>",
+			    "Nullifies Growth [in this city] <in cities with at least [100] [Population]>",
 			
-			   "[+20]% Production towards any buildings that already exist in the Capital",
-			   "[+1 Production, +1 Food, +1 Gold, +1 Science, +1 Culture, +1 Happiness, +1 Faith] per [5] population [in this city]",
-			   "Population loss from nuclear attacks [-90]% [in this city]",
+			    "[+20]% Production towards any buildings that already exist in the Capital",
+			    "[+1 Production, +1 Food, +1 Gold, +1 Science, +1 Culture, +1 Happiness, +1 Faith] per [5] population [in this city]",
+			    "Population loss from nuclear attacks [-90]% [in this city]",
 
-			   "[1]% Unhappiness from [Population] [in this city]",
-			   "Rebel units may spawn <every [1] turns>",
+			    "[1]% Unhappiness from [Population] [in this city]",
+			    "Rebel units may spawn <every [1] turns>",
 			   
-			   "Unsellable",
-			   "Never destroyed when the city is captured",
-			   "Doubles Gold given to enemy if city is captured",
+			    "Unsellable",
+			    "Never destroyed when the city is captured",
+			    "Doubles Gold given to enemy if city is captured",
 			
-		           "Triggers a global alert upon completion"],
+		            "Triggers a global alert upon completion"],
 
 		"cityStrength": 7,
 		"cityHealth": 7,
