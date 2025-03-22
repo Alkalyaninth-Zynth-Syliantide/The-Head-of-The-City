@@ -9,8 +9,8 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+1]% Strength",
 
-			    "[1] Movement point cost to disembark",
-			    "[1] Movement point cost to embark"],
+			    "[2] Movement point cost to disembark",
+			    "[2] Movement point cost to embark"],
 	},
 
 	{
