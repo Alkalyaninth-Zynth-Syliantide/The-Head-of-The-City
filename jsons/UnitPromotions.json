@@ -91,26 +91,42 @@
 
 //Unit Debuffs
 
-	{
-		"name": "Fairy",
-		"uniques": ["[-1]% Strength",
+	//Your Units
+	
+		{
+			"name": "Staggered",
+			"uniques": ["[-100]% Strength",
 			
-			   "[This Unit] takes [5] damage <upon losing at least [1] HP in a single attack>",
-			   "[This Unit] takes [5] damage <upon turn end>",
-			   "[This Unit] takes [5] damage <upon turn start>",
-			   "[This Unit] takes [5] damage <upon damaging a [All] unit>",
-			   "[This Unit] takes [5] damage <upon defeating a [All] unit>"],
-	},
-	{
-		"name": "Bleed",
-		"uniques": ["[-1]% Strength",
+				    "Cannot attack",
+				    "Cannot move",
+				    "No Sight",
+				    "No defensive terrain bonus",
+				    "Unable to capture cities",
+				    "Unable to pillage tiles"],
+		},
+
+	//Enemy Units
+
+		{
+			"name": "Fairy",
+			"uniques": ["[-1]% Strength",
 			
-			   "[This Unit] takes [5] damage <every [1] turns>",
-			   "[This Unit] takes [5] damage <upon turn end>",
-			   "[This Unit] takes [5] damage <upon turn start>",
-			   "[This Unit] takes [5] damage <upon damaging a [All] unit>",
-			   "[This Unit] takes [5] damage <upon defeating a [All] unit>"],
-	},
+				    "[This Unit] takes [5] damage <upon losing at least [1] HP in a single attack>",
+				    "[This Unit] takes [5] damage <upon turn end>",
+				    "[This Unit] takes [5] damage <upon turn start>",
+				    "[This Unit] takes [5] damage <upon damaging a [All] unit>",
+			  	    "[This Unit] takes [5] damage <upon defeating a [All] unit>"],
+		},
+		{
+			"name": "Bleed",
+			"uniques": ["[-1]% Strength",
+			
+				    "[This Unit] takes [5] damage <every [1] turns>",
+				    "[This Unit] takes [5] damage <upon turn end>",
+				    "[This Unit] takes [5] damage <upon turn start>",
+				    "[This Unit] takes [5] damage <upon damaging a [All] unit>",
+				    "[This Unit] takes [5] damage <upon defeating a [All] unit>"],
+		},
 
 //Status Cooldowns
 
