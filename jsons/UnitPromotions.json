@@ -9,7 +9,7 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+1]% Strength",
 
-			    "[1] additional attacks per turn",
+			    "[+30]% XP gained from combat",
 
 			    "[2] Movement point cost to disembark",
 			    "[2] Movement point cost to embark"],
@@ -23,7 +23,7 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+100]% Strength",
 
-			    "[1] additional attacks per turn"],
+			    "[+30]% XP gained from combat"],
 	},
 
 	{
@@ -32,9 +32,9 @@
 		"column": 1,
 		"row": 11,
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
-		"uniques": ["[+200]% Strength",
+		"uniques": ["[+100]% Strength",
 
-			    "[1] additional attacks per turn"],
+			    "[+30]% XP gained from combat"],
 	},
 
 	{
@@ -43,9 +43,9 @@
 		"column": 1,
 		"row": 12,
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
-		"uniques": ["[+300]% Strength",
+		"uniques": ["[+100]% Strength",
 
-			    "[1] additional attacks per turn"],
+			    "[+30]% XP gained from combat"],
 	},
 
 	{
@@ -54,9 +54,9 @@
 		"column": 1,
 		"row": 13,
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
-		"uniques": ["[+400]% Strength",
+		"uniques": ["[+100]% Strength",
 
-			    "[1] additional attacks per turn"],
+			    "[+30]% XP gained from combat"],
 	},
 
 	{
@@ -65,28 +65,108 @@
 		"column": 1,
 		"row": 14,
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
-		"uniques": ["[+500]% Strength",
+		"uniques": ["[+100]% Strength",
 			
-			    "[1] additional attacks per turn"],
+			    "[+30]% XP gained from combat"],
 	},
+
+//Combat Pages
+
+	//Arbiter of The Head - Combat Pages
+	
+		{
+			"name": "Combat Page - Line",
+			"unitTypes": ["Arbitrarius Urbis"],
+			"uniques": ["No defensive terrain bonus",
+				    "No defensive terrain penalty",
+
+				    "This Promotion is free",
+				
+				    //Offensive Power
+				    "[+1000]% Strength <when attacking>",
+			  	    "[+100]% Strength <with [48]% chance> <when attacking>",
+			  	    "[+100]% Strength <with [49]% chance> <when attacking>",
+			 	    "[+100]% Strength <with [50]% chance> <when attacking>",
+			 	    "[+100]% Strength <with [51]% chance> <when attacking>",
+			 	    "[+100]% Strength <with [52]% chance> <when attacking>",
+
+				    //Defensive Power
+				    "[+400]% Strength <when defending>",
+			 	    "[+100]% Strength <with [50]% chance> <when defending>",
+
+				    //Dice Number
+				    "[1] additional attacks per turn",
+	
+				    "[4] Range",
+
+				    "[This Unit] loses the [Combat Page - Line] promotion <upon turn end>",
+				    "[This Unit] loses the [Combat Page - Line] promotion <upon damaging a [All] unit>",
+				    "[This Unit] loses the [Combat Page - Line] promotion <upon defeating a [All] unit>"],
+		},
+		{
+			"name": "Combat Page - Thick Line",
+			"unitTypes": ["Arbitrarius Urbis"],
+			"uniques": ["No defensive terrain bonus",
+				    "No defensive terrain penalty",
+				
+				    //Offensive Power
+				    "[+1400]% Strength <when attacking>",
+			  	    "[+100]% Strength <with [48]% chance> <when attacking>",
+			  	    "[+100]% Strength <with [49]% chance> <when attacking>",
+			 	    "[+100]% Strength <with [50]% chance> <when attacking>",
+			 	    "[+100]% Strength <with [51]% chance> <when attacking>",
+			 	    "[+100]% Strength <with [52]% chance> <when attacking>",
+
+				    //Dice Number
+				    "[1] additional attacks per turn",
+				
+				    "[5] Range",
+
+				    "[This Unit] loses the [Combat Page - Thick Line] promotion <upon turn end>",
+				    "[This Unit] loses the [Combat Page - Thick Line] promotion <upon damaging a [All] unit>",
+				    "[This Unit] loses the [Combat Page - Thick Line] promotion <upon defeating a [All] unit>"],
+		},
+		{
+			"name": "Combat Page - Thin Line",
+			"unitTypes": ["Arbitrarius Urbis"],
+			"uniques": ["No defensive terrain bonus",
+				    "No defensive terrain penalty",
+				
+				    //Offensive Power
+				    "[+600]% Strength <when attacking>",
+			  	    "[+100]% Strength <with [49]% chance> <when attacking>",
+			 	    "[+100]% Strength <with [50]% chance> <when attacking>",
+			 	    "[+100]% Strength <with [51]% chance> <when attacking>",
+
+				    //Dice Number
+				    "[1] additional attacks per turn",
+				
+				    "[3] Range",
+				
+				    "[This Unit] loses the [Combat Page - Thin Line] promotion <upon turn end>",
+				    "[This Unit] loses the [Combat Page - Thin Line] promotion <upon damaging a [All] unit>",
+				    "[This Unit] loses the [Combat Page - Thin Line] promotion <upon defeating a [All] unit>"],
+		},
+		{
+			"name": "Combat Page - Shockwave",
+			"unitTypes": ["Arbitrarius Urbis"],
+			"uniques": [//Offensive Dice - One
+				    "[+2600]% Strength <when attacking>",
+			  	    "[+100]% Strength <with [49]% chance> <when attacking>",
+			 	    "[+100]% Strength <with [50]% chance> <when attacking>",
+			 	    "[+100]% Strength <with [51]% chance> <when attacking>",
+				
+				    //Dice Number
+				    "[1] additional attacks per turn",
+	
+				    "[5] Range",
+
+				    "[This Unit] loses the [Combat Page - Shockwave] promotion <upon turn end>",
+				    "[This Unit] loses the [Combat Page - Shockwave] promotion <upon damaging a [All] unit>",
+				    "[This Unit] loses the [Combat Page - Shockwave] promotion <upon defeating a [All] unit>"],
+		},
 
 //Unit Buffs
-
-	{
-		"name": "Shockwave",
-		"unitTypes": ["Arbitrarius Urbis"],
-		"uniques": ["[+1]% Strength",
-			    "[+2999]% Strength <when defending>",
-
-			    "Nuclear weapon of Strength [1]",
-			    "Blast radius [2]",
-			    "[5] Range",
-			    "[1] additional attacks per turn",
-
-			    "[This Unit] loses the [Shockwave] promotion <upon turn end>",
-			    "[This Unit] loses the [Shockwave] promotion <upon damaging a [All] unit>",
-			    "[This Unit] loses the [Shockwave] promotion <upon defeating a [All] unit>"],
-	},
 
 //Unit Debuffs
 
