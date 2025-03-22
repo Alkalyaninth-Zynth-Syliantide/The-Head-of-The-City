@@ -316,7 +316,7 @@
 
 			    "[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack>",
 
-		            "[3] Sight"],
+		            "[2] Sight"],
 	},
 	{
 		"name": "Claw Executioner",
