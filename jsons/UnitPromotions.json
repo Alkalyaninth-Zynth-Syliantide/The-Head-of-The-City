@@ -95,11 +95,11 @@
 		"name": "Fairy",
 		"uniques": ["[-1]% Strength",
 			
-			   "[This Unit] takes [7] damage <upon losing at least [1] HP in a single attack>",
-			   "[This Unit] takes [7] damage <upon turn end>",
-			   "[This Unit] takes [7] damage <upon turn start>",
-			   "[This Unit] takes [7] damage <upon damaging a [All] unit>",
-			   "[This Unit] takes [7] damage <upon defeating a [All] unit>"],
+			   "[This Unit] takes [5] damage <upon losing at least [1] HP in a single attack>",
+			   "[This Unit] takes [5] damage <upon turn end>",
+			   "[This Unit] takes [5] damage <upon turn start>",
+			   "[This Unit] takes [5] damage <upon damaging a [All] unit>",
+			   "[This Unit] takes [5] damage <upon defeating a [All] unit>"],
 	},
 	{
 		"name": "Bleed",
