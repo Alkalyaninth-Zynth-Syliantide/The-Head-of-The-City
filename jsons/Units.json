@@ -33,7 +33,9 @@
 		"uniques": ["[+100]% Strength <with [50]% chance>",
 			    "[+100]% Strength <with [51]% chance>",
 			
-			    "Withdraws before melee combat <with [4]% chance>"],
+			    "Withdraws before melee combat <with [4]% chance>",
+			
+			    "Remove [City Rat Deployment Contract] [in this city]"],
 	},
 
 	//City LvL - Orbis Terrarum Canard Associated Units
@@ -53,7 +55,7 @@
 			
 			    "Withdraws before melee combat <with [8]% chance>",
 		
-		            "Remove [Fixer Deployment Authorization - Grade 9] [in this city]"],
+		            "Remove [Fixer Deployment Contract - Grade 9] [in this city]"],
 	},
 	{
 		"name": "Grade 8 Office Fixer",
@@ -70,7 +72,7 @@
 			                 
 			    "Withdraws before melee combat <with [12]% chance>",
 		
-			    "Remove [Fixer Deployment Authorization - Grade 8] [in this city]"],
+			    "Remove [Fixer Deployment Contract - Grade 8] [in this city]"],
 	},
 
 	//City LvL - Global Myth Associated Units
@@ -91,7 +93,7 @@
 			
 			    "Withdraws before melee combat <with [16]% chance>",
 		
-			    "Remove [Fixer Deployment Authorization - Grade 7] [in this city]"],
+			    "Remove [Fixer Deployment Contract - Grade 7] [in this city]"],
 	},
 	{
 		"name": "Grade 6 Office Fixer",
@@ -109,7 +111,7 @@
 			
 			    "Withdraws before melee combat <with [20]% chance>",
 		
-			    "Remove [Fixer Deployment Authorization - Grade 6] [in this city]"],
+			    "Remove [Fixer Deployment Contract - Grade 6] [in this city]"],
 	},
 
 	//City LvL - Orbis Terrarum Legend Associated Units
@@ -130,7 +132,7 @@
 			
 			    "Withdraws before melee combat <with [24]% chance>",
 		
-			    "Remove [Fixer Deployment Authorization - Grade 5] [in this city]"],
+			    "Remove [Fixer Deployment Contract - Grade 5] [in this city]"],
 	},
 	{
 		"name": "Grade 4 Office Fixer",
@@ -148,7 +150,7 @@
 			
 			    "Withdraws before melee combat <with [28]% chance>",
 		
-			    "Remove [Fixer Deployment Authorization - Grade 4] [in this city]"],
+			    "Remove [Fixer Deployment Contract - Grade 4] [in this city]"],
 	},
 
 	//City LvL - Pestilentia Internationalis Associated Units
@@ -170,7 +172,7 @@
 			  
 			    "Withdraws before melee combat <with [32]% chance>",
 		
-			    "Remove [Fixer Deployment Authorization - Grade 3] [in this city]"],
+			    "Remove [Fixer Deployment Contract - Grade 3] [in this city]"],
 	},
 	{
 		"name": "Grade 2 Office Fixer",
@@ -190,7 +192,7 @@
 
 			    "Withdraws before melee combat <with [36]% chance>",
 		
-			    "Remove [Fixer Deployment Authorization - Grade 2] [in this city]"],
+			    "Remove [Fixer Deployment Contract - Grade 2] [in this city]"],
 	},
 
 	//City LvL - Internationalis Visio Nocturna Associated Units
@@ -213,7 +215,7 @@
 			
 			    "Withdraws before melee combat <with [40]% chance>",
 		
-			    "Remove [Fixer Deployment Authorization - Grade 1] [in this city]"],
+			    "Remove [Fixer Deployment Contract - Grade 1] [in this city]"],
 	},
 
 	//City LvL -  Orbis Terrarum Stella Color Fixers
@@ -245,7 +247,7 @@
 			    "[This Unit] heals [2] HP <when attacking>",
 			    "[This Unit] heals [2] HP <when defending>",
 		
-			    "Remove [Color Fixer Deployment Authorization - The RED Mist] [in this city] <upon being defeated>"],
+			    "Remove [Color Fixer Deployment Contract - The RED Mist] [in this city] <upon being defeated>"],
 	},
 
 	
