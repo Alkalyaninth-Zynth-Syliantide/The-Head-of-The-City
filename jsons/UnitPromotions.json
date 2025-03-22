@@ -95,7 +95,7 @@
 		"name": "Fairy",
 		"uniques": ["[-1]% Strength",
 			
-			   "[This Unit] takes [7] damage <every [1] turns>",
+			   "[This Unit] takes [7] damage <upon losing at least [1] HP in a single attack>",
 			   "[This Unit] takes [7] damage <upon turn end>",
 			   "[This Unit] takes [7] damage <upon turn start>",
 			   "[This Unit] takes [7] damage <upon damaging a [All] unit>",
