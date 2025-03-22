@@ -4,8 +4,8 @@
 
 	//Warrior - City Rat of The Backstreets
 	//Spearman - Grade NINE Office Fixer
-	//Pikeman - Grade EIGHT Office Fixer
-	//Swordsman - Grade SEVEN Office Fixer
+	//Swordsman - Grade EIGHT Office Fixer
+	//Pikeman - Grade SEVEN Office Fixer
 	//Longswordsman - Grade SIX Office Fixer
 	//Horseman - Grade FIVE Office Fixer
 	//Knight - Grade FOUR Office Fixer
@@ -35,7 +35,7 @@
 			
 			    "Withdraws before melee combat <with [4]% chance>",
 			
-			    "Remove [City Rat Deployment Contract] [in this city]"],
+			    "Remove [City Rat Deployment Contract] [in this city] <if [City Rat Deployment Contract] is constructed>"],
 	},
 
 	//City LvL - Orbis Terrarum Canard Associated Units
@@ -55,13 +55,13 @@
 			
 			    "Withdraws before melee combat <with [8]% chance>",
 		
-		            "Remove [Fixer Deployment Contract - Grade 9] [in this city]"],
+		            "Remove [Fixer Deployment Contract - Grade 9] [in this city] <if [Fixer Deployment Contract - Grade 9] is constructed>"],
 	},
 	{
 		"name": "Grade 8 Office Fixer",
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
-		"replaces": "Pikeman",
+		"replaces": "Swordsman",
 		"movement": 1,
 		"strength": 1,
 		"range": 1,
@@ -72,7 +72,7 @@
 			                 
 			    "Withdraws before melee combat <with [12]% chance>",
 		
-			    "Remove [Fixer Deployment Contract - Grade 8] [in this city]"],
+			    "Remove [Fixer Deployment Contract - Grade 8] [in this city] <if [Fixer Deployment Contract - Grade 8] is constructed>"],
 	},
 
 	//City LvL - Global Myth Associated Units
@@ -81,7 +81,7 @@
 		"name": "Grade 7 Office Fixer",
 		"unitType": "Incolae Urbis",
 		"uniqueTo": "The City",
-		"replaces": "Swordsman",
+		"replaces": "Pikeman",
 		"movement": 2,
 		"strength": 1,
 		"range": 1,
@@ -93,7 +93,7 @@
 			
 			    "Withdraws before melee combat <with [16]% chance>",
 		
-			    "Remove [Fixer Deployment Contract - Grade 7] [in this city]"],
+			    "Remove [Fixer Deployment Contract - Grade 7] [in this city] <if [Fixer Deployment Contract - Grade 7] is constructed>"],
 	},
 	{
 		"name": "Grade 6 Office Fixer",
@@ -111,7 +111,7 @@
 			
 			    "Withdraws before melee combat <with [20]% chance>",
 		
-			    "Remove [Fixer Deployment Contract - Grade 6] [in this city]"],
+			    "Remove [Fixer Deployment Contract - Grade 6] [in this city] <if [Fixer Deployment Contract - Grade 6] is constructed>"],
 	},
 
 	//City LvL - Orbis Terrarum Legend Associated Units
@@ -132,7 +132,7 @@
 			
 			    "Withdraws before melee combat <with [24]% chance>",
 		
-			    "Remove [Fixer Deployment Contract - Grade 5] [in this city]"],
+			    "Remove [Fixer Deployment Contract - Grade 5] [in this city] <if [Fixer Deployment Contract - Grade 5] is constructed>"],
 	},
 	{
 		"name": "Grade 4 Office Fixer",
@@ -150,7 +150,7 @@
 			
 			    "Withdraws before melee combat <with [28]% chance>",
 		
-			    "Remove [Fixer Deployment Contract - Grade 4] [in this city]"],
+			    "Remove [Fixer Deployment Contract - Grade 4] [in this city] <if [Fixer Deployment Contract - Grade 4] is constructed>"],
 	},
 
 	//City LvL - Pestilentia Internationalis Associated Units
@@ -172,7 +172,7 @@
 			  
 			    "Withdraws before melee combat <with [32]% chance>",
 		
-			    "Remove [Fixer Deployment Contract - Grade 3] [in this city]"],
+			    "Remove [Fixer Deployment Contract - Grade 3] [in this city] <if [Fixer Deployment Contract - Grade 3] is constructed>"],
 	},
 	{
 		"name": "Grade 2 Office Fixer",
@@ -192,7 +192,7 @@
 
 			    "Withdraws before melee combat <with [36]% chance>",
 		
-			    "Remove [Fixer Deployment Contract - Grade 2] [in this city]"],
+			    "Remove [Fixer Deployment Contract - Grade 2] [in this city] <if [Fixer Deployment Contract - Grade 2] is constructed>"],
 	},
 
 	//City LvL - Internationalis Visio Nocturna Associated Units
@@ -215,7 +215,7 @@
 			
 			    "Withdraws before melee combat <with [40]% chance>",
 		
-			    "Remove [Fixer Deployment Contract - Grade 1] [in this city]"],
+			    "Remove [Fixer Deployment Contract - Grade 1] [in this city] <if [Fixer Deployment Contract - Grade 1] is constructed>"],
 	},
 
 	//City LvL -  Orbis Terrarum Stella Color Fixers
@@ -247,7 +247,7 @@
 			    "[This Unit] heals [2] HP <when attacking>",
 			    "[This Unit] heals [2] HP <when defending>",
 		
-			    "Remove [Color Fixer Deployment Contract - The RED Mist] [in this city] <upon being defeated>"],
+			    "Remove [Color Fixer Deployment Contract - The RED Mist] [in this city] <upon being defeated> <if [Color Fixer Deployment Contract - The RED Mist] is constructed>"],
 	},
 
 	
