@@ -16,6 +16,8 @@
 	        "Cannot attack",
 
 	        "[+30]% XP gained from combat",
+
+	        "[This Unit] gains the [Staggered] status for [1] turn(s) <when below [50] HP>",
               
                 "Comment [The inhabitants of The City]"],
   },
@@ -33,6 +35,8 @@
 	        "Can perform Air Sweep",
 
 	        "[+40]% XP gained from combat",
+
+	        "[This Unit] gains the [Staggered] status for [1] turn(s) <when below [50] HP>",
 
 	        "Is part of Great Person group [Color Fixer]",
                 "Comment [The exceptional inhabitants of The City]"],
@@ -61,6 +65,8 @@
 
 	        "[+50]% XP gained from combat",
 
+	        "[This Unit] gains the [Staggered] status for [1] turn(s) <when below [50] HP>",
+
                 "Triggers a global alert upon build start",
 		"Triggers a global alert upon completion"],
   },
@@ -85,6 +91,8 @@
 
 	        "[+50]% XP gained from combat",
 
+	        "[This Unit] gains the [Staggered] status for [1] turn(s) <when below [50] HP>",
+
                 "Triggers a global alert upon build start",
 		"Triggers a global alert upon completion"],
   },
@@ -108,6 +116,8 @@
 		"All healing effects doubled",
 
 	        "[+50]% XP gained from combat",
+
+	        "[This Unit] gains the [Staggered] status for [1] turn(s) <when below [50] HP>",
 
                 "Triggers a global alert upon build start",
 		"Triggers a global alert upon completion"],
