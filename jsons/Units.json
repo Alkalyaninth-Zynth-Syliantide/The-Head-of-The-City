@@ -416,5 +416,10 @@
 			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [30]% chance> <upon losing at least [50] HP in a single attack>",
 			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [20]% chance> <upon losing at least [25] HP in a single attack>",
 			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [10]% chance> <upon losing at least [10] HP in a single attack>"],
+	},
+
+	//Cannon Ammunition
+
+	{
 	}
 ]
