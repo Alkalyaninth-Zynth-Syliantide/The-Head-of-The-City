@@ -23,7 +23,7 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+100]% Strength",
 
-			    "[+30]% XP gained from combat"],
+			    "[+60]% XP gained from combat"],
 	},
 
 	{
@@ -34,7 +34,7 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+100]% Strength",
 
-			    "[+30]% XP gained from combat"],
+			    "[+90]% XP gained from combat"],
 	},
 
 	{
@@ -45,7 +45,7 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+100]% Strength",
 
-			    "[+30]% XP gained from combat"],
+			    "[+120]% XP gained from combat"],
 	},
 
 	{
@@ -56,7 +56,7 @@
 		"unitTypes": ["Incolae Urbis","Eximia Incolae Urbis","Arbitrarius Urbis","Urbs Videntis","De Urbe Carnifex"],
 		"uniques": ["[+100]% Strength",
 
-			    "[+30]% XP gained from combat"],
+			    "[+150]% XP gained from combat"],
 	},
 
 	{
@@ -69,102 +69,6 @@
 			
 			    "[+30]% XP gained from combat"],
 	},
-
-//Combat Pages
-
-	//Arbiter of The Head - Combat Pages
-	
-		{
-			"name": "Combat Page - Line",
-			"unitTypes": ["Arbitrarius Urbis"],
-			"uniques": ["No defensive terrain bonus",
-				    "No defensive terrain penalty",
-
-				    "This Promotion is free",
-				
-				    //Offensive Power
-				    "[+1000]% Strength <when attacking>",
-			  	    "[+100]% Strength <with [48]% chance> <when attacking>",
-			  	    "[+100]% Strength <with [49]% chance> <when attacking>",
-			 	    "[+100]% Strength <with [50]% chance> <when attacking>",
-			 	    "[+100]% Strength <with [51]% chance> <when attacking>",
-			 	    "[+100]% Strength <with [52]% chance> <when attacking>",
-
-				    //Defensive Power
-				    "[+400]% Strength <when defending>",
-			 	    "[+100]% Strength <with [50]% chance> <when defending>",
-
-				    //Dice Number
-				    "[1] additional attacks per turn",
-	
-				    "[4] Range",
-
-				    "[This Unit] loses the [Combat Page - Line] promotion <upon turn end>",
-				    "[This Unit] loses the [Combat Page - Line] promotion <upon damaging a [All] unit>",
-				    "[This Unit] loses the [Combat Page - Line] promotion <upon defeating a [All] unit>"],
-		},
-		{
-			"name": "Combat Page - Thick Line",
-			"unitTypes": ["Arbitrarius Urbis"],
-			"uniques": ["No defensive terrain bonus",
-				    "No defensive terrain penalty",
-				
-				    //Offensive Power
-				    "[+1400]% Strength <when attacking>",
-			  	    "[+100]% Strength <with [48]% chance> <when attacking>",
-			  	    "[+100]% Strength <with [49]% chance> <when attacking>",
-			 	    "[+100]% Strength <with [50]% chance> <when attacking>",
-			 	    "[+100]% Strength <with [51]% chance> <when attacking>",
-			 	    "[+100]% Strength <with [52]% chance> <when attacking>",
-
-				    //Dice Number
-				    "[1] additional attacks per turn",
-				
-				    "[5] Range",
-
-				    "[This Unit] loses the [Combat Page - Thick Line] promotion <upon turn end>",
-				    "[This Unit] loses the [Combat Page - Thick Line] promotion <upon damaging a [All] unit>",
-				    "[This Unit] loses the [Combat Page - Thick Line] promotion <upon defeating a [All] unit>"],
-		},
-		{
-			"name": "Combat Page - Thin Line",
-			"unitTypes": ["Arbitrarius Urbis"],
-			"uniques": ["No defensive terrain bonus",
-				    "No defensive terrain penalty",
-				
-				    //Offensive Power
-				    "[+600]% Strength <when attacking>",
-			  	    "[+100]% Strength <with [49]% chance> <when attacking>",
-			 	    "[+100]% Strength <with [50]% chance> <when attacking>",
-			 	    "[+100]% Strength <with [51]% chance> <when attacking>",
-
-				    //Dice Number
-				    "[1] additional attacks per turn",
-				
-				    "[3] Range",
-				
-				    "[This Unit] loses the [Combat Page - Thin Line] promotion <upon turn end>",
-				    "[This Unit] loses the [Combat Page - Thin Line] promotion <upon damaging a [All] unit>",
-				    "[This Unit] loses the [Combat Page - Thin Line] promotion <upon defeating a [All] unit>"],
-		},
-		{
-			"name": "Combat Page - Shockwave",
-			"unitTypes": ["Arbitrarius Urbis"],
-			"uniques": [//Offensive Dice - One
-				    "[+2600]% Strength <when attacking>",
-			  	    "[+100]% Strength <with [49]% chance> <when attacking>",
-			 	    "[+100]% Strength <with [50]% chance> <when attacking>",
-			 	    "[+100]% Strength <with [51]% chance> <when attacking>",
-				
-				    //Dice Number
-				    "[1] additional attacks per turn",
-	
-				    "[5] Range",
-
-				    "[This Unit] loses the [Combat Page - Shockwave] promotion <upon turn end>",
-				    "[This Unit] loses the [Combat Page - Shockwave] promotion <upon damaging a [All] unit>",
-				    "[This Unit] loses the [Combat Page - Shockwave] promotion <upon defeating a [All] unit>"],
-		},
 
 //Unit Buffs
 
@@ -191,20 +95,18 @@
 			"uniques": ["[-1]% Strength",
 			
 				    "[This Unit] takes [5] damage <upon losing at least [1] HP in a single attack>",
-				    "[This Unit] takes [5] damage <upon turn end>",
+				    "[This Unit] takes [10] damage <upon turn end>",
 				    "[This Unit] takes [5] damage <upon turn start>",
-				    "[This Unit] takes [5] damage <upon damaging a [All] unit>",
-			  	    "[This Unit] takes [5] damage <upon defeating a [All] unit>"],
+				    "[This Unit] takes [3] damage <upon damaging a [All] unit>",
+			  	    "[This Unit] takes [7] damage <upon defeating a [All] unit>"],
 		},
 		{
 			"name": "Bleed",
 			"uniques": ["[-1]% Strength",
 			
-				    "[This Unit] takes [5] damage <every [1] turns>",
 				    "[This Unit] takes [5] damage <upon turn end>",
-				    "[This Unit] takes [5] damage <upon turn start>",
-				    "[This Unit] takes [5] damage <upon damaging a [All] unit>",
-				    "[This Unit] takes [5] damage <upon defeating a [All] unit>"],
+				    "[This Unit] takes [1] damage <upon damaging a [All] unit>",
+				    "[This Unit] takes [3] damage <upon defeating a [All] unit>"],
 		},
 
 //Status Cooldowns
