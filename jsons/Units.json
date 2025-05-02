@@ -34,6 +34,10 @@
 			    "[+100]% Strength <with [51]% chance>",
 			
 			    "Withdraws before melee combat <with [4]% chance>",
+
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [30]% chance> <upon losing at least [50] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [20]% chance> <upon losing at least [25] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [10]% chance> <upon losing at least [10] HP in a single attack>",
 			
 			    "Remove [City Rat Deployment Contract] [in this city] <if [City Rat Deployment Contract] is constructed>"],
 	},
@@ -54,6 +58,10 @@
 			    "[+100]% Strength <with [51]% chance>",
 			
 			    "Withdraws before melee combat <with [8]% chance>",
+
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [30]% chance> <upon losing at least [50] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [20]% chance> <upon losing at least [25] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [10]% chance> <upon losing at least [10] HP in a single attack>",
 		
 		            "Remove [Fixer Deployment Contract - Grade 9] [in this city] <if [Fixer Deployment Contract - Grade 9] is constructed>"],
 	},
@@ -71,6 +79,10 @@
 			    "[+100]% Strength <with [51]% chance>",
 			                 
 			    "Withdraws before melee combat <with [12]% chance>",
+
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [30]% chance> <upon losing at least [50] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [20]% chance> <upon losing at least [25] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [10]% chance> <upon losing at least [10] HP in a single attack>",
 		
 			    "Remove [Fixer Deployment Contract - Grade 8] [in this city] <if [Fixer Deployment Contract - Grade 8] is constructed>"],
 	},
@@ -92,6 +104,10 @@
 			    "[+100]% Strength <with [51]% chance>",
 			
 			    "Withdraws before melee combat <with [16]% chance>",
+
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [30]% chance> <upon losing at least [50] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [20]% chance> <upon losing at least [25] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [10]% chance> <upon losing at least [10] HP in a single attack>",
 		
 			    "Remove [Fixer Deployment Contract - Grade 7] [in this city] <if [Fixer Deployment Contract - Grade 7] is constructed>"],
 	},
@@ -110,6 +126,10 @@
 			    "[+100]% Strength <with [51]% chance>",
 			
 			    "Withdraws before melee combat <with [20]% chance>",
+
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [30]% chance> <upon losing at least [50] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [20]% chance> <upon losing at least [25] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [10]% chance> <upon losing at least [10] HP in a single attack>",
 		
 			    "Remove [Fixer Deployment Contract - Grade 6] [in this city] <if [Fixer Deployment Contract - Grade 6] is constructed>"],
 	},
@@ -131,6 +151,10 @@
 			    "[+100]% Strength <with [51]% chance>",
 			
 			    "Withdraws before melee combat <with [24]% chance>",
+
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [30]% chance> <upon losing at least [50] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [20]% chance> <upon losing at least [25] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [10]% chance> <upon losing at least [10] HP in a single attack>",
 		
 			    "Remove [Fixer Deployment Contract - Grade 5] [in this city] <if [Fixer Deployment Contract - Grade 5] is constructed>"],
 	},
@@ -149,6 +173,10 @@
 			    "[+100]% Strength <with [51]% chance>",
 			
 			    "Withdraws before melee combat <with [28]% chance>",
+
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [30]% chance> <upon losing at least [50] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [20]% chance> <upon losing at least [25] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [10]% chance> <upon losing at least [10] HP in a single attack>",
 		
 			    "Remove [Fixer Deployment Contract - Grade 4] [in this city] <if [Fixer Deployment Contract - Grade 4] is constructed>"],
 	},
@@ -171,6 +199,10 @@
 			    "[+100]% Strength <with [52]% chance>",
 			  
 			    "Withdraws before melee combat <with [32]% chance>",
+
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [30]% chance> <upon losing at least [50] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [20]% chance> <upon losing at least [25] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [10]% chance> <upon losing at least [10] HP in a single attack>",
 		
 			    "Remove [Fixer Deployment Contract - Grade 3] [in this city] <if [Fixer Deployment Contract - Grade 3] is constructed>"],
 	},
@@ -191,6 +223,10 @@
 			    "[+100]% Strength <with [52]% chance>",
 
 			    "Withdraws before melee combat <with [36]% chance>",
+
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [30]% chance> <upon losing at least [50] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [20]% chance> <upon losing at least [25] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [10]% chance> <upon losing at least [10] HP in a single attack>",
 		
 			    "Remove [Fixer Deployment Contract - Grade 2] [in this city] <if [Fixer Deployment Contract - Grade 2] is constructed>"],
 	},
@@ -214,6 +250,10 @@
 			    "[+100]% Strength <with [52]% chance>",
 			
 			    "Withdraws before melee combat <with [40]% chance>",
+
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [30]% chance> <upon losing at least [50] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [20]% chance> <upon losing at least [25] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [10]% chance> <upon losing at least [10] HP in a single attack>",
 		
 			    "Remove [Fixer Deployment Contract - Grade 1] [in this city] <if [Fixer Deployment Contract - Grade 1] is constructed>"],
 	},
@@ -239,13 +279,17 @@
 			    "[+1000]% Strength <when defending>",
 			    "Withdraws before melee combat <with [40]% chance>",
 
-			    "[Target Unit] gains the [Bleed] status for [1] turn(s) <upon damaging a [All] unit>",
+			    "[Target Unit] gains the [Bleed] status for [10] turn(s) <upon damaging a [All] unit>",
 
 			    "[This Unit] heals [2] HP <upon losing at least [1] HP in a single attack>",
 			    "[This Unit] heals [2] HP <upon damaging a [All] unit>",
 			    "[This Unit] heals [2] HP <upon defeating a [All] unit>",
 			    "[This Unit] heals [2] HP <when attacking>",
 			    "[This Unit] heals [2] HP <when defending>",
+
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [30]% chance> <upon losing at least [50] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [20]% chance> <upon losing at least [25] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [10]% chance> <upon losing at least [10] HP in a single attack>",
 		
 			    "Remove [Color Fixer Deployment Contract - The RED Mist] [in this city] <upon being defeated> <if [Color Fixer Deployment Contract - The RED Mist] is constructed>"],
 	},
@@ -265,26 +309,31 @@
 		"cost": 1500,
 		"uniques": ["Limited to [1] per Civilization",
 
-			    "[+6400]% Strength",
+			    "[+4400]% Strength",
 			    "[+100]% Strength <with [48]% chance>",
 			    "[+100]% Strength <with [49]% chance>",
 			    "[+100]% Strength <with [50]% chance>",
 			    "[+100]% Strength <with [51]% chance>",
 			    "[+100]% Strength <with [52]% chance>",
 
-			    "[Target Unit] gains the [Fairy] status for [3] turn(s) <upon damaging a [All] unit>",
-			    "[This Unit] gains the [Shockwave] promotion <every [7] turns>",
-			    "[This Unit] gains the [Shockwave] promotion <every [1] turns> <with [20]% chance>",
-			    "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon damaging a [All] unit> <with [25]% chance>",
-			    "[This Unit] gains the [Shockwave] promotion <every [1] turns> <upon defeating a [All] unit> <with [30]% chance>",
+			    "[Target Unit] gains the [Fairy] status for [5] turn(s) <upon damaging a [All] unit>",
 
-			    "[This Unit] heals [3] HP <upon losing at least [1] HP in a single attack>",
-			    "[This Unit] heals [3] HP <upon damaging a [All] unit>",
-			    "[This Unit] heals [3] HP <upon defeating a [All] unit>",
-			    "[This Unit] heals [3] HP <when attacking>",
-			    "[This Unit] heals [3] HP <when defending>",
+			    "[This Unit] heals [1] HP <upon turn end> <when below [100] HP>",
+			    "[This Unit] heals [3] HP <upon turn end> <when below [90] HP>",
+			    "[This Unit] heals [6] HP <upon turn end> <when below [80] HP>",
+			    "[This Unit] heals [10] HP <upon turn end> <when below [70] HP>",
+			    "[This Unit] heals [15] HP <upon turn end> <when below [60] HP>",
+			    "[This Unit] heals [21] HP <upon turn end> <when below [50] HP>",
+			    "[This Unit] heals [28] HP <upon turn end> <when below [40] HP>",
+			    "[This Unit] heals [35] HP <upon turn end> <when below [30] HP>",
+			    "[This Unit] heals [43] HP <upon turn end> <when below [20] HP>",
+			    "[This Unit] heals [51] HP <upon turn end> <when below [10] HP>",
 
-			    "[2] Sight"],
+			    "[2] Sight",
+
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [30]% chance> <upon losing at least [50] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [20]% chance> <upon losing at least [25] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [10]% chance> <upon losing at least [10] HP in a single attack>"],
 	},
 	{
 		"name": "Beholder of The Eye",
@@ -314,9 +363,22 @@
 			    "[+100]% Strength <with [51]% chance>",
 			    "[+100]% Strength <with [52]% chance>",
 
-			    "[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack>",
+			    "[This Unit] heals [1] HP <upon turn end> <when below [100] HP>",
+			    "[This Unit] heals [3] HP <upon turn end> <when below [90] HP>",
+			    "[This Unit] heals [6] HP <upon turn end> <when below [80] HP>",
+			    "[This Unit] heals [10] HP <upon turn end> <when below [70] HP>",
+			    "[This Unit] heals [15] HP <upon turn end> <when below [60] HP>",
+			    "[This Unit] heals [21] HP <upon turn end> <when below [50] HP>",
+			    "[This Unit] heals [28] HP <upon turn end> <when below [40] HP>",
+			    "[This Unit] heals [35] HP <upon turn end> <when below [30] HP>",
+			    "[This Unit] heals [43] HP <upon turn end> <when below [20] HP>",
+			    "[This Unit] heals [51] HP <upon turn end> <when below [10] HP>",
 
-		            "[2] Sight"],
+		            "[2] Sight",
+
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [30]% chance> <upon losing at least [50] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [20]% chance> <upon losing at least [25] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [10]% chance> <upon losing at least [10] HP in a single attack>"],
 	},
 	{
 		"name": "Claw Executioner",
@@ -340,10 +402,19 @@
 
 			    "[+1000]% Strength <when defending>",
 
-			    "[This Unit] heals [5] HP <upon losing at least [1] HP in a single attack>",
-			    "[This Unit] heals [5] HP <upon damaging a [All] unit>",
-			    "[This Unit] heals [5] HP <upon defeating a [All] unit>",
-			    "[This Unit] heals [5] HP <when attacking>",
-			    "[This Unit] heals [5] HP <when defending>"],
+			    "[This Unit] heals [1] HP <upon turn end> <when below [100] HP>",
+			    "[This Unit] heals [3] HP <upon turn end> <when below [90] HP>",
+			    "[This Unit] heals [6] HP <upon turn end> <when below [80] HP>",
+			    "[This Unit] heals [10] HP <upon turn end> <when below [70] HP>",
+			    "[This Unit] heals [15] HP <upon turn end> <when below [60] HP>",
+			    "[This Unit] heals [21] HP <upon turn end> <when below [50] HP>",
+			    "[This Unit] heals [28] HP <upon turn end> <when below [40] HP>",
+			    "[This Unit] heals [35] HP <upon turn end> <when below [30] HP>",
+			    "[This Unit] heals [43] HP <upon turn end> <when below [20] HP>",
+			    "[This Unit] heals [51] HP <upon turn end> <when below [10] HP>",
+			
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [30]% chance> <upon losing at least [50] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [20]% chance> <upon losing at least [25] HP in a single attack>",
+			    "[This Unit] gains the [Staggered] status for [1] turn(s) <with [10]% chance> <upon losing at least [10] HP in a single attack>"],
 	}
 ]
