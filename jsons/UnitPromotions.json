@@ -85,7 +85,9 @@
 				    "No Sight",
 				    "No defensive terrain bonus",
 				    "Unable to capture cities",
-				    "Unable to pillage tiles"],
+				    "Unable to pillage tiles",
+			
+			            "[This Unit] loses the [Staggered] promotion <upon turn end>"],
 		},
 
 	//Enemy Units
