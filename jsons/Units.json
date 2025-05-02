@@ -344,6 +344,6 @@
 			    "[This Unit] heals [5] HP <upon damaging a [All] unit>",
 			    "[This Unit] heals [5] HP <upon defeating a [All] unit>",
 			    "[This Unit] heals [5] HP <when attacking>",
-			    "[This Unit] heals [5] HP <when defending>",],
+			    "[This Unit] heals [5] HP <when defending>"],
 	}
 ]
