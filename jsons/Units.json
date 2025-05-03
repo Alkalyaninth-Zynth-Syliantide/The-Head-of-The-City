@@ -421,5 +421,136 @@
 	//Cannon Ammunition
 
 	{
+		"name": "25mm Cannon Round",
+		"unitType": "Bombshell",
+		"uniqueTo": "The City",
+		"movement": 0,
+		"strength": 10,
+		"rangedStrength": 10,
+		"range": 100,
+		"uniques": ["Limited to [30] per Civilization",
+
+			    "[-100]% maintenance costs"],
+	},
+	{
+		"name": "50mm Cannon Round",
+		"unitType": "Bombshell",
+		"uniqueTo": "The City",
+		"movement": 0,
+		"strength": 12,
+		"rangedStrength": 12,
+		"range": 97,
+		"uniques": ["Limited to [27] per Civilization",
+
+			    "[-98]% maintenance costs"],
+	},
+	{
+		"name": "80mm Cannon Round",
+		"unitType": "Bombshell",
+		"uniqueTo": "The City",
+		"movement": 0,
+		"strength": 15,
+		"rangedStrength": 15,
+		"range": 93,
+		"uniques": ["Limited to [25] per Civilization",
+
+			    "[-95]% maintenance costs"],
+	},
+	{
+		"name": "135mm Cannon Round",
+		"unitType": "Bombshell",
+		"uniqueTo": "The City",
+		"movement": 0,
+		"strength": 23,
+		"rangedStrength": 23,
+		"range": 90,
+		"uniques": ["Limited to [20] per Civilization",
+
+			    "[-90]% maintenance costs"],
+	},
+	{
+		"name": "205mm Cannon Round",
+		"unitType": "Bombshell",
+		"uniqueTo": "The City",
+		"movement": 0,
+		"strength": 30,
+		"rangedStrength": 30,
+		"range": 87,
+		"uniques": ["Limited to [16] per Civilization",
+
+			    "[-80]% maintenance costs"],
+	},
+	{
+		"name": "370mm Cannon Round",
+		"unitType": "Bombshell",
+		"uniqueTo": "The City",
+		"movement": 0,
+		"strength": 37,
+		"rangedStrength": 37,
+		"range": 85,
+		"uniques": ["Limited to [12] per Civilization",
+
+			    "[-65]% maintenance costs"],
+	},
+	{
+		"name": "500mm Cannon Round",
+		"unitType": "Bombshell",
+		"uniqueTo": "The City",
+		"movement": 0,
+		"strength": 45,
+		"rangedStrength": 45,
+		"range": 83,
+		"uniques": ["Limited to [7] per Civilization",
+
+			    "[-33]% maintenance costs"],
+	},
+	{
+		"name": "835mm Cannon Round",
+		"unitType": "Bombshell",
+		"uniqueTo": "The City",
+		"movement": 0,
+		"strength": 55,
+		"rangedStrength": 55,
+		"range": 81,
+		"uniques": ["Limited to [5] per Civilization",
+
+			    "[-25]% maintenance costs"],
+	},
+	{
+		"name": "1075mm Cannon Round",
+		"unitType": "Bombshell",
+		"uniqueTo": "The City",
+		"movement": 0,
+		"strength": 75,
+		"rangedStrength": 75,
+		"range": 79,
+		"uniques": ["Limited to [3] per Civilization",
+
+			    "[-10]% maintenance costs"],
+	},
+	{
+		"name": "2250mm Cannon Round",
+		"unitType": "Bombshell",
+		"uniqueTo": "The City",
+		"movement": 0,
+		"strength": 100,
+		"rangedStrength": 100,
+		"range": 78,
+		"uniques": ["Limited to [2] per Civilization",
+
+			    "[-5]% maintenance costs"],
+	},
+	{
+		"name": "3777mm Cannon Round",
+		"unitType": "Bombshell",
+		"uniqueTo": "The City",
+		"movement": 0,
+		"strength": 777,
+		"rangedStrength": 777,
+		"range": 77,
+		"uniques": ["Limited to [1] per Civilization",
+
+			    "Nuclear weapon of Strength [5]",
+			    "Blast radius [1]"],
 	}
 ]
